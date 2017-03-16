@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="12405" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="ActiveReport2.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="2895" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Image" Name="pictLogo" MOD="4" Left="270" Top="0" Width="1980" Height="1260" LineStyle="1" LineWeight="2" HyperLink="" />
+      <Control Type="AR.Label" Name="lblReportHeader" MOD="4" Left="990" Top="180" Width="8640" Height="1260" Caption="lblReportHeader" Style="text-align: center; font-weight: bold; font-size: 14.25pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblReportHeader2" MOD="4" Left="90" Top="1440" Width="9630" Height="360" Caption="lblReportHeader2" Style="text-align: center; font-weight: bold; font-size: 11pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblReportHeader3" MOD="4" Left="90" Top="1890" Width="6210" Height="630" Caption="lblReportHeader3" Style="text-align: left; font-weight: normal; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Label" Name="lblReportHeader4" MOD="4" Left="6390" Top="1890" Width="5130" Height="630" Caption="lblReportHeader4" Style="text-align: left; font-weight: normal; font-size: 9.75pt; font-family: Tahoma; " />
+      <Control Type="AR.Line" Name="ReportHeaderLine" MOD="4" X1="0" Y1="2610" X2="9540" Y2="2610" LineWeight="2" />
+    </Section>
+    <Section Type="PageHeader" Name="PageHeader" Height="419" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblPageHeader" MOD="4" Left="345" Top="0" Width="12615" Height="360" Caption="lblPageHeader" Style="text-align: center; font-weight: bold; font-size: 12pt; font-family: Tahoma; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GrpHdrWorkCondition" Height="720" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblWavelengrh" Tag="1" MOD="4" Left="1620" Top="90" Width="1710" Height="630" Caption="Wavelength" Style="text-align: justify; font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblSpectalBandpass" Tag="3" MOD="4" Left="4230" Top="90" Width="1890" Height="630" Caption="Spectral Bandpass" Style="text-align: center; font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblWorkingRange" Tag="4" MOD="4" Left="6390" Top="90" Width="2160" Height="630" Caption="Optimum Working Range (mg/L)" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GrpHdrDatafile" Height="1170" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="TxtLable1" Tag="1" MOD="4" Left="630" Top="540" Width="2070" Height="540" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Txt1" Tag="3" MOD="4" Left="3150" Top="540" Width="3060" Height="540" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="TxtLable2" Tag="1" MOD="4" Left="6300" Top="540" Width="2160" Height="540" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Txt2" Tag="3" MOD="4" Left="8640" Top="540" Width="2700" Height="540" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblHeader" Tag="3" MOD="4" Left="360" Top="0" Width="3870" Height="450" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 11.25pt; vertical-align: middle; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GrpHdrDatafileTable" Height="540" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Tablelbl1" Tag="1" MOD="4" Left="480" Top="0" Width="1710" Height="540" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Tablelbl2" Tag="3" MOD="4" Left="2280" Top="0" Width="1170" Height="540" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Tablelbl3" Tag="1" MOD="4" Left="3540" Top="0" Width="990" Height="540" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Tablelbl4" Tag="3" MOD="4" Left="4620" Top="0" Width="1170" Height="540" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Tablelbl5" Tag="1" MOD="4" Left="5880" Top="0" Width="1080" Height="540" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Tablelbl6" Tag="3" MOD="4" Left="6990" Top="0" Width="1170" Height="540" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Tablelbl7" Tag="1" MOD="4" Left="8190" Top="0" Width="1080" Height="540" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label5" Visible="0" Tag="1" MOD="4" Left="11610" Top="0" Width="540" Height="540" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GrpHdrStadGraph" Height="1018" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="StadGraphLbl1" Tag="1" MOD="4" Left="360" Top="450" Width="2160" Height="540" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="StadGraphLbl2" Tag="3" MOD="4" Left="2520" Top="450" Width="1620" Height="540" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="StadGraphLbl3" Tag="1" MOD="4" Left="4230" Top="450" Width="1440" Height="540" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="StadGraphLbl4" Tag="3" MOD="4" Left="5670" Top="450" Width="1620" Height="540" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Label6" Tag="3" MOD="4" Left="360" Top="0" Width="3510" Height="450" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 11.25pt; vertical-align: middle; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GrpHdrSpectrum" Height="1920" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblHdrSpectrum" Tag="3" MOD="4" Left="450" Top="990" Width="3870" Height="360" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 11.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblCol1" Tag="1" MOD="4" Left="720" Top="1440" Width="2070" Height="450" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblCol2" Tag="3" MOD="4" Left="3240" Top="1440" Width="3060" Height="450" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblCol3" Tag="1" MOD="4" Left="6390" Top="1440" Width="2430" Height="450" Caption="Wavelength" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblCol4" Tag="3" MOD="4" Left="8730" Top="1440" Width="2790" Height="450" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblHdrSpectrum1" Tag="1" MOD="4" Left="4050" Top="90" Width="3060" Height="360" Caption="Wavelength" Style="text-align: center; font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblHdrSpectrum2" Tag="1" MOD="4" Left="4050" Top="540" Width="3060" Height="360" Caption="Wavelength" Style="text-align: center; font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GrpHdrPeakValley" Height="1140" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblSerNo1" Tag="2" MOD="4" Left="1800" Top="540" Width="990" Height="540" Caption="lblSerNo1" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="LblWv1" Tag="3" MOD="4" Left="3060" Top="540" Width="1080" Height="540" Caption="LblWv1" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblPeak1" Tag="4" MOD="4" Left="4410" Top="540" Width="1080" Height="540" Caption="lblPeak" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblSerNo2" Tag="5" MOD="4" Left="5850" Top="540" Width="990" Height="540" Caption="lblSerNo2" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="LblWv2" Tag="6" MOD="4" Left="6930" Top="540" Width="1170" Height="540" Caption="LblWv2" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblValley1" Tag="6" MOD="4" Left="8280" Top="540" Width="1260" Height="540" Caption="lblValley1" Style="font-weight: normal; font-size: 9.75pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblHdrPeakValley1" Tag="1" MOD="4" Left="540" Top="90" Width="3870" Height="360" Caption="Spectral Bandpass" Style="font-weight: bold; font-size: 11.25pt; vertical-align: middle; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GrpHdrRepeatResults" Height="1994" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="TxtStdSamp" Tag="2" MOD="4" Left="720" Top="180" Width="1260" Height="270" Caption="Std Samp" Style="font-weight: normal; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="StdSampName" Tag="2" MOD="4" Left="720" Top="450" Width="1080" Height="270" Caption="Std Samp " Style="font-weight: normal; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="TxtStdSampName" Tag="2" MOD="4" Left="2070" Top="450" Width="1350" Height="270" Caption="Std Samp " Style="font-weight: normal; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Abso" Tag="2" MOD="4" Left="720" Top="810" Width="1080" Height="270" Caption="Std Samp" Style="font-weight: normal; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="TxtAbso" Tag="2" MOD="4" Left="2070" Top="810" Width="8010" Height="270" Caption="Std Samp" Style="font-weight: normal; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="Conc" Tag="2" MOD="4" Left="720" Top="1170" Width="1080" Height="270" Caption="Std Samp" Style="text-align: left; font-weight: normal; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="TxtConc" Tag="2" MOD="4" Left="2070" Top="1170" Width="8010" Height="270" Caption="Std Samp" Style="font-weight: normal; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblDtlInfo" Tag="2" MOD="4" Left="2070" Top="1530" Width="2070" Height="270" Caption="Std Samp" Style="text-align: left; font-weight: normal; font-size: 8.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="TxtDtlInfo" Tag="2" MOD="4" Left="4230" Top="1530" Width="2070" Height="270" Caption="Std Samp" Style="text-align: left; font-weight: normal; font-size: 8.25pt; vertical-align: middle; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="13050" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Shape" Name="FlameShape" MOD="4" Left="360" Top="11160" Width="10710" Height="1530" BackColor="16777215" />
+      <Control Type="AR.Label" Name="lblHeader1" MOD="4" Left="360" Top="810" Width="8820" Height="360" Caption="lblHeader1" Style="font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Label" Name="lblElement" MOD="4" Left="360" Top="180" Width="2970" Height="450" Caption="lblElement" Style="color: Black; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Label" Name="lblAtWt" MOD="4" Left="6840" Top="180" Width="2970" Height="450" Caption="lblAtWt" Style="color: Black; font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Label" Name="lblHeader2" MOD="4" Left="360" Top="1350" Width="5490" Height="360" Caption="lblHeader2" Style="font-weight: bold; font-size: 11.25pt; " />
+      <Control Type="AR.Label" Name="Label1" MOD="4" Left="360" Top="1890" Width="9630" Height="810" Caption="Label1" />
+      <Control Type="AR.Label" Name="lblHeader3" MOD="4" Left="360" Top="2880" Width="4050" Height="360" Caption="lblHeader3" Style="font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="360" Top="3420" Width="10260" Height="1080" Caption="Label3" />
+      <Control Type="AR.Label" Name="lblHeader4" MOD="4" Left="360" Top="4680" Width="6390" Height="360" Caption="lblHeader4" Style="font-weight: bold; font-size: 12pt; " />
+      <Control Type="AR.Label" Name="lblHeader5" MOD="4" Left="360" Top="5130" Width="2340" Height="360" Caption="lblHeader5" Style="font-weight: bold; font-size: 11.25pt; " />
+      <Control Type="AR.Label" Name="lblLampCurr" MOD="4" Left="360" Top="5670" Width="2520" Height="360" Caption="lblLampCurr" />
+      <Control Type="AR.Label" Name="lblSupport" MOD="4" Left="360" Top="6030" Width="2520" Height="360" Caption="lblSupport" />
+      <Control Type="AR.Label" Name="lblFuel" MOD="4" Left="5310" Top="5670" Width="2520" Height="360" Caption="lblFuel" />
+      <Control Type="AR.Label" Name="lblFlameSto" MOD="4" Left="5310" Top="6030" Width="2520" Height="360" Caption="lblFlameSto" />
+      <Control Type="AR.Label" Name="lblLampCurrVal" MOD="4" Left="2970" Top="5670" Width="2070" Height="360" Caption="lblLampCurrVal" />
+      <Control Type="AR.Label" Name="lblSupportVal" MOD="4" Left="2970" Top="6030" Width="2070" Height="360" Caption="lblSupportVal" />
+      <Control Type="AR.Label" Name="lblFuelVal" MOD="4" Left="8190" Top="5670" Width="2070" Height="360" Caption="lblFuelVal" />
+      <Control Type="AR.Label" Name="lblFlameStoVal" MOD="4" Left="8190" Top="6030" Width="2070" Height="360" Caption="lblFlameStoVal" />
+      <Control Type="AR.Label" Name="lblHeader6" MOD="4" Left="540" Top="11430" Width="2520" Height="360" Caption="lblHeader6" Style="font-weight: bold; font-size: 11.25pt; " />
+      <Control Type="AR.Label" Name="Label4" MOD="4" Left="540" Top="12150" Width="9900" Height="720" Caption="Label4" />
+      <Control Type="AR.Label" Name="lblWorking" MOD="4" Left="4680" Top="5130" Width="1170" Height="450" Caption="lblWorking" Style="vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblWorking1" MOD="4" Left="4680" Top="6570" Width="1170" Height="450" Caption="lblWorking1" Style="vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblWavelength" MOD="4" Left="2160" Top="7110" Width="1980" Height="450" Caption="lblWavelength" Style="vertical-align: top; " />
+      <Control Type="AR.Label" Name="lblSpectral" MOD="4" Left="4410" Top="7110" Width="1710" Height="450" Caption="lblSpectral" />
+      <Control Type="AR.Label" Name="lblOptimumWorkingRange" MOD="4" Left="6300" Top="7110" Width="2520" Height="450" Caption="lblOptimumWorkingRange" />
+      <Control Type="AR.Label" Name="lblFlame" MOD="4" Left="360" Top="8910" Width="2070" Height="540" Caption="lblFlame" Style="font-weight: bold; font-size: 11.25pt; vertical-align: middle; " />
+      <Control Type="AR.Label" Name="lblWavelength1" MOD="4" Left="2430" Top="9450" Width="1080" Height="450" Caption="lblWavelength1" />
+      <Control Type="AR.Label" Name="lblNote" MOD="4" Left="360" Top="8280" Width="810" Height="450" Caption="lblNote :" />
+      <Control Type="AR.Label" Name="lblNoteVal" MOD="4" Left="1440" Top="8280" Width="9270" Height="450" Caption="lblNoteVal" />
+      <Control Type="AR.Label" Name="lblWavelength1Val" MOD="4" Left="3690" Top="9450" Width="1440" Height="450" Caption="lblWavelength1Val" />
+      <Control Type="AR.Label" Name="lblBandwidth" MOD="4" Left="6210" Top="9450" Width="1260" Height="450" Caption="lblBandwidth" />
+      <Control Type="AR.Label" Name="lblBandwidthVal" MOD="4" Left="7650" Top="9450" Width="1350" Height="450" Caption="lblBandwidthVal" />
+      <Control Type="AR.Label" Name="lblFuel1" MOD="4" Left="2430" Top="10080" Width="1080" Height="450" Caption="lblFuel1" />
+      <Control Type="AR.Label" Name="lblFuel1Val" MOD="4" Left="3690" Top="10080" Width="1440" Height="450" Caption="lblFuel1Val" />
+      <Control Type="AR.Label" Name="lblSupport1" MOD="4" Left="6210" Top="10080" Width="1260" Height="450" Caption="lblSupport1" />
+      <Control Type="AR.Label" Name="lblSupport1Val" MOD="4" Left="7650" Top="10080" Width="1980" Height="450" Caption="lblSupport1Val" />
+      <Control Type="AR.Label" Name="lblNote1" MOD="4" Left="360" Top="10620" Width="990" Height="450" Caption="lblNote1" />
+      <Control Type="AR.Label" Name="lblNote1Val" MOD="4" Left="1530" Top="10620" Width="9540" Height="450" Caption="lblNote1Val" />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter8" Height="360" BackColor="16777215" CanShrink="0" />
+    <Section Type="GroupFooter" Name="GroupFooter6" Height="360" BackColor="16777215" CanShrink="0" />
+    <Section Type="GroupFooter" Name="GroupFooter5" Height="360" BackColor="16777215" CanShrink="0" />
+    <Section Type="GroupFooter" Name="GroupFooter4" Height="360" BackColor="16777215" CanShrink="0" />
+    <Section Type="GroupFooter" Name="GroupFooter3" Height="360" BackColor="16777215" CanShrink="0" />
+    <Section Type="GroupFooter" Name="GroupFooter2" Height="360" BackColor="16777215" CanShrink="0" />
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="450" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="570" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblPageFooter" MOD="4" Left="240" Top="0" Width="3780" Height="360" Caption="Printed On: Saturday 19, February 2005" />
+      <Control Type="AR.Label" Name="lblPageNo" MOD="4" Left="4020" Top="0" Width="2070" Height="360" Caption="Page No.: 999" Style="text-align: right; font-size: 9.75pt; " />
+      <Control Type="AR.Line" Name="PageFooterLine" MOD="4" X1="0" Y1="540" X2="9450" Y2="540" LineWeight="2" />
+    </Section>
+    <Section Type="ReportFooter" Name="ReportFooter" Height="675" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblReportFooter" MOD="4" Left="270" Top="90" Width="11295" Height="540" Caption="Report Footer Text" />
+      <Control Type="AR.Line" Name="ReportFooterLine" MOD="4" X1="0" Y1="20.16" X2="9450.721" Y2="20" LineWeight="2" />
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

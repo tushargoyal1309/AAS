@@ -1,0 +1,60 @@
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\bin\Debug\AldysGraph.dll
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\bin\Debug\AldysGraph.pdb
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\bin\Debug\NETXP.Controls.dll
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\bin\Debug\NETXP.Library.dll
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\bin\Debug\NETXP.Win32.dll
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\bin\Debug\PeakSymbol.dll
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.AldysGraph.resources
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.PointInfo.frmPointInfo.resources
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csproj.GenerateResource.Cache
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.dll
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.pdb
+C:\Users\Manoj\Desktop\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\AldysGraph.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\AldysGraph.pdb
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\NETXP.Controls.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\NETXP.Library.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\NETXP.Win32.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\PeakSymbol.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.AldysGraph.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.PointInfo.frmPointInfo.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csproj.GenerateResource.Cache
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.pdb
+C:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\AldysGraph.dll
+C:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\AldysGraph.pdb
+C:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\NETXP.Controls.dll
+C:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\NETXP.Library.dll
+C:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\NETXP.Win32.dll
+C:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\PeakSymbol.dll
+C:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csprojResolveAssemblyReference.cache
+C:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.AldysGraph.resources
+C:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.PointInfo.frmPointInfo.resources
+C:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csproj.GenerateResource.Cache
+C:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.dll
+C:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.pdb
+D:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\AldysGraph.dll
+D:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\AldysGraph.pdb
+D:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\NETXP.Controls.dll
+D:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\NETXP.Library.dll
+D:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\NETXP.Win32.dll
+D:\AA203 7.0\AA203 7.0\AldysGraph\bin\Debug\PeakSymbol.dll
+D:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csprojResolveAssemblyReference.cache
+D:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.AldysGraph.resources
+D:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.PointInfo.frmPointInfo.resources
+D:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csproj.GenerateResource.Cache
+D:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.dll
+D:\AA203 7.0\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\bin\Debug\AldysGraph.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\bin\Debug\AldysGraph.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\bin\Debug\NETXP.Controls.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\bin\Debug\NETXP.Library.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\bin\Debug\NETXP.Win32.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\bin\Debug\PeakSymbol.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.AldysGraph.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.PointInfo.frmPointInfo.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csproj.GenerateResource.Cache
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.pdb

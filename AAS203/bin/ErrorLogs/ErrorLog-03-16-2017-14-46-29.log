@@ -1,0 +1,33 @@
+***************************************************************
+Error Occured at : 14:46:41
+***************************************************************
+Process Name = 
+Error Derscription = Conversion from type 'DBNull' to type 'String' is not valid.
+Error Message = Error in Saving Customer Representative Records.
+Error Source = [Mod:C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\Forms\frmMDIMain.vb]
+[Function Name:mnuIQOQPQ_Click]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\Forms\frmMDIMain.vb
+  <Procedure - (0)  :mnuIQOQPQ_Click>
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\Modules\modMain.vb
+  <Procedure - (1)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 5.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

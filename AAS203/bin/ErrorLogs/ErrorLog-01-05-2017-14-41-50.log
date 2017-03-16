@@ -1,0 +1,29 @@
+***************************************************************
+Error Occured at : 14:42:39
+***************************************************************
+Process Name = 
+Error Derscription = The type initializer for 'CrystalDecisions.CrystalReports.Engine.ReportDocument' threw an exception.
+Error Message = The type initializer for 'CrystalDecisions.CrystalReports.Engine.ReportDocument' threw an exception.
+Error Source = [Mod:]
+[Function Name:]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 5.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

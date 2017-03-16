@@ -1,0 +1,552 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IQOQPQ
+</name>
+</assembly>
+<members>
+<member name="T:IQOQPQ.dtsetExportAll">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.EquipmentListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.CustomerDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.CompletedAcceptedBYDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.IQManualListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.DeficiencyCorrectiveActionPlanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.ManufacturerRepresentativeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.IQAccessoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.CustomerRepresentativeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.IQSpecificationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQCompletedAcceptedByDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQDeficiencyCorrectiveActionPlanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQEquipmentListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQManufacturerRepresentativeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQTestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQUserTrainingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQUserDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQCustomerRepresentativeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQCompletedAcceptedByDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQCustomerRepresentativeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQDeficiencyCorrectiveActionPlanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQEquipmentListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQManufacturerRepresentativeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.TestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest5DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest4DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest6DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest7DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest8DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest9DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest10DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest11DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.EquipmentListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.CustomerDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.CompletedAcceptedBYRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.IQManualListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.DeficiencyCorrectiveActionPlanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.ManufacturerRepresentativeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.IQAccessoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.CustomerRepresentativeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.IQSpecificationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQCompletedAcceptedByRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQDeficiencyCorrectiveActionPlanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQEquipmentListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQManufacturerRepresentativeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQTestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQUserTrainingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQUserRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQCustomerRepresentativeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQCompletedAcceptedByRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQCustomerRepresentativeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQDeficiencyCorrectiveActionPlanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQEquipmentListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQManufacturerRepresentativeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.TestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest5Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest4Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest6Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest7Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest8Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest9Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest10Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest11Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.EquipmentListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.CustomerDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.CompletedAcceptedBYRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.IQManualListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.DeficiencyCorrectiveActionPlanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.ManufacturerRepresentativeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.IQAccessoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.CustomerRepresentativeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.IQSpecificationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQCompletedAcceptedByRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQDeficiencyCorrectiveActionPlanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQEquipmentListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQManufacturerRepresentativeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQTestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQUserTrainingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQUserRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.OQCustomerRepresentativeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQCompletedAcceptedByRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQCustomerRepresentativeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQDeficiencyCorrectiveActionPlanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQEquipmentListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQManufacturerRepresentativeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.TestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest5RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest4RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest6RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest7RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest8RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest9RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest10RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:IQOQPQ.dtsetExportAll.PQTest11RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="M:IQOQPQ.frmextra.subCreateDataTable">
+Private Sub CmbBox_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs)
+    DataGrid1(DataGrid1.CurrentCell.RowNumber, DataGrid1.CurrentCell.ColumnNumber) = mobjCmbBox.Text
+End Sub
+</member>
+<member name="T:IQOQPQ.frmMDI">
+Imports CrystalDecisions.CrystalReports.Engine
+Imports CrystalDecisions.Shared
+</member>
+<member name="M:IQOQPQ.mGeneralFunctions.mfuncAceptNumeric(System.Windows.Forms.RichTextBox@,System.Windows.Forms.KeyEventArgs)">
+    Catch ex As Exception
+        '---------------------------------------------------------
+        'Error Handling and logging
+        gobjErrorHandler.ErrorDescription = ex.Message
+        gobjErrorHandler.ErrorMessage = ex.Message
+        gobjErrorHandler.ProcessError(EnumErrorType.Critical, ex)
+        '---------------------------------------------------------
+    Finally
+        '---------------------------------------------------------
+        'Writing Execution log
+        If CONST_CREATE_EXECUTION_LOG = 1 Then
+            gobjErrorHandler.WriteExecutionLog()
+        End If
+        '---------------------------------------------------------
+    End Try
+End Sub
+</member>
+</members>
+</doc>

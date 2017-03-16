@@ -1,0 +1,48 @@
+<VisualStudioProject>
+    <VisualBasic LastOpenVersion = "7.10.3077" >
+        <Build>
+            <Settings ReferencePath = "D:\ALDYS\Development\AAS203\Sachin\AAS203\AAS203\Dll\;D:\ALDYS\Development\AAS203\Sachin\AAS203\AAS203\Dll\Office2003\;E:\AA203D June-2008\AAS203-13.06.08-Ver. 4.1\AAS203\AAS203\Dll\;E:\AAS203\AAS203\Dll\;E:\AAS203\AAS203\Dll\Office2003\;F:\AAS4.5\AAS203\Dll\;F:\AAS4.5\AAS203\Dll\Office2003\;D:\Software\AAS4.6 08.01.09\AAS203\Dll\;D:\Software\AAS4.6 08.01.09\AAS203\Dll\Office2003\;D:\Software\AAS4.6 08.01.09\AAS4.6 08.01.09\AAS203\Dll\;D:\Software\AAS4.6 08.01.09\AAS4.6 08.01.09\AAS203\Dll\Office2003\;D:\Software\AAS 4.7\AAS4.7 08.01.09\AAS203\Dll\;D:\Software\AAS 4.7\AAS4.7 08.01.09\AAS203\Dll\Office2003\;D:\Software\AAS 4.8\AAS4.7 08.01.09\AAS203\Dll\;D:\Software\AAS 4.8\AAS4.7 08.01.09\AAS203\Dll\Office2003\;D:\Software\AAS 4.81\AAS4.7 08.01.09\AAS203\Dll\;D:\Software\AAS 4.81\AAS4.7 08.01.09\AAS203\Dll\Office2003\;D:\Software\AA203\AAS203\Dll\;D:\Software\AA203\AAS203\Dll\Office2003\;D:\Software\AA203 7.0\AAS203\Dll\;D:\Software\AA203 7.0\AAS203\Dll\Office2003\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+    </VisualBasic>
+</VisualStudioProject>
+

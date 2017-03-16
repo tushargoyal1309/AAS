@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AAS203Library", "AAS203Library.vbproj", "{9967645F-BB20-443A-8CB4-B8F5F689015E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9967645F-BB20-443A-8CB4-B8F5F689015E}.Debug.ActiveCfg = Debug|.NET
+		{9967645F-BB20-443A-8CB4-B8F5F689015E}.Debug.Build.0 = Debug|.NET
+		{9967645F-BB20-443A-8CB4-B8F5F689015E}.Release.ActiveCfg = Release|.NET
+		{9967645F-BB20-443A-8CB4-B8F5F689015E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

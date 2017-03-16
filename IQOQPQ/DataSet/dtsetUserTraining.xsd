@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dtsetUserTraining" targetNamespace="http://tempuri.org/dtsetUserTraining.xsd"
+	elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dtsetUserTraining.xsd"
+	xmlns:mstns="http://tempuri.org/dtsetUserTraining.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dtsetUserTraining" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="OQUserTraining">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TrainingID" type="xs:int" />
+							<xs:element name="TrainingType" type="xs:string" minOccurs="0" />
+							<xs:element name="TrainingGiven" type="xs:string" minOccurs="0" />
+							<xs:element name="TrainingComments" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OQUser">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="UserID" type="xs:int" />
+							<xs:element name="UserName" type="xs:string" minOccurs="0" />
+							<xs:element name="UserDate" type="xs:dateTime" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="dtsetUserTrainingKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OQUserTraining" />
+			<xs:field xpath="mstns:TrainingID" />
+		</xs:unique>
+		<xs:unique name="dtsetUserTrainingKey2" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OQUser" />
+			<xs:field xpath="mstns:UserID" />
+		</xs:unique>
+	</xs:element>
+</xs:schema>

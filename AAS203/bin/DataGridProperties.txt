@@ -1,0 +1,12 @@
+AllowSorting = False
+AlternatingBackColor = White
+BackColor = White
+HeaderBackColor = WhiteSmoke
+HeaderForeColor =  Black
+ReadOnly = False
+RowHeadersVisible = False
+SelectionBackColor = Linen
+SelectionForeColor = Black
+GridLineColor =  LightSteelBlue
+ForeColor =  Black
+ColumnHeadersVisible = True

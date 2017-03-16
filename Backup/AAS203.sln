@@ -1,0 +1,149 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AAS203", "AAS203\AAS203.vbproj", "{6485C75D-6601-44A6-B475-1C66BA69B432}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IQOQPQ", "IQOQPQ\IQOQPQ.vbproj", "{86B8821F-30AA-4933-89D6-43B4B355A98C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GridLayoutPanel", "GridLayoutPanel\GridLayoutPanel.vbproj", "{30FEF150-6F1B-4B78-B0CF-287A5517BA8A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ValueEditor", "ValueEditor\ValueEditor.vbproj", "{2C5A3C7F-520C-4412-BB51-84975977D41B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MessageHandler", "MessageHandler\MessageHandler.vbproj", "{22FD73AD-59C2-4980-B03E-E81304407A68}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RS232SerialComm", "RS232SerialComm\RS232SerialComm.vbproj", "{2584A570-0F6B-4F24-A164-D4F9B5AD2593}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AAS203Library", "AAS203Library\AAS203Library.vbproj", "{9967645F-BB20-443A-8CB4-B8F5F689015E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AldysGraph", "AldysGraph\AldysGraph.csproj", "{7CADF053-FEC5-4349-9F5D-707EB39821CA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NumberValidator", "NumberValidator\NumberValidator.vbproj", "{242CA1BA-0BD8-4C05-BDB7-686BE426BE54}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 10
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {CF871272-5F03-44B8-9571-714C8077C32E}
+		SccProjectUniqueName1 = AAS203\\AAS203.vbproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = AAS203\\
+		SccProjectUniqueName2 = AAS203Library\\AAS203Library.vbproj
+		SccLocalPath2 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = AAS203Library\\
+		SccProjectUniqueName3 = AldysGraph\\AldysGraph.csproj
+		SccLocalPath3 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection3 = AldysGraph\\
+		SccProjectUniqueName4 = GridLayoutPanel\\GridLayoutPanel.vbproj
+		SccLocalPath4 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection4 = GridLayoutPanel\\
+		SccProjectUniqueName5 = IQOQPQ\\IQOQPQ.vbproj
+		SccLocalPath5 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection5 = IQOQPQ\\
+		SccProjectUniqueName6 = MessageHandler\\MessageHandler.vbproj
+		SccLocalPath6 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection6 = MessageHandler\\
+		SccProjectUniqueName7 = NumberValidator\\NumberValidator.vbproj
+		SccLocalPath7 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection7 = NumberValidator\\
+		SccProjectUniqueName8 = RS232SerialComm\\RS232SerialComm.vbproj
+		SccLocalPath8 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection8 = RS232SerialComm\\
+		SccProjectUniqueName9 = ValueEditor\\ValueEditor.vbproj
+		SccLocalPath9 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection9 = ValueEditor\\
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+		Release 1 = Release 1
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6485C75D-6601-44A6-B475-1C66BA69B432}.Debug.ActiveCfg = Debug|.NET
+		{6485C75D-6601-44A6-B475-1C66BA69B432}.Debug.Build.0 = Debug|.NET
+		{6485C75D-6601-44A6-B475-1C66BA69B432}.Release.ActiveCfg = Release|.NET
+		{6485C75D-6601-44A6-B475-1C66BA69B432}.Release.Build.0 = Release|.NET
+		{6485C75D-6601-44A6-B475-1C66BA69B432}.Release 1.ActiveCfg = Release|.NET
+		{6485C75D-6601-44A6-B475-1C66BA69B432}.Release 1.Build.0 = Release|.NET
+		{86B8821F-30AA-4933-89D6-43B4B355A98C}.Debug.ActiveCfg = Debug|.NET
+		{86B8821F-30AA-4933-89D6-43B4B355A98C}.Debug.Build.0 = Debug|.NET
+		{86B8821F-30AA-4933-89D6-43B4B355A98C}.Release.ActiveCfg = Release|.NET
+		{86B8821F-30AA-4933-89D6-43B4B355A98C}.Release.Build.0 = Release|.NET
+		{86B8821F-30AA-4933-89D6-43B4B355A98C}.Release 1.ActiveCfg = Release|.NET
+		{86B8821F-30AA-4933-89D6-43B4B355A98C}.Release 1.Build.0 = Release|.NET
+		{30FEF150-6F1B-4B78-B0CF-287A5517BA8A}.Debug.ActiveCfg = Debug|.NET
+		{30FEF150-6F1B-4B78-B0CF-287A5517BA8A}.Debug.Build.0 = Debug|.NET
+		{30FEF150-6F1B-4B78-B0CF-287A5517BA8A}.Release.ActiveCfg = Release|.NET
+		{30FEF150-6F1B-4B78-B0CF-287A5517BA8A}.Release.Build.0 = Release|.NET
+		{30FEF150-6F1B-4B78-B0CF-287A5517BA8A}.Release 1.ActiveCfg = Release|.NET
+		{30FEF150-6F1B-4B78-B0CF-287A5517BA8A}.Release 1.Build.0 = Release|.NET
+		{2C5A3C7F-520C-4412-BB51-84975977D41B}.Debug.ActiveCfg = Debug|.NET
+		{2C5A3C7F-520C-4412-BB51-84975977D41B}.Debug.Build.0 = Debug|.NET
+		{2C5A3C7F-520C-4412-BB51-84975977D41B}.Release.ActiveCfg = Release|.NET
+		{2C5A3C7F-520C-4412-BB51-84975977D41B}.Release.Build.0 = Release|.NET
+		{2C5A3C7F-520C-4412-BB51-84975977D41B}.Release 1.ActiveCfg = Release|.NET
+		{2C5A3C7F-520C-4412-BB51-84975977D41B}.Release 1.Build.0 = Release|.NET
+		{22FD73AD-59C2-4980-B03E-E81304407A68}.Debug.ActiveCfg = Debug|.NET
+		{22FD73AD-59C2-4980-B03E-E81304407A68}.Debug.Build.0 = Debug|.NET
+		{22FD73AD-59C2-4980-B03E-E81304407A68}.Release.ActiveCfg = Release|.NET
+		{22FD73AD-59C2-4980-B03E-E81304407A68}.Release.Build.0 = Release|.NET
+		{22FD73AD-59C2-4980-B03E-E81304407A68}.Release 1.ActiveCfg = Release|.NET
+		{22FD73AD-59C2-4980-B03E-E81304407A68}.Release 1.Build.0 = Release|.NET
+		{2584A570-0F6B-4F24-A164-D4F9B5AD2593}.Debug.ActiveCfg = Debug|.NET
+		{2584A570-0F6B-4F24-A164-D4F9B5AD2593}.Debug.Build.0 = Debug|.NET
+		{2584A570-0F6B-4F24-A164-D4F9B5AD2593}.Release.ActiveCfg = Release|.NET
+		{2584A570-0F6B-4F24-A164-D4F9B5AD2593}.Release.Build.0 = Release|.NET
+		{2584A570-0F6B-4F24-A164-D4F9B5AD2593}.Release 1.ActiveCfg = Release|.NET
+		{2584A570-0F6B-4F24-A164-D4F9B5AD2593}.Release 1.Build.0 = Release|.NET
+		{9967645F-BB20-443A-8CB4-B8F5F689015E}.Debug.ActiveCfg = Debug|.NET
+		{9967645F-BB20-443A-8CB4-B8F5F689015E}.Debug.Build.0 = Debug|.NET
+		{9967645F-BB20-443A-8CB4-B8F5F689015E}.Release.ActiveCfg = Release|.NET
+		{9967645F-BB20-443A-8CB4-B8F5F689015E}.Release.Build.0 = Release|.NET
+		{9967645F-BB20-443A-8CB4-B8F5F689015E}.Release 1.ActiveCfg = Release|.NET
+		{9967645F-BB20-443A-8CB4-B8F5F689015E}.Release 1.Build.0 = Release|.NET
+		{7CADF053-FEC5-4349-9F5D-707EB39821CA}.Debug.ActiveCfg = Debug|.NET
+		{7CADF053-FEC5-4349-9F5D-707EB39821CA}.Debug.Build.0 = Debug|.NET
+		{7CADF053-FEC5-4349-9F5D-707EB39821CA}.Release.ActiveCfg = Release|.NET
+		{7CADF053-FEC5-4349-9F5D-707EB39821CA}.Release.Build.0 = Release|.NET
+		{7CADF053-FEC5-4349-9F5D-707EB39821CA}.Release 1.ActiveCfg = Release|.NET
+		{7CADF053-FEC5-4349-9F5D-707EB39821CA}.Release 1.Build.0 = Release|.NET
+		{242CA1BA-0BD8-4C05-BDB7-686BE426BE54}.Debug.ActiveCfg = Debug|.NET
+		{242CA1BA-0BD8-4C05-BDB7-686BE426BE54}.Debug.Build.0 = Debug|.NET
+		{242CA1BA-0BD8-4C05-BDB7-686BE426BE54}.Release.ActiveCfg = Release|.NET
+		{242CA1BA-0BD8-4C05-BDB7-686BE426BE54}.Release.Build.0 = Release|.NET
+		{242CA1BA-0BD8-4C05-BDB7-686BE426BE54}.Release 1.ActiveCfg = Release|.NET
+		{242CA1BA-0BD8-4C05-BDB7-686BE426BE54}.Release 1.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		Icon1.ico = Icon1.ico
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

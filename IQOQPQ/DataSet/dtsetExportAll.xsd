@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dtsetExportAll" targetNamespace="http://tempuri.org/dtsetExportAll.xsd" elementFormDefault="qualified"
+	attributeFormDefault="qualified" xmlns="http://tempuri.org/dtsetExportAll.xsd" xmlns:mstns="http://tempuri.org/dtsetExportAll.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dtsetExportAll" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="EquipmentList">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="EquipmentListID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="SerialNo" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="VerifiedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+							<xs:element name="ModelNo" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CustomerDetails">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CustomerID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="Address" type="xs:string" minOccurs="0" />
+							<xs:element name="Attention" type="xs:string" minOccurs="0" />
+							<xs:element name="Phone" type="xs:string" minOccurs="0" />
+							<xs:element name="Fax" type="xs:string" minOccurs="0" />
+							<xs:element name="DoneBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CompleteDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="IQModeLocked" type="xs:int" minOccurs="0" />
+							<xs:element name="OQModeLocked" type="xs:int" minOccurs="0" />
+							<xs:element name="PQModeLocked" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CompletedAcceptedBY">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CompletedAcceptedByID" type="xs:int" />
+							<xs:element name="CompletedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="AcceptedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="IQManualList">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="PartNo" type="xs:string" minOccurs="0" />
+							<xs:element name="Quantity" type="xs:string" minOccurs="0" />
+							<xs:element name="ManualListID" type="xs:int" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="DeficiencyCorrectiveActionPlan">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="DeficiencyCorrectiveActionPlanID" type="xs:int" minOccurs="0" />
+							<xs:element name="Details" type="xs:string" minOccurs="0" />
+							<xs:element name="ActionPlan" type="xs:string" minOccurs="0" />
+							<xs:element name="CorrectiveActionDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="CorrectiveActionOrBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:long" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ManufacturerRepresentative">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ManufacturerRepresentativeID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="Designation" type="xs:string" minOccurs="0" />
+							<xs:element name="Company" type="xs:string" minOccurs="0" />
+							<xs:element name="ManDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="JointFunctionalArea" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="IQAccessory">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="Manufacturer" type="xs:string" minOccurs="0" />
+							<xs:element name="SerialNo" type="xs:string" minOccurs="0" />
+							<xs:element name="Specification" type="xs:string" minOccurs="0" />
+							<xs:element name="IQAccessoryID" type="xs:int" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CustomerRepresentative">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CustomerRepresentativeID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="Designation" type="xs:string" minOccurs="0" />
+							<xs:element name="CustDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+							<xs:element name="FunctionalArea" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="IQSpecification">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="IQSpecificationID" type="xs:int" />
+							<xs:element name="IQEquipmentName" type="xs:string" minOccurs="0" />
+							<xs:element name="IQManufacturer" type="xs:string" minOccurs="0" />
+							<xs:element name="IQSerialNo" type="xs:string" minOccurs="0" />
+							<xs:element name="IQSize" type="xs:string" minOccurs="0" />
+							<xs:element name="IQMainpowerSupply" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OQCompletedAcceptedBy">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CompletedAcceptedByID" type="xs:int" />
+							<xs:element name="CompletedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="AcceptedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OQDeficiencyCorrectiveActionPlan">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="DeficiencyCorrectiveActionPlanID" type="xs:int" minOccurs="0" />
+							<xs:element name="Details" type="xs:string" minOccurs="0" />
+							<xs:element name="ActionPlan" type="xs:string" minOccurs="0" />
+							<xs:element name="CorrectiveActionDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="CorrectiveActionOrBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OQEquipmentList">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="EquipmentListID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="SerialNo" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="VerifiedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+							<xs:element name="ModelNo" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OQManufacturerRepresentative">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ManufacturerRepresentativeID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="Designation" type="xs:string" minOccurs="0" />
+							<xs:element name="Company" type="xs:string" minOccurs="0" />
+							<xs:element name="ManDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="JointFunctionalArea" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OQTest">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OQTestID" type="xs:int" />
+							<xs:element name="OQTestName" type="xs:string" minOccurs="0" />
+							<xs:element name="OQObservation" type="xs:string" minOccurs="0" />
+							<xs:element name="OQDemoDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="OQVerifiedDate" type="xs:dateTime" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OQUserTraining">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TrainingID" type="xs:int" />
+							<xs:element name="TrainingType" type="xs:string" minOccurs="0" />
+							<xs:element name="TrainingGiven" type="xs:string" minOccurs="0" />
+							<xs:element name="TrainingComments" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OQUser">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="UserID" type="xs:int" />
+							<xs:element name="UserName" type="xs:string" minOccurs="0" />
+							<xs:element name="UserDate" type="xs:dateTime" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OQCustomerRepresentative">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CustomerRepresentativeID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="Designation" type="xs:string" minOccurs="0" />
+							<xs:element name="CustDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+							<xs:element name="FunctionalArea" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQCompletedAcceptedBy">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CompletedAcceptedByID" type="xs:int" />
+							<xs:element name="CompletedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="AcceptedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQCustomerRepresentative">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CustomerRepresentativeID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="Designation" type="xs:string" minOccurs="0" />
+							<xs:element name="CustDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+							<xs:element name="FunctionalArea" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQDeficiencyCorrectiveActionPlan">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="DeficiencyCorrectiveActionPlanID" type="xs:int" minOccurs="0" />
+							<xs:element name="Details" type="xs:string" minOccurs="0" />
+							<xs:element name="ActionPlan" type="xs:string" minOccurs="0" />
+							<xs:element name="CorrectiveActionDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="CorrectiveActionOrBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQEquipmentList">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="EquipmentListID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="SerialNo" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="VerifiedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQManufacturerRepresentative">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ManufacturerRepresentativeID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="Designation" type="xs:string" minOccurs="0" />
+							<xs:element name="Company" type="xs:string" minOccurs="0" />
+							<xs:element name="ManDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="JointFunctionalArea" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Test">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TestID" type="xs:int" />
+							<xs:element name="TestName" type="xs:string" minOccurs="0" />
+							<xs:element name="PurposeOrCondition" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+							<xs:element name="Confirmity" type="xs:string" minOccurs="0" />
+							<xs:element name="Comments" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ValidationTestID" type="xs:int" minOccurs="0" />
+							<xs:element name="PQTestName" type="xs:string" minOccurs="0" />
+							<xs:element name="PQPurpose" type="xs:string" minOccurs="0" />
+							<xs:element name="PQConformity" type="xs:string" minOccurs="0" />
+							<xs:element name="PQComments" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest5">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PeakArea" type="xs:double" minOccurs="0" />
+							<xs:element name="ValidationTestID" type="xs:string" minOccurs="0" />
+							<xs:element name="RT" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest2">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PQTest2ID" type="xs:integer" minOccurs="0" />
+							<xs:element name="SampleID" type="xs:integer" minOccurs="0" />
+							<xs:element name="Absorbance" type="xs:string" minOccurs="0" />
+							<xs:element name="Deviation" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest3">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PQTest3ID" type="xs:integer" minOccurs="0" />
+							<xs:element name="SampleID" type="xs:integer" minOccurs="0" />
+							<xs:element name="Absorbance" type="xs:string" minOccurs="0" />
+							<xs:element name="Concentration" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest4">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PeakArea" type="xs:double" minOccurs="0" />
+							<xs:element name="ValidationTestID" type="xs:string" minOccurs="0" />
+							<xs:element name="RT" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest6">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PeakArea" type="xs:double" minOccurs="0" />
+							<xs:element name="ValidationTestID" type="xs:string" minOccurs="0" />
+							<xs:element name="RT" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest7">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PeakArea" type="xs:double" minOccurs="0" />
+							<xs:element name="ValidationTestID" type="xs:string" minOccurs="0" />
+							<xs:element name="RT" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest8">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PeakArea" type="xs:double" minOccurs="0" />
+							<xs:element name="ValidationTestID" type="xs:string" minOccurs="0" />
+							<xs:element name="RT" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest9">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PeakArea" type="xs:double" minOccurs="0" />
+							<xs:element name="ValidationTestID" type="xs:string" minOccurs="0" />
+							<xs:element name="RT" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest10">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PeakArea" type="xs:double" minOccurs="0" />
+							<xs:element name="ValidationTestID" type="xs:string" minOccurs="0" />
+							<xs:element name="RT" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest11">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Test1ID" type="xs:integer" minOccurs="0" />
+							<xs:element name="SampleID" type="xs:integer" minOccurs="0" />
+							<xs:element name="LampCurrent" type="xs:string" minOccurs="0" />
+							<xs:element name="PMTVoltage" type="xs:string" minOccurs="0" />
+							<xs:element name="WaveLength" type="xs:string" minOccurs="0" />
+							<xs:element name="SlitWidth" type="xs:string" minOccurs="0" />
+							<xs:element name="BurnerHeight" type="xs:string" minOccurs="0" />
+							<xs:element name="Fuel" type="xs:string" minOccurs="0" />
+							<xs:element name="Absorbance" type="xs:string" minOccurs="0" />
+							<xs:element name="Remark" type="xs:string" minOccurs="0" />
+							<xs:element name="Date" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="dtsetExportAllKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:EquipmentList" />
+			<xs:field xpath="mstns:EquipmentListID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey2" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:CustomerDetails" />
+			<xs:field xpath="mstns:CustomerID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey3" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:CompletedAcceptedBY" />
+			<xs:field xpath="mstns:CompletedAcceptedByID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey4" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:IQManualList" />
+			<xs:field xpath="mstns:ManualListID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey5" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ManufacturerRepresentative" />
+			<xs:field xpath="mstns:ManufacturerRepresentativeID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey6" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:IQAccessory" />
+			<xs:field xpath="mstns:IQAccessoryID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey7" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:CustomerRepresentative" />
+			<xs:field xpath="mstns:CustomerRepresentativeID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey8" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:IQSpecification" />
+			<xs:field xpath="mstns:IQSpecificationID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey9" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OQCompletedAcceptedBy" />
+			<xs:field xpath="mstns:CompletedAcceptedByID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey11" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OQEquipmentList" />
+			<xs:field xpath="mstns:EquipmentListID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey12" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OQManufacturerRepresentative" />
+			<xs:field xpath="mstns:ManufacturerRepresentativeID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey13" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OQTest" />
+			<xs:field xpath="mstns:OQTestID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey15" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OQUserTraining" />
+			<xs:field xpath="mstns:TrainingID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey10" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OQUser" />
+			<xs:field xpath="mstns:UserID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey14" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OQCustomerRepresentative" />
+			<xs:field xpath="mstns:CustomerRepresentativeID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey16" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:PQCompletedAcceptedBy" />
+			<xs:field xpath="mstns:CompletedAcceptedByID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey17" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:PQCustomerRepresentative" />
+			<xs:field xpath="mstns:CustomerRepresentativeID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey18" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:PQEquipmentList" />
+			<xs:field xpath="mstns:EquipmentListID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey19" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:PQManufacturerRepresentative" />
+			<xs:field xpath="mstns:ManufacturerRepresentativeID" />
+		</xs:unique>
+		<xs:unique name="dtsetExportAllKey21" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:Test" />
+			<xs:field xpath="mstns:TestID" />
+		</xs:unique>
+	</xs:element>
+</xs:schema>

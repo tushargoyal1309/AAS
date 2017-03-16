@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dtsetOQTest" targetNamespace="http://tempuri.org/dtsetOQTest.xsd" elementFormDefault="qualified"
+	attributeFormDefault="qualified" xmlns="http://tempuri.org/dtsetOQTest.xsd" xmlns:mstns="http://tempuri.org/dtsetOQTest.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dtsetOQTest" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="OQTest">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OQTestID" type="xs:int" />
+							<xs:element name="OQTestName" type="xs:string" minOccurs="0" />
+							<xs:element name="OQObservation" type="xs:string" minOccurs="0" />
+							<xs:element name="OQDemoDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="OQVerifiedDate" type="xs:dateTime" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CompletedAcceptedBY">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CompletedAcceptedByID" type="xs:int" />
+							<xs:element name="CompletedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="AcceptedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="dtsetOQTestKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OQTest" />
+			<xs:field xpath="mstns:OQTestID" />
+		</xs:unique>
+		<xs:unique name="dtsetOQTestKey2" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:CompletedAcceptedBY" />
+			<xs:field xpath="mstns:CompletedAcceptedByID" />
+		</xs:unique>
+	</xs:element>
+</xs:schema>

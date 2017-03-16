@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastOpenVersion>7.10.3077</LastOpenVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ReferencePath>D:\ALDYS\Development\AAS203\Deepak\AAS203\AAS203\Dll\;E:\AA203D June-2008\AAS203-13.06.08-Ver. 4.1\AAS203\AAS203\Dll\;E:\AAS203\AAS203\Dll\;E:\AAS203\AAS203\Dll\Office2003\;F:\AAS4.5\AAS203\Dll\;F:\AAS4.5\AAS203\Dll\Office2003\;D:\Software\AAS4.6 08.01.09\AAS203\Dll\;D:\Software\AAS4.6 08.01.09\AAS203\Dll\Office2003\;D:\Software\AAS4.6 08.01.09\AAS4.6 08.01.09\AAS203\Dll\;D:\Software\AAS4.6 08.01.09\AAS4.6 08.01.09\AAS203\Dll\Office2003\;D:\Software\AAS 4.7\AAS4.7 08.01.09\AAS203\Dll\;D:\Software\AAS 4.7\AAS4.7 08.01.09\AAS203\Dll\Office2003\;D:\Software\AAS 4.8\AAS4.7 08.01.09\AAS203\Dll\;D:\Software\AAS 4.8\AAS4.7 08.01.09\AAS203\Dll\Office2003\;D:\Software\AAS 4.81\AAS4.7 08.01.09\AAS203\Dll\;D:\Software\AAS 4.81\AAS4.7 08.01.09\AAS203\Dll\Office2003\;D:\Software\AA203\AAS203\Dll\;D:\Software\AA203\AAS203\Dll\Office2003\;D:\Software\AA203 7.0\AAS203\Dll\;D:\Software\AA203 7.0\AAS203\Dll\Office2003\</ReferencePath>
+    <CopyProjectDestinationFolder />
+    <CopyProjectUncPath />
+    <CopyProjectOption>0</CopyProjectOption>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ProjectTrust>0</ProjectTrust>
+    <PublishUrlHistory />
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <EnableASPDebugging>false</EnableASPDebugging>
+    <EnableASPXDebugging>false</EnableASPXDebugging>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine />
+    <StartAction>Project</StartAction>
+    <StartArguments />
+    <StartPage />
+    <StartProgram />
+    <StartURL />
+    <StartWorkingDirectory />
+    <StartWithIE>true</StartWithIE>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <EnableASPDebugging>false</EnableASPDebugging>
+    <EnableASPXDebugging>false</EnableASPXDebugging>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine />
+    <StartAction>Project</StartAction>
+    <StartArguments />
+    <StartPage />
+    <StartProgram />
+    <StartURL />
+    <StartWorkingDirectory />
+    <StartWithIE>true</StartWithIE>
+  </PropertyGroup>
+</Project>

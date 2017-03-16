@@ -1,0 +1,116 @@
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\MessageHandler.dll
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\MessageHandler.pdb
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\MessageHandler.xml
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\ErrorHandler.dll
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\GradientPanel.dll
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\NETXP.Controls.dll
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\NETXP.Library.dll
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\NETXP.Win32.dll
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\NETXP.Controls.xml
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\bin\NETXP.Library.xml
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.frmMessage.resources
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbproj.GenerateResource.Cache
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.dll
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.xml
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.pdb
+C:\Users\Manoj\Desktop\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\MessageHandler.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\MessageHandler.pdb
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\MessageHandler.xml
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\ErrorHandler.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\GradientPanel.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Controls.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Library.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Win32.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Controls.xml
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Library.xml
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.frmMessage.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbproj.GenerateResource.Cache
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.xml
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.pdb
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\MessageHandler.dll
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\MessageHandler.pdb
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\MessageHandler.xml
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\CodeIntellects.Office2003Controls.dll
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\ErrorHandler.dll
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\GradientPanel.dll
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Controls.dll
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Library.dll
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Win32.dll
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Controls.xml
+C:\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Library.xml
+C:\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.frmMessage.resources
+C:\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbproj.GenerateResource.Cache
+C:\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.dll
+C:\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.xml
+C:\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.pdb
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\MessageHandler.dll
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\MessageHandler.pdb
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\MessageHandler.xml
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\CodeIntellects.Office2003Controls.dll
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\ErrorHandler.dll
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\GradientPanel.dll
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Controls.dll
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Library.dll
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Win32.dll
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Controls.xml
+D:\AA203 7.0\AA203 7.0\MessageHandler\bin\NETXP.Library.xml
+D:\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.frmMessage.resources
+D:\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbproj.GenerateResource.Cache
+D:\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.dll
+D:\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.xml
+D:\AA203 7.0\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\ErrorHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\GradientPanel.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\NETXP.Controls.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\NETXP.Library.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\NETXP.Win32.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\NETXP.Controls.xml
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\bin\NETXP.Library.xml
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.frmMessage.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbproj.GenerateResource.Cache
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\ErrorHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\GradientPanel.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\NETXP.Controls.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\NETXP.Library.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\NETXP.Win32.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\NETXP.Controls.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\bin\NETXP.Library.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.frmMessage.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbproj.GenerateResource.Cache
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\ErrorHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\GradientPanel.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\NETXP.Controls.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\NETXP.Library.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\NETXP.Win32.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\NETXP.Controls.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\bin\NETXP.Library.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.frmMessage.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.vbproj.GenerateResource.Cache
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.pdb

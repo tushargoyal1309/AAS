@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dtsetCustomerDetails" targetNamespace="http://tempuri.org/dtsetCustomerDetails.xsd"
+	elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dtsetCustomerDetails.xsd"
+	xmlns:mstns="http://tempuri.org/dtsetCustomerDetails.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dtsetCustomerDetails" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="CustomerDetails">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CustomerID" type="xs:int" />
+							<xs:element name="Name" type="xs:string" minOccurs="0" />
+							<xs:element name="Address" type="xs:string" minOccurs="0" />
+							<xs:element name="Attention" type="xs:string" minOccurs="0" />
+							<xs:element name="Phone" type="xs:string" minOccurs="0" />
+							<xs:element name="Fax" type="xs:string" minOccurs="0" />
+							<xs:element name="DoneBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CompleteDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="IQModeLocked" type="xs:int" minOccurs="0" />
+							<xs:element name="OQModeLocked" type="xs:int" minOccurs="0" />
+							<xs:element name="PQModeLocked" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="dtsetCustomerDetailsKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:CustomerDetails" />
+			<xs:field xpath="mstns:CustomerID" />
+		</xs:unique>
+	</xs:element>
+</xs:schema>

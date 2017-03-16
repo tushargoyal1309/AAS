@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dtsetPQTest" targetNamespace="http://tempuri.org/dtsetPQTest.xsd" elementFormDefault="qualified"
+	attributeFormDefault="qualified" xmlns="http://tempuri.org/dtsetPQTest.xsd" xmlns:mstns="http://tempuri.org/dtsetPQTest.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dtsetPQTest" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="CompletedAcceptedBY">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CompletedAcceptedByID" type="xs:long" />
+							<xs:element name="CompletedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="AcceptedBy" type="xs:string" minOccurs="0" />
+							<xs:element name="CheckStatusIQOQPQ" type="xs:float" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PQTest1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="SrNo" type="xs:long" />
+							<xs:element name="Parameters" type="xs:string" minOccurs="0" />
+							<xs:element name="PQTestName" type="xs:string" minOccurs="0" />
+							<xs:element name="PeakArea" type="xs:double" minOccurs="0" />
+							<xs:element name="ValidationTestID" type="xs:string" minOccurs="0" />
+							<xs:element name="RT" type="xs:double" minOccurs="0" />
+							<xs:element name="Time" type="xs:double" minOccurs="0" />
+							<xs:element name="DistBySoapRing" type="xs:double" minOccurs="0" />
+							<xs:element name="PQPurpose" type="xs:string" minOccurs="0" />
+							<xs:element name="PQConformity" type="xs:string" minOccurs="0" />
+							<xs:element name="PQComments" type="xs:string" minOccurs="0" />
+							<xs:element name="ActualAbsorbance" type="xs:double" minOccurs="0" />
+							<xs:element name="PQAbsorbance" type="xs:double" minOccurs="0" />
+							<xs:element name="PQCriteria" type="xs:double" minOccurs="0" />
+							<xs:element name="PQTestID" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="dtsetPQTestKey2" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:CompletedAcceptedBY" />
+			<xs:field xpath="mstns:CompletedAcceptedByID" />
+		</xs:unique>
+		<xs:key name="dtsetPQTestKey1">
+			<xs:selector xpath=".//mstns:PQTest1" />
+			<xs:field xpath="mstns:SrNo" />
+		</xs:key>
+	</xs:element>
+</xs:schema>

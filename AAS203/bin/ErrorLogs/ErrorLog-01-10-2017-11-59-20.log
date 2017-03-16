@@ -1,0 +1,38 @@
+***************************************************************
+Error Occured at : 12:00:35
+***************************************************************
+Process Name = 
+Error Derscription = Mixed mode assembly is built against version 'v2.0.50727' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+Error Message = Mixed mode assembly is built against version 'v2.0.50727' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+Error Source = [Mod:C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\Reporting\clsPrintDocument.vb]
+[Function Name:subSetActiveReportProperties]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\Reporting\clsPrintDocument.vb
+  <Procedure - (0)  :subSetActiveReportProperties>
+    <Procedure - (1)  :SendExportData>
+C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\Classes\clsDataFileReport.vb
+  <Procedure - (2)  :funcDatafileExportForMethod>
+C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\Forms\frmDataFiles.vb
+  <Procedure - (3)  :tlbbtnExportReport_Click>
+C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\Modules\modMain.vb
+  <Procedure - (4)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 5.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

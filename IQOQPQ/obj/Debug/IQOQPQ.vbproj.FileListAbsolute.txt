@@ -1,0 +1,372 @@
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\IQOQPQ.pdb
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\IQOQPQ.xml
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\accllistbar.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Shared.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\DataObject.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\ErrorHandler.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\GradientPanel.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\MessageHandler.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\vbwindowsui.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\MessageHandler.pdb
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\MessageHandler.xml
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\bin\DataObject.pdb
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbprojResolveAssemblyReference.cache
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmCustomerDetails.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmextra.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQApproval.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQDeficiency.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQEquipmentList.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQMannualList.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQSpecification.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQTest.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMDI.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMessage1.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQEquipmentList.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest2.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQUserTraining.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest1.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest10.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest2.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest3.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest4.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest5.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest6.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest7.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest8.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest9.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQWarranty.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmReportViewer.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.crptAllReport.resources
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbproj.GenerateResource.Cache
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.xml
+C:\Users\Manoj\Desktop\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.pdb
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.pdb
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.xml
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\accllistbar.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.ReportSource.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Shared.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\DataObject.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\ErrorHandler.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\GradientPanel.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\MessageHandler.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\vbwindowsui.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\MessageHandler.pdb
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\MessageHandler.xml
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\bin\DataObject.pdb
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmCustomerDetails.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmextra.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQApproval.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQDeficiency.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQEquipmentList.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQMannualList.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQSpecification.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQTest.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMDI.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMessage1.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQEquipmentList.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest2.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQUserTraining.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest1.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest10.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest2.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest3.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest4.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest5.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest6.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest7.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest8.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest9.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQWarranty.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmReportViewer.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.crptAllReport.resources
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbproj.GenerateResource.Cache
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.xml
+C:\Users\getit\Documents\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.pdb
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe.manifest
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.application
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.pdb
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.xml
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\accllistbar.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.ReportSource.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Shared.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Windows.Forms.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\DataObject.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\ErrorHandler.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\GradientPanel.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\MessageHandler.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\vbwindowsui.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\CodeIntellects.Office2003Controls.dll
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\MessageHandler.pdb
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\MessageHandler.xml
+C:\AA203 7.0\AA203 7.0\IQOQPQ\bin\DataObject.pdb
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbprojResolveAssemblyReference.cache
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmCustomerDetails.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmextra.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQApproval.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQDeficiency.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQEquipmentList.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQMannualList.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQSpecification.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQTest.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMDI.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMessage1.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQEquipmentList.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest2.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQUserTraining.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest1.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest10.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest2.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest3.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest4.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest5.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest6.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest7.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest8.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest9.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQWarranty.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmReportViewer.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.crptAllReport.resources
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbproj.GenerateResource.Cache
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.TrustInfo.xml
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe.manifest
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.application
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.xml
+C:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.pdb
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe.manifest
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.application
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.pdb
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\IQOQPQ.xml
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\accllistbar.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.ReportSource.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Shared.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Windows.Forms.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\DataObject.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\ErrorHandler.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\GradientPanel.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\MessageHandler.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\vbwindowsui.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\CodeIntellects.Office2003Controls.dll
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\MessageHandler.pdb
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\MessageHandler.xml
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\DataObject.pdb
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbprojResolveAssemblyReference.cache
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmCustomerDetails.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmextra.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQApproval.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQDeficiency.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQEquipmentList.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQMannualList.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQSpecification.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQTest.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMDI.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMessage1.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQEquipmentList.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest2.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQUserTraining.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest1.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest10.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest2.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest3.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest4.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest5.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest6.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest7.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest8.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest9.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQWarranty.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmReportViewer.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.crptAllReport.resources
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbproj.GenerateResource.Cache
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.TrustInfo.xml
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe.manifest
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.application
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.xml
+D:\AA203 7.0\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.pdb
+D:\AA203 7.0\AA203 7.0\IQOQPQ\bin\stdole.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe.manifest
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\IQOQPQ.application
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\IQOQPQ.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\IQOQPQ.xml
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\accllistbar.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\CrystalDecisions.ReportSource.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Shared.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\DataObject.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\ErrorHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\GradientPanel.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\vbwindowsui.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\stdole.dll
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\bin\DataObject.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmCustomerDetails.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmextra.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQApproval.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQDeficiency.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQEquipmentList.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQMannualList.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQSpecification.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQTest.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMDI.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMessage1.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQEquipmentList.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest2.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQUserTraining.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest1.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest10.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest2.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest3.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest4.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest5.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest6.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest7.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest8.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest9.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQWarranty.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmReportViewer.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.crptAllReport.resources
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbproj.GenerateResource.Cache
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.TrustInfo.xml
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe.manifest
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.application
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.xml
+C:\Users\getit\Documents\Projects\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe.manifest
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\IQOQPQ.application
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\IQOQPQ.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\IQOQPQ.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\accllistbar.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\CrystalDecisions.ReportSource.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Shared.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\DataObject.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\ErrorHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\GradientPanel.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\vbwindowsui.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\stdole.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\bin\DataObject.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmCustomerDetails.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmextra.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQApproval.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQDeficiency.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQEquipmentList.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQMannualList.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQSpecification.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQTest.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMDI.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMessage1.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQEquipmentList.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest2.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQUserTraining.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest1.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest10.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest2.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest3.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest4.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest5.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest6.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest7.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest8.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest9.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQWarranty.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmReportViewer.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.crptAllReport.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbproj.GenerateResource.Cache
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.TrustInfo.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe.manifest
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.application
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe.manifest
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\IQOQPQ.application
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\IQOQPQ.exe
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\IQOQPQ.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\IQOQPQ.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\accllistbar.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\CrystalDecisions.ReportSource.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Shared.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\DataObject.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\ErrorHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\GradientPanel.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\vbwindowsui.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\stdole.dll
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\bin\DataObject.pdb
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmCustomerDetails.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmextra.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQApproval.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQDeficiency.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQEquipmentList.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQMannualList.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQSpecification.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmIQTest.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMDI.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmMessage1.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQEquipmentList.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQTest2.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmOQUserTraining.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest1.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest10.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest2.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest3.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest4.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest5.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest6.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest7.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest8.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQTest9.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmPQWarranty.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.frmReportViewer.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.crptAllReport.resources
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.vbproj.GenerateResource.Cache
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.TrustInfo.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe.manifest
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.application
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.exe
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.xml
+C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\IQOQPQ\obj\Debug\IQOQPQ.pdb

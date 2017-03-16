@@ -1,0 +1,48 @@
+<VisualStudioProject>
+    <CSHARP LastOpenVersion = "7.10.3077" >
+        <Build>
+            <Settings ReferencePath = "D:\ALDYS\Development\AAS203\Sachin\AAS203\AldysGraph\Dll\;E:\AA203D June-2008\AAS203-13.06.08-Ver. 4.1\AAS203\AldysGraph\Dll\;E:\AAS203\AldysGraph\Dll\;F:\AAS4.5\AldysGraph\Dll\;D:\Software\AAS4.6 08.01.09\AldysGraph\Dll\;D:\Software\AAS4.6 08.01.09\AAS4.6 08.01.09\AldysGraph\Dll\;D:\Software\AAS 4.7\AAS4.7 08.01.09\AldysGraph\Dll\;D:\Software\AAS 4.8\AAS4.7 08.01.09\AldysGraph\Dll\;D:\Software\AAS 4.81\AAS4.7 08.01.09\AldysGraph\Dll\;D:\Software\AA203\AldysGraph\Dll\;D:\Software\AA203 7.0\AldysGraph\Dll\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "true"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "true"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+    </CSHARP>
+</VisualStudioProject>
+

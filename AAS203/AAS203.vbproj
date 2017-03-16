@@ -1,0 +1,1228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6485C75D-6601-44A6-B475-1C66BA69B432}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>AAS.ico</ApplicationIcon>
+    <AssemblyKeyContainerName />
+    <AssemblyName>AAS</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>AAS203</RootNamespace>
+    <StartupObject>AAS203.modMain</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Console</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <SccAuxPath />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>AAS.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>AAS.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>AAS.xml</DocumentationFile>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>AAS.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>CF2021BE281FCD375BADA4E48596C56399D2647A</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>AAS203_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>AAS.xml</DocumentationFile>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>AAS.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <ProjectReference Include="..\AAS203Library\AAS203Library.vbproj">
+      <Name>AAS203Library</Name>
+      <Project>{9967645F-BB20-443A-8CB4-B8F5F689015E}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\AldysGraph\AldysGraph.csproj">
+      <Name>AldysGraph</Name>
+      <Project>{7CADF053-FEC5-4349-9F5D-707EB39821CA}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\GridLayoutPanel\GridLayoutPanel.vbproj">
+      <Name>GridLayoutPanel</Name>
+      <Project>{30FEF150-6F1B-4B78-B0CF-287A5517BA8A}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\IQOQPQ\IQOQPQ.vbproj">
+      <Project>{86b8821f-30aa-4933-89d6-43b4b355a98c}</Project>
+      <Name>IQOQPQ</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MessageHandler\MessageHandler.vbproj">
+      <Name>MessageHandler</Name>
+      <Project>{22FD73AD-59C2-4980-B03E-E81304407A68}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\NumberValidator\NumberValidator.vbproj">
+      <Name>NumberValidator</Name>
+      <Project>{242CA1BA-0BD8-4C05-BDB7-686BE426BE54}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\RS232SerialComm\RS232SerialComm.vbproj">
+      <Name>RS232SerialComm</Name>
+      <Project>{2584A570-0F6B-4F24-A164-D4F9B5AD2593}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\ValueEditor\ValueEditor.vbproj">
+      <Name>ValueEditor</Name>
+      <Project>{2C5A3C7F-520C-4412-BB51-84975977D41B}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <Reference Include="activereports, Version=4.2.1.1238, Culture=neutral, PublicKeyToken=cc4967777c49a3ff">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AA203 7.0_Workingcode\AAS203\bin\activereports.dll</HintPath>
+    </Reference>
+    <Reference Include="ActiveReports.Interop, Version=6.2.4238.0, Culture=neutral, PublicKeyToken=cc4967777c49a3ff, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\ActiveReports.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="activereports.viewer, Version=4.3.0.1261, Culture=neutral, PublicKeyToken=cc4967777c49a3ff">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\MW-TOSHIBA-WIN7\Downloads\activereports.viewer.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.GraphControl, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AxInterop.GraphControl.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.SHDocVw">
+      <Name>AxInterop.SHDocVw</Name>
+      <HintPath>Dll\AxInterop.SHDocVw.dll</HintPath>
+    </Reference>
+    <Reference Include="BgThread">
+      <Name>BgThread</Name>
+      <HintPath>Dll\BgThread.dll</HintPath>
+    </Reference>
+    <Reference Include="CodeIntellects.Office2003Controls">
+      <Name>CodeIntellects.Office2003Controls</Name>
+      <HintPath>Dll\CodeIntellects.Office2003Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine">
+      <HintPath>..\packages\CrystalDecisions.CrystalReports.Engine.1.0.0\lib\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource">
+      <HintPath>..\packages\CrystalDecisions.ReportSource.1.0.0\lib\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared">
+      <HintPath>..\packages\CrystalDecisions.Shared.1.0.0\lib\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalEnterpriseLib">
+      <Name>CrystalEnterpriseLib</Name>
+      <HintPath>..\..\..\Downloads\crystalenterpriselib.dll\crystalenterpriselib.dll</HintPath>
+      <AssemblyFolderKey>hklm\crystal.net</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="DataObject">
+      <Name>DataObject</Name>
+      <HintPath>Dll\DataObject.dll</HintPath>
+    </Reference>
+    <Reference Include="ErrorHandler">
+      <Name>ErrorHandler</Name>
+      <HintPath>Dll\ErrorHandler.dll</HintPath>
+    </Reference>
+    <Reference Include="GradientPanel, Version=1.0.1723.3457, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AA203 7.0_Workingcode\AAS203\bin\GradientPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.SHDocVw, Version=1.1.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\AA203 7.0_Workingcode\AAS203\bin\Interop.SHDocVw.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.stdformat, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\Downloads\mmmm\Microsoft.stdformat.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility">
+      <Name>Microsoft.VisualBasic.Compatibility</Name>
+    </Reference>
+    <Reference Include="msdatasrc, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\Users\getit\Downloads\msdatasrc.dll\msdatasrc.dll</HintPath>
+    </Reference>
+    <Reference Include="NETXP.Components, Version=3.0.5600.2205, Culture=neutral, PublicKeyToken=6d93c4cd66e9ba2d">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AA203 7.0_Workingcode\AAS203\bin\NETXP.Components.dll</HintPath>
+    </Reference>
+    <Reference Include="NETXP.Components.Extenders">
+      <Name>netxp.components.extenders</Name>
+      <HintPath>dll\office2003\netxp.components.extenders.dll</HintPath>
+    </Reference>
+    <Reference Include="NETXP.Controls, Version=3.0.5600.2205, Culture=neutral, PublicKeyToken=6d93c4cd66e9ba2d">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AA203 7.0_Workingcode\AAS203\bin\NETXP.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="NETXP.Controls.Bars">
+      <Name>netxp.controls.bars</Name>
+      <HintPath>dll\office2003\netxp.controls.bars.dll</HintPath>
+    </Reference>
+    <Reference Include="NETXP.Controls.Docking">
+      <Name>netxp.controls.docking</Name>
+      <HintPath>dll\office2003\netxp.controls.docking.dll</HintPath>
+    </Reference>
+    <Reference Include="NETXP.Library">
+      <Name>NETXP.Library</Name>
+      <HintPath>dll\office2003\NETXP.Library.dll</HintPath>
+    </Reference>
+    <Reference Include="NETXP.Win32">
+      <Name>NETXP.Win32</Name>
+      <HintPath>dll\office2003\NETXP.Win32.dll</HintPath>
+    </Reference>
+    <Reference Include="PeakSymbol">
+      <Name>PeakSymbol</Name>
+      <HintPath>dll\PeakSymbol.dll</HintPath>
+    </Reference>
+    <Reference Include="Spectrascan">
+      <Name>Spectrascan</Name>
+      <HintPath>Dll\Spectrascan.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="XPanderControl">
+      <Name>xpandercontrol</Name>
+      <HintPath>dll\xpandercontrol.dll</HintPath>
+    </Reference>
+    <Reference Include="XPPanel">
+      <Name>xppanel</Name>
+      <HintPath>dll\xppanel.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Microsoft.VisualBasic.Compatibility" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="21CFR\clsGeneralDatabaseFunctions.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="21CFR\frmActivityLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="21CFR\frmAddUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="21CFR\frmAuthentication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="21CFR\frmChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="21CFR\frmDeleteLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="21CFR\frmFirstTimeInstallation.Designer.vb">
+      <DependentUpon>frmFirstTimeInstallation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="21CFR\frmFirstTimeInstallation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="21CFR\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="21CFR\frmUserPermissions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="21CFR\modConstants_21CFR.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="21CFR\modGeneralFunctions_21CFR.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Forms\AutoSampler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Forms\AutoSamplerInterface.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Forms\frmAllPositions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Forms\frmAutoSampler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Forms\frmAutoSamplerComPort.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Forms\frmAutoSampPosn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Forms\frmCoordinatePositions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Forms\frmTimings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Modules\modAutoSampler.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Modules\modAutoSamplerConstants.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AutoSampler\Modules\ModAutoSamplerGlobalDeclarations.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\CCursor.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ClsAAS203.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBasicStatistics.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBgAspirateTimer.vb" />
+    <Compile Include="Classes\clsBgBurnerOptimization.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBgD2Optimisation.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBgFlameStatus.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBgLampOptimization.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ClsBgManualIgnition.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBgOptimizeAll.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBgReadData.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBgSpectrum.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBgTurretOptimization.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBgZeroOrder.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsBgZeroOrder_AA201.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsCommProtocolFunctions.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsDataFileReport.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ClsHardwareLock.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsHardwareLock_LPT.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsHardwareLock_USB.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsMessageAdapter.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsSpectrum.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsTimer.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\ClsTripleDes.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\DigitalSignature.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Communication\clsRS232.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Communication\clsRS232Main.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Communication\frmMessage1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Communication\modGeneralFunctions.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Communication\modGlobalDeclarations.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\AASGraph.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\clsStandardGraph.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\frmGraphScale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\frmSelectPeakEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\RepeatResultsControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DataAccess\clsDataAccessLayer.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataGrid\ClsDatagridTextBoxColumn.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataGrid\DataGridClass.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Forms\AA201\frmLampPlacements_201.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AA201\frmZeroOrder_201.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Double Beam\frmEnergySpectrumDBMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Double Beam\frmTimeScanDBMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Double Beam\frmUVScanningSpectrumDBMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAASInitialisation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAboutUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAnalysis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBHParameter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBurnerOptimisation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmChangeLampParameters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmChangeScale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCommPorts_Selection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCookBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmD2PeakSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDataFiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDeleteStdNSam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEmissionMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEnergySpectrumMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmFlameStatusDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHelpAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImportFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInstrumentParameters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLampOptimisation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLampPlacements.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoadAnalysis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoadMethod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMDIMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMessage1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMessageFlame.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMethod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMethodAnalysisParameters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmNewMethod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmParameter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPeakPicks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPMT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReportOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSampleParameters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSpectrumPeakValley.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStandardConcentration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStandardGraph.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTimeScanMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTurretElements.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTurretOptimisation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUVQuantitativeAnalysis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUVScanningSpectrumMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmViewRepeatResults.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmViewResults.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmYChangeScale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmZeroOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmZeroOrder2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuelConditions\clsFuelData.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FuelConditions\clsFuelDataCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Modules\modDatabaseOperations.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Modules\modGlobalConstants.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Modules\modGlobalDeclarations.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Modules\modGlobalFunctions.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Modules\modIniOperations.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Modules\modMain.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Modules\modRegistryOperations.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\ActiveReport1.vb">
+      <DependentUpon>ActiveReport1.rpx</DependentUpon>
+      <SubType>Code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reporting\ActiveReport2.vb">
+      <DependentUpon>ActiveReport2.rpx</DependentUpon>
+      <SubType>Code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reporting\ActiveReport21.vb">
+      <DependentUpon>ActiveReport2.rpx</DependentUpon>
+      <SubType>Code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reporting\ActiveReport22.vb">
+      <DependentUpon>ActiveReport2.rpx</DependentUpon>
+      <SubType>Code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reporting\clsDataSetExport.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Reporting\clsPrintDocument.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporting\clsReportingMode.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Reporting\Data Report\DataRptExport1.vb">
+      <DependentUpon>DataRptExport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reporting\Data Report\DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\Data Report\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporting\frmTextReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporting\frmWebReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\frmChangePort.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\frmCommand.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\frmCommandTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\frmMDIMainService.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\frmServiceRoutines.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\Double Beam\frmAnalogDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\Double Beam\frmMonochromatorDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\Double Beam\frmPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\frmAnalog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\frmAutoIgnition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\frmEditValues.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\frmEditValues_HCLCurrent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\frmManualIgnition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\frmMonochromator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\frmPrinterType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\frmThreshold.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service Utility\Service Routines\frmTurret.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test_Saurabh\frmTest_Analysis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test_Saurabh\frmTest_DataFiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Content Include="AAS.ico" />
+    <Content Include="bin\AAS_Service.exe" />
+    <Content Include="com_server.ico" />
+    <Content Include="NewHAND.CUR" />
+    <Content Include="Reporting\Data Report\DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </Content>
+    <EmbeddedResource Include="21CFR\frmActivityLog.resx">
+      <DependentUpon>frmActivityLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="21CFR\frmAddUser.resx">
+      <DependentUpon>frmAddUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="21CFR\frmAuthentication.resx">
+      <DependentUpon>frmAuthentication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="21CFR\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="21CFR\frmDeleteLogs.resx">
+      <DependentUpon>frmDeleteLogs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="21CFR\frmFirstTimeInstallation.resx">
+      <DependentUpon>frmFirstTimeInstallation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="21CFR\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="21CFR\frmUserPermissions.resx">
+      <DependentUpon>frmUserPermissions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoSampler\Forms\AutoSampler.resx">
+      <DependentUpon>AutoSampler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoSampler\Forms\AutoSamplerInterface.resx">
+      <DependentUpon>AutoSamplerInterface.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoSampler\Forms\frmAllPositions.resx">
+      <DependentUpon>frmAllPositions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoSampler\Forms\frmAutoSampler.resx">
+      <DependentUpon>frmAutoSampler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoSampler\Forms\frmAutoSamplerComPort.resx">
+      <DependentUpon>frmAutoSamplerComPort.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoSampler\Forms\frmAutoSampPosn.resx">
+      <DependentUpon>frmAutoSampPosn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoSampler\Forms\frmCoordinatePositions.resx">
+      <DependentUpon>frmCoordinatePositions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoSampler\Forms\frmTimings.resx">
+      <DependentUpon>frmTimings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Communication\frmMessage1.resx">
+      <DependentUpon>frmMessage1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\AASGraph.resx">
+      <DependentUpon>AASGraph.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\frmGraphScale.resx">
+      <DependentUpon>frmGraphScale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\frmSelectPeakEdit.resx">
+      <DependentUpon>frmSelectPeakEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\RepeatResultsControl.resx">
+      <DependentUpon>RepeatResultsControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataGrid\ClsDatagridTextBoxColumn.resx">
+      <DependentUpon>ClsDatagridTextBoxColumn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AA201\frmLampPlacements_201.resx">
+      <DependentUpon>frmLampPlacements_201.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AA201\frmZeroOrder_201.resx">
+      <DependentUpon>frmZeroOrder_201.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Double Beam\frmEnergySpectrumDBMode.resx">
+      <DependentUpon>frmEnergySpectrumDBMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Double Beam\frmTimeScanDBMode.resx">
+      <DependentUpon>frmTimeScanDBMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Double Beam\frmUVScanningSpectrumDBMode.resx">
+      <DependentUpon>frmUVScanningSpectrumDBMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAASInitialisation.resx">
+      <DependentUpon>frmAASInitialisation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAboutUs.resx">
+      <DependentUpon>frmAboutUs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAnalysis.resx">
+      <DependentUpon>frmAnalysis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBHParameter.resx">
+      <DependentUpon>frmBHParameter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBurnerOptimisation.resx">
+      <DependentUpon>frmBurnerOptimisation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmChangeLampParameters.resx">
+      <DependentUpon>frmChangeLampParameters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmChangeScale.resx">
+      <DependentUpon>frmChangeScale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCommPorts_Selection.resx">
+      <DependentUpon>frmCommPorts_Selection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCookBook.resx">
+      <DependentUpon>frmCookBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmD2PeakSearch.resx">
+      <DependentUpon>frmD2PeakSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDataFiles.resx">
+      <DependentUpon>frmDataFiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDeleteStdNSam.resx">
+      <DependentUpon>frmDeleteStdNSam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEmissionMode.resx">
+      <DependentUpon>frmEmissionMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEnergySpectrumMode.resx">
+      <DependentUpon>frmEnergySpectrumMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmFlameStatusDisplay.resx">
+      <DependentUpon>frmFlameStatusDisplay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHelpAbout.resx">
+      <DependentUpon>frmHelpAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImportFile.resx">
+      <DependentUpon>frmImportFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInstrumentParameters.resx">
+      <DependentUpon>frmInstrumentParameters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLampOptimisation.resx">
+      <DependentUpon>frmLampOptimisation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLampPlacements.resx">
+      <DependentUpon>frmLampPlacements.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoadAnalysis.resx">
+      <DependentUpon>frmLoadAnalysis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoadMethod.resx">
+      <DependentUpon>frmLoadMethod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMDIMain.resx">
+      <DependentUpon>frmMDIMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMessage1.resx">
+      <DependentUpon>frmMessage1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMessageFlame.resx">
+      <DependentUpon>frmMessageFlame.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMethod.resx">
+      <DependentUpon>frmMethod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMethodAnalysisParameters.resx">
+      <DependentUpon>frmMethodAnalysisParameters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmNewMethod.resx">
+      <DependentUpon>frmNewMethod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmParameter.resx">
+      <DependentUpon>frmParameter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPeakPicks.resx">
+      <DependentUpon>frmPeakPicks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPMT.resx">
+      <DependentUpon>frmPMT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReportOptions.resx">
+      <DependentUpon>frmReportOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSampleParameters.resx">
+      <DependentUpon>frmSampleParameters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSpectrumPeakValley.resx">
+      <DependentUpon>frmSpectrumPeakValley.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSplash.resx">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStandardConcentration.resx">
+      <DependentUpon>frmStandardConcentration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStandardGraph.resx">
+      <DependentUpon>frmStandardGraph.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStatus.resx">
+      <DependentUpon>frmStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTimeScanMode.resx">
+      <DependentUpon>frmTimeScanMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTurretElements.resx">
+      <DependentUpon>frmTurretElements.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTurretOptimisation.resx">
+      <DependentUpon>frmTurretOptimisation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUVQuantitativeAnalysis.resx">
+      <DependentUpon>frmUVQuantitativeAnalysis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUVScanningSpectrumMode.resx">
+      <DependentUpon>frmUVScanningSpectrumMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmViewRepeatResults.resx">
+      <DependentUpon>frmViewRepeatResults.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmViewResults.resx">
+      <DependentUpon>frmViewResults.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmYChangeScale.resx">
+      <DependentUpon>frmYChangeScale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmZeroOrder.resx">
+      <DependentUpon>frmZeroOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmZeroOrder2.resx">
+      <DependentUpon>frmZeroOrder2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAND.CUR" />
+    <EmbeddedResource Include="licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\ActiveReport1.rpx">
+      <Generator>ARVSPackage.VBCodeGenerator</Generator>
+      <LastGenOutput>ActiveReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\ActiveReport2.rpx">
+      <Generator>ARVSPackage.VBCodeGenerator</Generator>
+      <LastGenOutput>ActiveReport22.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\clsPrintDocument.resx">
+      <DependentUpon>clsPrintDocument.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\Data Report\DataRptExport.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DataRptExport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\Data Report\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\frmTextReportViewer.resx">
+      <DependentUpon>frmTextReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\frmWebReportViewer.resx">
+      <DependentUpon>frmWebReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\frmChangePort.resx">
+      <DependentUpon>frmChangePort.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\frmCommand.resx">
+      <DependentUpon>frmCommand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\frmCommandTest.resx">
+      <DependentUpon>frmCommandTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\frmMDIMainService.resx">
+      <DependentUpon>frmMDIMainService.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\frmServiceRoutines.resx">
+      <DependentUpon>frmServiceRoutines.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\Double Beam\frmAnalogDB.resx">
+      <DependentUpon>frmAnalogDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\Double Beam\frmMonochromatorDB.resx">
+      <DependentUpon>frmMonochromatorDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\Double Beam\frmPassword.resx">
+      <DependentUpon>frmPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\frmAnalog.resx">
+      <DependentUpon>frmAnalog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\frmAutoIgnition.resx">
+      <DependentUpon>frmAutoIgnition.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\frmEditValues.resx">
+      <DependentUpon>frmEditValues.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\frmEditValues_HCLCurrent.resx">
+      <DependentUpon>frmEditValues_HCLCurrent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\frmManualIgnition.resx">
+      <DependentUpon>frmManualIgnition.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\frmMonochromator.resx">
+      <DependentUpon>frmMonochromator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\frmPrinterType.resx">
+      <DependentUpon>frmPrinterType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\frmThreshold.resx">
+      <DependentUpon>frmThreshold.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service Utility\Service Routines\frmTurret.resx">
+      <DependentUpon>frmTurret.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test_Saurabh\frmTest_Analysis.resx">
+      <DependentUpon>frmTest_Analysis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test_Saurabh\frmTest_DataFiles.resx">
+      <DependentUpon>frmTest_DataFiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AAS203_TemporaryKey.pfx" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bin\AAS.ini" />
+    <None Include="bin\AAS_Service.exe.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Documents\DocumentationForAAS Sw Communication Sequence.xls" />
+    <None Include="My Project\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reporting\Data Report\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Reporting\Data Report\DataSet1.xsx">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{CF845C55-C321-4742-B673-E6212D061ED9}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AutoSampler\Classes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

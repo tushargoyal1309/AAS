@@ -1,0 +1,1159 @@
+<VisualStudioProject>
+    <VisualBasic
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{86B8821F-30AA-4933-89D6-43B4B355A98C}"
+        SccProjectName = '"$/AA203/AAS203.root/AAS203", WUCAAAAA'
+        SccLocalPath = ".."
+        SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "IQOQPQ"
+                AssemblyOriginatorKeyFile = ""
+                AssemblyOriginatorKeyMode = "None"
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "Library"
+                OptionCompare = "Binary"
+                OptionExplicit = "On"
+                OptionStrict = "Off"
+                RootNamespace = "IQOQPQ"
+                StartupObject = "IQOQPQ.(None)"
+            >
+                <Config
+                    Name = "Debug"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    IncrementalBuild = "true"
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+                <Config
+                    Name = "Release"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "false"
+                    DefineTrace = "true"
+                    DebugSymbols = "false"
+                    IncrementalBuild = "false"
+                    Optimize = "true"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+                <Reference
+                    Name = "accllistbar"
+                    AssemblyName = "acclListBar"
+                    HintPath = "dll\accllistbar.dll"
+                />
+                <Reference
+                    Name = "ErrorHandler"
+                    AssemblyName = "ErrorHandler"
+                    HintPath = "dll\ErrorHandler.dll"
+                />
+                <Reference
+                    Name = "vbwindowsui"
+                    AssemblyName = "vbWindowsUI"
+                    HintPath = "dll\vbwindowsui.dll"
+                />
+                <Reference
+                    Name = "Microsoft.VisualBasic"
+                    AssemblyName = "Microsoft.VisualBasic"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\Microsoft.VisualBasic.dll"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Shared"
+                    AssemblyName = "CrystalDecisions.Shared"
+                    HintPath = "C:\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.Shared.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                />
+                <Reference
+                    Name = "CrystalDecisions.ReportSource"
+                    AssemblyName = "CrystalDecisions.ReportSource"
+                    HintPath = "C:\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.ReportSource.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                />
+                <Reference
+                    Name = "CrystalDecisions.CrystalReports.Engine"
+                    AssemblyName = "CrystalDecisions.CrystalReports.Engine"
+                    HintPath = "C:\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.CrystalReports.Engine.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                />
+                <Reference
+                    Name = "CrystalDecisions.Windows.Forms"
+                    AssemblyName = "CrystalDecisions.Windows.Forms"
+                    HintPath = "C:\Program Files\Common Files\Crystal Decisions\1.1\Managed\CrystalDecisions.Windows.Forms.dll"
+                    AssemblyFolderKey = "hklm\crystal.net"
+                />
+                <Reference
+                    Name = "System.Web.Services"
+                    AssemblyName = "System.Web.Services"
+                    HintPath = "C:\WINNT\Microsoft.NET\Framework\v1.1.4322\System.Web.Services.dll"
+                />
+                <Reference
+                    Name = "netxp.controls"
+                    AssemblyName = "NETXP.Controls"
+                    HintPath = "..\..\..\..\color analysis\sachin\source\dlls\office2003\netxp.controls.dll"
+                />
+                <Reference
+                    Name = "NETXP.Library"
+                    AssemblyName = "NETXP.Library"
+                    HintPath = "..\..\..\..\color analysis\sachin\source\dlls\office2003\NETXP.Library.dll"
+                />
+                <Reference
+                    Name = "NETXP.Win32"
+                    AssemblyName = "NETXP.Win32"
+                    HintPath = "..\..\..\..\color analysis\sachin\source\dlls\office2003\NETXP.Win32.dll"
+                />
+                <Reference
+                    Name = "DataObject"
+                    AssemblyName = "DataObject"
+                    HintPath = "dll\DataObject.dll"
+                />
+                <Reference
+                    Name = "GradientPanel"
+                    AssemblyName = "GradientPanel"
+                    HintPath = "dll\GradientPanel.dll"
+                />
+                <Reference
+                    Name = "MessageHandler"
+                    Project = "{22FD73AD-59C2-4980-B03E-E81304407A68}"
+                    Package = "{F184B08F-C81C-45F6-A57F-5ABD9991F28F}"
+                />
+            </References>
+            <Imports>
+                <Import Namespace = "Microsoft.VisualBasic" />
+                <Import Namespace = "System" />
+                <Import Namespace = "System.Collections" />
+                <Import Namespace = "System.Data" />
+                <Import Namespace = "System.Drawing" />
+                <Import Namespace = "System.Diagnostics" />
+                <Import Namespace = "System.Windows.Forms" />
+            </Imports>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "AssemblyInfo.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\clsDataAccessLayer.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\clsMessageAdapter.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\IQOQPQ.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "DataSet\dtsetCompletedBy.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetCompletedBy.xsx"
+                    DependentUpon = "dtsetCompletedBy.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetCustomerDetails.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetCustomerDetails.xsx"
+                    DependentUpon = "dtsetCustomerDetails.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetExportAll.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "dtsetExportAll.vb"
+                />
+                <File
+                    RelPath = "DataSet\dtsetExportAll.vb"
+                    DependentUpon = "dtsetExportAll.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "DataSet\dtsetExportAll.xsx"
+                    DependentUpon = "dtsetExportAll.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQAccessory.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQAccessory.xsx"
+                    DependentUpon = "dtsetIQAccessory.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQApproval.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQApproval.xsx"
+                    DependentUpon = "dtsetIQApproval.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQCompletedBy.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQCompletedBy.xsx"
+                    DependentUpon = "dtsetIQCompletedBy.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQDeficiency.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQDeficiency.xsx"
+                    DependentUpon = "dtsetIQDeficiency.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQEquipmentList.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQEquipmentList.xsx"
+                    DependentUpon = "dtsetIQEquipmentList.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQMAnualList.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQMAnualList.xsx"
+                    DependentUpon = "dtsetIQMAnualList.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQSpecification.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQSpecification.xsx"
+                    DependentUpon = "dtsetIQSpecification.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQTest.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetIQTest.xsx"
+                    DependentUpon = "dtsetIQTest.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetOQTest.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetOQTest.xsx"
+                    DependentUpon = "dtsetOQTest.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetPQTest.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetPQTest.xsx"
+                    DependentUpon = "dtsetPQTest.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "DataSet\dtsetUserTraining.xsd"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "DataSet\dtsetUserTraining.xsx"
+                    DependentUpon = "dtsetUserTraining.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Forms\frmCustomerDetails.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmCustomerDetails.resx"
+                    DependentUpon = "frmCustomerDetails.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmextra.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmextra.resx"
+                    DependentUpon = "frmextra.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmIQApproval.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmIQApproval.resx"
+                    DependentUpon = "frmIQApproval.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmIQDeficiency.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmIQDeficiency.resx"
+                    DependentUpon = "frmIQDeficiency.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmIQEquipmentList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmIQEquipmentList.resx"
+                    DependentUpon = "frmIQEquipmentList.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmIQMannualList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmIQMannualList.resx"
+                    DependentUpon = "frmIQMannualList.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmIQSpecification.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmIQSpecification.resx"
+                    DependentUpon = "frmIQSpecification.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmIQTest.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmIQTest.resx"
+                    DependentUpon = "frmIQTest.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmMDI.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmMDI.resx"
+                    DependentUpon = "frmMDI.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmMessage1.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmMessage1.resx"
+                    DependentUpon = "frmMessage1.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmOQEquipmentList.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmOQEquipmentList.resx"
+                    DependentUpon = "frmOQEquipmentList.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmOQTest1.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmOQTest1.resx"
+                    DependentUpon = "frmOQTest1.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmOQTest2.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmOQTest2.resx"
+                    DependentUpon = "frmOQTest2.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmOQUserTraining.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmOQUserTraining.resx"
+                    DependentUpon = "frmOQUserTraining.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest1.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest1.resx"
+                    DependentUpon = "frmPQTest1.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest10.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest10.resx"
+                    DependentUpon = "frmPQTest10.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest2.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest2.resx"
+                    DependentUpon = "frmPQTest2.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest3.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest3.resx"
+                    DependentUpon = "frmPQTest3.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest4.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest4.resx"
+                    DependentUpon = "frmPQTest4.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest5.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest5.resx"
+                    DependentUpon = "frmPQTest5.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest6.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest6.resx"
+                    DependentUpon = "frmPQTest6.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest7.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest7.resx"
+                    DependentUpon = "frmPQTest7.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest8.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest8.resx"
+                    DependentUpon = "frmPQTest8.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest9.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQTest9.resx"
+                    DependentUpon = "frmPQTest9.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmPQWarranty.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmPQWarranty.resx"
+                    DependentUpon = "frmPQWarranty.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\frmReportViewer.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\frmReportViewer.resx"
+                    DependentUpon = "frmReportViewer.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\Module\mGeneralConstants.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\Module\mGeneralDeclarations.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\Module\mGeneralFunctions.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Reports\crptAllReport.rpt"
+                    SubType = "Code"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "crptAllReport1.vb"
+                />
+                <File
+                    RelPath = "Reports\crptAllReport1.vb"
+                    DependentUpon = "crptAllReport.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\crptAllReport1.resx"
+                    DependentUpon = "crptAllReport1.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Reports\CrystalReport2.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "CrystalReport2.vb"
+                />
+                <File
+                    RelPath = "Reports\CrystalReport2.vb"
+                    DependentUpon = "CrystalReport2.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\CustomerDetails.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "CustomerDetails1.vb"
+                />
+                <File
+                    RelPath = "Reports\CustomerDetails.vb"
+                    DependentUpon = "CustomerDetails.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\CustomerDetails1.vb"
+                    DependentUpon = "CustomerDetails.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\IQApproval.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "IQApproval.vb"
+                />
+                <File
+                    RelPath = "Reports\IQApproval.vb"
+                    DependentUpon = "IQApproval.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\IQCompleteAcceptBy.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "IQCompleteAcceptBy.vb"
+                />
+                <File
+                    RelPath = "Reports\IQCompleteAcceptBy.vb"
+                    DependentUpon = "IQCompleteAcceptBy.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\IQDeficiency.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "IQDeficiency.vb"
+                />
+                <File
+                    RelPath = "Reports\IQDeficiency.vb"
+                    DependentUpon = "IQDeficiency.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\IQEquipmentList.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "IQEquipmentList.vb"
+                />
+                <File
+                    RelPath = "Reports\IQEquipmentList.vb"
+                    DependentUpon = "IQEquipmentList.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\IQInstAccessory.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "IQInstAccessory.vb"
+                />
+                <File
+                    RelPath = "Reports\IQInstAccessory.vb"
+                    DependentUpon = "IQInstAccessory.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\IQInstSpecification.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "IQInstSpecification.vb"
+                />
+                <File
+                    RelPath = "Reports\IQInstSpecification.vb"
+                    DependentUpon = "IQInstSpecification.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\IQManualListing.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "IQManualListing.vb"
+                />
+                <File
+                    RelPath = "Reports\IQManualListing.vb"
+                    DependentUpon = "IQManualListing.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\IQTest.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "IQTest.vb"
+                />
+                <File
+                    RelPath = "Reports\IQTest.vb"
+                    DependentUpon = "IQTest.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQApproval.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQApproval.vb"
+                />
+                <File
+                    RelPath = "Reports\OQApproval.vb"
+                    DependentUpon = "OQApproval.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQCompleteAcceptBy.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQCompleteAcceptBy.vb"
+                />
+                <File
+                    RelPath = "Reports\OQCompleteAcceptBy.vb"
+                    DependentUpon = "OQCompleteAcceptBy.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQDeficiency.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQDeficiency.vb"
+                />
+                <File
+                    RelPath = "Reports\OQDeficiency.vb"
+                    DependentUpon = "OQDeficiency.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQEquipmentList.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQEquipmentList.vb"
+                />
+                <File
+                    RelPath = "Reports\OQEquipmentList.vb"
+                    DependentUpon = "OQEquipmentList.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQTest1.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQTest1.vb"
+                />
+                <File
+                    RelPath = "Reports\OQTest1.vb"
+                    DependentUpon = "OQTest1.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQTest2.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQTest2.vb"
+                />
+                <File
+                    RelPath = "Reports\OQTest2.vb"
+                    DependentUpon = "OQTest2.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQTest3.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQTest3.vb"
+                />
+                <File
+                    RelPath = "Reports\OQTest3.vb"
+                    DependentUpon = "OQTest3.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQTest4.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQTest4.vb"
+                />
+                <File
+                    RelPath = "Reports\OQTest4.vb"
+                    DependentUpon = "OQTest4.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQTest5.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQTest5.vb"
+                />
+                <File
+                    RelPath = "Reports\OQTest5.vb"
+                    DependentUpon = "OQTest5.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQTest6.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQTest6.vb"
+                />
+                <File
+                    RelPath = "Reports\OQTest6.vb"
+                    DependentUpon = "OQTest6.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQUser.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQUser.vb"
+                />
+                <File
+                    RelPath = "Reports\OQUser.vb"
+                    DependentUpon = "OQUser.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\OQUserTraining.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "OQUserTraining.vb"
+                />
+                <File
+                    RelPath = "Reports\OQUserTraining.vb"
+                    DependentUpon = "OQUserTraining.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQApproval.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQApproval.vb"
+                />
+                <File
+                    RelPath = "Reports\PQApproval.vb"
+                    DependentUpon = "PQApproval.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQCompleteAcceptBy.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQCompleteAcceptBy.vb"
+                />
+                <File
+                    RelPath = "Reports\PQCompleteAcceptBy.vb"
+                    DependentUpon = "PQCompleteAcceptBy.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQDeficiency.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQDeficiency.vb"
+                />
+                <File
+                    RelPath = "Reports\PQDeficiency.vb"
+                    DependentUpon = "PQDeficiency.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQEquipmentList.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQEquipmentList.vb"
+                />
+                <File
+                    RelPath = "Reports\PQEquipmentList.vb"
+                    DependentUpon = "PQEquipmentList.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQTest1.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQTest1.vb"
+                />
+                <File
+                    RelPath = "Reports\PQTest1.vb"
+                    DependentUpon = "PQTest1.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQTest10.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQTest10.vb"
+                />
+                <File
+                    RelPath = "Reports\PQTest10.vb"
+                    DependentUpon = "PQTest10.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQTest2.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQTest2.vb"
+                />
+                <File
+                    RelPath = "Reports\PQTest2.vb"
+                    DependentUpon = "PQTest2.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQTest22.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQTest22.vb"
+                />
+                <File
+                    RelPath = "Reports\PQTest22.vb"
+                    DependentUpon = "PQTest22.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQTest3.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQTest3.vb"
+                />
+                <File
+                    RelPath = "Reports\PQTest3.vb"
+                    DependentUpon = "PQTest3.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQTest4.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQTest4.vb"
+                />
+                <File
+                    RelPath = "Reports\PQTest4.vb"
+                    DependentUpon = "PQTest4.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQTest5.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQTest5.vb"
+                />
+                <File
+                    RelPath = "Reports\PQTest5.vb"
+                    DependentUpon = "PQTest5.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQTest6.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQTest6.vb"
+                />
+                <File
+                    RelPath = "Reports\PQTest6.vb"
+                    DependentUpon = "PQTest6.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQTest7.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQTest7.vb"
+                />
+                <File
+                    RelPath = "Reports\PQTest7.vb"
+                    DependentUpon = "PQTest7.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQTest8.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQTest8.vb"
+                />
+                <File
+                    RelPath = "Reports\PQTest8.vb"
+                    DependentUpon = "PQTest8.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Reports\PQWarranty.rpt"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator"
+                    LastGenOutput = "PQWarranty.vb"
+                />
+                <File
+                    RelPath = "Reports\PQWarranty.vb"
+                    DependentUpon = "PQWarranty.rpt"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+            </Include>
+        </Files>
+        <StartupServices>
+            <Service ID = "{CF845C55-C321-4742-B673-E6212D061ED9}" />
+        </StartupServices>
+    </VisualBasic>
+</VisualStudioProject>
+
