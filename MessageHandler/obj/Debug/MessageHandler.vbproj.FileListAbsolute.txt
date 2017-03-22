@@ -114,3 +114,20 @@ C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\obj\
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.dll
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.xml
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\MessageHandler\obj\Debug\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\MessageHandler.pdb
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\ErrorHandler.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\GradientPanel.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\NETXP.Controls.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\NETXP.Library.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\NETXP.Win32.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\NETXP.Controls.xml
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\bin\NETXP.Library.xml
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\obj\Debug\MessageHandler.vbprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\obj\Debug\MessageHandler.frmMessage.resources
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\obj\Debug\MessageHandler.vbproj.GenerateResource.Cache
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\obj\Debug\MessageHandler.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\obj\Debug\MessageHandler.xml
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\MessageHandler\obj\Debug\MessageHandler.pdb

@@ -661,6 +661,11 @@ Public Class frmLoadMethod '' class behind the class.
         Dim objRow As DataRow
 
         Try
+            If (gstructUserDetails.UserID = 0) Then
+                btnDelete.Visible = True
+            Else
+                btnDelete.Visible = False
+            End If
             Call gobjMain.ShowProgressBar(gstrTitleInstrumentType & ConstFormLoad)
             ''show some instrument info on status
             ''and unchecked the following control.

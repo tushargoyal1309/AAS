@@ -102,3 +102,18 @@ C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\ValueEditor\obj\Deb
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\ValueEditor\obj\Debug\ValueEditor.dll
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\ValueEditor\obj\Debug\ValueEditor.xml
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\ValueEditor\obj\Debug\ValueEditor.pdb
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\bin\ValueEditor.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\bin\ValueEditor.pdb
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\bin\ValueEditor.xml
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\bin\ErrorHandler.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\bin\NETXP.Controls.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\bin\NETXP.Library.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\bin\NETXP.Win32.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\bin\NETXP.Controls.xml
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\bin\NETXP.Library.xml
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\obj\Debug\ValueEditor.vbprojResolveAssemblyReference.cache
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\obj\Debug\ValueEditor.ValueEditor.resources
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\obj\Debug\ValueEditor.vbproj.GenerateResource.Cache
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\obj\Debug\ValueEditor.dll
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\obj\Debug\ValueEditor.xml
+C:\Users\getit\Documents\Projects\AA203Tushar\AA203\ValueEditor\obj\Debug\ValueEditor.pdb

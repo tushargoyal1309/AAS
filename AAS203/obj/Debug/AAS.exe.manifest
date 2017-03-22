@@ -4,7 +4,7 @@
   <description asmv2:iconFile="AAS.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="AAS" version="5.1.0.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="AAS" version="6.1.0.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="AAS.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -143,14 +143,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AAS.exe" size="6193152">
-      <assemblyIdentity name="AAS" version="5.1.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AAS.exe" size="6178304">
+      <assemblyIdentity name="AAS" version="6.1.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>686xI3bI+qlGQUaRbMsYnFBsdBE=</dsig:DigestValue>
+        <dsig:DigestValue>GmF4i3MroxT6hFYESPmy9ejqaZc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
