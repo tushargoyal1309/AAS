@@ -526,7 +526,7 @@ Public Class clsBgLampOptimization
 
             mObjGraph.AldysPane.Legend.IsVisible = False
 
-            mObjGraph.YAxisMin = gFuncGetEnergy(2047)
+            mObjGraph.YAxisMin = gFuncGetEnergy(4095)
             If (blnIsHCLEMode) Then
                 'gFuncGetEnergy(2047.0 + 409.6 * 4)
                 mObjGraph.YAxisMax = 80

@@ -317,7 +317,7 @@ Public Class clsBgZeroOrder
                 lblSt3Zero.Refresh()
             End If
 
-            For intPos = 0 To 5
+            For intPos = 0 To 9
                 gobjInst.Lamp.LampParametersCollection.item(intPos).LampOptimizePosition = 0
             Next
             gobjInst.Lamp.WavelengthZero = 100.0

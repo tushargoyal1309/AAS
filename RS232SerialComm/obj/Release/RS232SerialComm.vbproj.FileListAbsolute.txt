@@ -43,3 +43,19 @@ C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\RS232SerialComm\obj
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\RS232SerialComm\obj\Release\RS232SerialComm.vbproj.GenerateResource.Cache
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\RS232SerialComm\obj\Release\RS232SerialComm.dll
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\RS232SerialComm\obj\Release\RS232SerialComm.xml
+D:\AA203Tushar\AA203\RS232SerialComm\bin\RS232SerialComm.dll
+D:\AA203Tushar\AA203\RS232SerialComm\bin\RS232SerialComm.xml
+D:\AA203Tushar\AA203\RS232SerialComm\bin\ErrorHandler.dll
+D:\AA203Tushar\AA203\RS232SerialComm\obj\Release\RS232SerialComm.vbprojResolveAssemblyReference.cache
+D:\AA203Tushar\AA203\RS232SerialComm\obj\Release\RS232SerialComm.frmMessage1.resources
+D:\AA203Tushar\AA203\RS232SerialComm\obj\Release\RS232SerialComm.vbproj.GenerateResource.Cache
+D:\AA203Tushar\AA203\RS232SerialComm\obj\Release\RS232SerialComm.dll
+D:\AA203Tushar\AA203\RS232SerialComm\obj\Release\RS232SerialComm.xml
+D:\PROJECTS\AA203Tushar\AA203\RS232SerialComm\bin\RS232SerialComm.dll
+D:\PROJECTS\AA203Tushar\AA203\RS232SerialComm\bin\RS232SerialComm.xml
+D:\PROJECTS\AA203Tushar\AA203\RS232SerialComm\bin\ErrorHandler.dll
+D:\PROJECTS\AA203Tushar\AA203\RS232SerialComm\obj\Release\RS232SerialComm.frmMessage1.resources
+D:\PROJECTS\AA203Tushar\AA203\RS232SerialComm\obj\Release\RS232SerialComm.vbproj.GenerateResource.Cache
+D:\PROJECTS\AA203Tushar\AA203\RS232SerialComm\obj\Release\RS232SerialComm.dll
+D:\PROJECTS\AA203Tushar\AA203\RS232SerialComm\obj\Release\RS232SerialComm.xml
+D:\PROJECTS\AA203Tushar\AA203\RS232SerialComm\obj\Release\RS232SerialComm.vbprojResolveAssemblyReference.cache

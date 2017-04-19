@@ -416,7 +416,7 @@ Public Class frmLampOptimisation
                 aasGraphTurretOptimisation.YAxisLabel = "EMISSION"
                 aasGraphTurretOptimisation.YAxisMax = 100 'gFuncGetEnergy(2047.0 + 409.6 * 5)
             End If
-            aasGraphTurretOptimisation.YAxisMin = gFuncGetEnergy(2047)
+            aasGraphTurretOptimisation.YAxisMin = gFuncGetEnergy(4095)
             aasGraphTurretOptimisation.XAxisLabel = "WAVELENGTH (nm)"
 
             btnClose.Visible = False

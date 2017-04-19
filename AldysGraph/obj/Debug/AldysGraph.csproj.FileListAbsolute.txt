@@ -58,3 +58,15 @@ C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Debu
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.csproj.GenerateResource.Cache
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.dll
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Debug\AldysGraph.pdb
+D:\AA203Tushar\AA203\AldysGraph\bin\Debug\AldysGraph.dll
+D:\AA203Tushar\AA203\AldysGraph\bin\Debug\AldysGraph.pdb
+D:\AA203Tushar\AA203\AldysGraph\bin\Debug\NETXP.Controls.dll
+D:\AA203Tushar\AA203\AldysGraph\bin\Debug\NETXP.Library.dll
+D:\AA203Tushar\AA203\AldysGraph\bin\Debug\NETXP.Win32.dll
+D:\AA203Tushar\AA203\AldysGraph\bin\Debug\PeakSymbol.dll
+D:\AA203Tushar\AA203\AldysGraph\obj\Debug\AldysGraph.csprojResolveAssemblyReference.cache
+D:\AA203Tushar\AA203\AldysGraph\obj\Debug\AldysGraph.AldysGraph.resources
+D:\AA203Tushar\AA203\AldysGraph\obj\Debug\AldysGraph.PointInfo.frmPointInfo.resources
+D:\AA203Tushar\AA203\AldysGraph\obj\Debug\AldysGraph.csproj.GenerateResource.Cache
+D:\AA203Tushar\AA203\AldysGraph\obj\Debug\AldysGraph.dll
+D:\AA203Tushar\AA203\AldysGraph\obj\Debug\AldysGraph.pdb

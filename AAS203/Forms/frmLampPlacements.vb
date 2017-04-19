@@ -66,31 +66,47 @@ Public Class frmLampPlacements
     Friend WithEvents btnRemoveLamp As NETXP.Controls.XPButton
     Friend WithEvents btnHelp As NETXP.Controls.XPButton
     Friend WithEvents btnOk As NETXP.Controls.XPButton
+    Friend WithEvents txt9 As System.Windows.Forms.TextBox
+    Friend WithEvents lbl9 As System.Windows.Forms.Label
+    Friend WithEvents txt8 As System.Windows.Forms.TextBox
+    Friend WithEvents lbl8 As System.Windows.Forms.Label
+    Friend WithEvents txt7 As System.Windows.Forms.TextBox
+    Friend WithEvents lbl7 As System.Windows.Forms.Label
+    Friend WithEvents txt10 As System.Windows.Forms.TextBox
+    Friend WithEvents lbl10 As System.Windows.Forms.Label
     Friend WithEvents btnCancel As NETXP.Controls.XPButton
     <System.Diagnostics.DebuggerStepThrough()> Private Sub InitializeComponent()
-        Dim resources As System.Resources.ResourceManager = New System.Resources.ResourceManager(GetType(frmLampPlacements))
-        Me.CustomPanelMain = New GradientPanel.CustomPanel
-        Me.btnHelp = New NETXP.Controls.XPButton
-        Me.btnOk = New NETXP.Controls.XPButton
-        Me.btnCancel = New NETXP.Controls.XPButton
-        Me.btnRemoveLamp = New NETXP.Controls.XPButton
-        Me.btnInsertLamp = New NETXP.Controls.XPButton
-        Me.txt6 = New System.Windows.Forms.TextBox
-        Me.txt5 = New System.Windows.Forms.TextBox
-        Me.txt4 = New System.Windows.Forms.TextBox
-        Me.txt3 = New System.Windows.Forms.TextBox
-        Me.txt2 = New System.Windows.Forms.TextBox
-        Me.txt1 = New System.Windows.Forms.TextBox
-        Me.lbl6 = New System.Windows.Forms.Label
-        Me.lbl5 = New System.Windows.Forms.Label
-        Me.lbl4 = New System.Windows.Forms.Label
-        Me.lbl3 = New System.Windows.Forms.Label
-        Me.lbl2 = New System.Windows.Forms.Label
-        Me.lbl1 = New System.Windows.Forms.Label
-        Me.lblElementName = New System.Windows.Forms.Label
-        Me.lblTurretNo = New System.Windows.Forms.Label
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.HeaderTop = New CodeIntellects.Office2003Controls.Office2003Header
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmLampPlacements))
+        Me.CustomPanelMain = New GradientPanel.CustomPanel()
+        Me.txt10 = New System.Windows.Forms.TextBox()
+        Me.lbl10 = New System.Windows.Forms.Label()
+        Me.txt9 = New System.Windows.Forms.TextBox()
+        Me.lbl9 = New System.Windows.Forms.Label()
+        Me.txt8 = New System.Windows.Forms.TextBox()
+        Me.lbl8 = New System.Windows.Forms.Label()
+        Me.txt7 = New System.Windows.Forms.TextBox()
+        Me.lbl7 = New System.Windows.Forms.Label()
+        Me.btnHelp = New NETXP.Controls.XPButton()
+        Me.btnOk = New NETXP.Controls.XPButton()
+        Me.btnCancel = New NETXP.Controls.XPButton()
+        Me.btnRemoveLamp = New NETXP.Controls.XPButton()
+        Me.btnInsertLamp = New NETXP.Controls.XPButton()
+        Me.txt6 = New System.Windows.Forms.TextBox()
+        Me.txt5 = New System.Windows.Forms.TextBox()
+        Me.txt4 = New System.Windows.Forms.TextBox()
+        Me.txt3 = New System.Windows.Forms.TextBox()
+        Me.txt2 = New System.Windows.Forms.TextBox()
+        Me.txt1 = New System.Windows.Forms.TextBox()
+        Me.lbl6 = New System.Windows.Forms.Label()
+        Me.lbl5 = New System.Windows.Forms.Label()
+        Me.lbl4 = New System.Windows.Forms.Label()
+        Me.lbl3 = New System.Windows.Forms.Label()
+        Me.lbl2 = New System.Windows.Forms.Label()
+        Me.lbl1 = New System.Windows.Forms.Label()
+        Me.lblElementName = New System.Windows.Forms.Label()
+        Me.lblTurretNo = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.HeaderTop = New CodeIntellects.Office2003Controls.Office2003Header()
         Me.CustomPanelMain.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -98,6 +114,14 @@ Public Class frmLampPlacements
         '
         Me.CustomPanelMain.BackColor = System.Drawing.Color.Transparent
         Me.CustomPanelMain.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.CustomPanelMain.Controls.Add(Me.txt10)
+        Me.CustomPanelMain.Controls.Add(Me.lbl10)
+        Me.CustomPanelMain.Controls.Add(Me.txt9)
+        Me.CustomPanelMain.Controls.Add(Me.lbl9)
+        Me.CustomPanelMain.Controls.Add(Me.txt8)
+        Me.CustomPanelMain.Controls.Add(Me.lbl8)
+        Me.CustomPanelMain.Controls.Add(Me.txt7)
+        Me.CustomPanelMain.Controls.Add(Me.lbl7)
         Me.CustomPanelMain.Controls.Add(Me.btnHelp)
         Me.CustomPanelMain.Controls.Add(Me.btnOk)
         Me.CustomPanelMain.Controls.Add(Me.btnCancel)
@@ -122,8 +146,88 @@ Public Class frmLampPlacements
         Me.CustomPanelMain.Dock = System.Windows.Forms.DockStyle.Fill
         Me.CustomPanelMain.Location = New System.Drawing.Point(0, 0)
         Me.CustomPanelMain.Name = "CustomPanelMain"
-        Me.CustomPanelMain.Size = New System.Drawing.Size(338, 327)
+        Me.CustomPanelMain.Size = New System.Drawing.Size(338, 463)
         Me.CustomPanelMain.TabIndex = 0
+        '
+        'txt10
+        '
+        Me.txt10.BackColor = System.Drawing.Color.White
+        Me.txt10.Location = New System.Drawing.Point(96, 361)
+        Me.txt10.Name = "txt10"
+        Me.txt10.ReadOnly = True
+        Me.txt10.Size = New System.Drawing.Size(89, 20)
+        Me.txt10.TabIndex = 9
+        Me.txt10.Tag = "10"
+        Me.txt10.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'lbl10
+        '
+        Me.lbl10.Location = New System.Drawing.Point(35, 357)
+        Me.lbl10.Name = "lbl10"
+        Me.lbl10.Size = New System.Drawing.Size(36, 20)
+        Me.lbl10.TabIndex = 13
+        Me.lbl10.Text = "10"
+        Me.lbl10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'txt9
+        '
+        Me.txt9.BackColor = System.Drawing.Color.White
+        Me.txt9.Location = New System.Drawing.Point(96, 332)
+        Me.txt9.Name = "txt9"
+        Me.txt9.ReadOnly = True
+        Me.txt9.Size = New System.Drawing.Size(89, 20)
+        Me.txt9.TabIndex = 8
+        Me.txt9.Tag = "9"
+        Me.txt9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'lbl9
+        '
+        Me.lbl9.Location = New System.Drawing.Point(35, 328)
+        Me.lbl9.Name = "lbl9"
+        Me.lbl9.Size = New System.Drawing.Size(36, 20)
+        Me.lbl9.TabIndex = 12
+        Me.lbl9.Text = "9"
+        Me.lbl9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'txt8
+        '
+        Me.txt8.BackColor = System.Drawing.Color.White
+        Me.txt8.Location = New System.Drawing.Point(96, 301)
+        Me.txt8.Name = "txt8"
+        Me.txt8.ReadOnly = True
+        Me.txt8.Size = New System.Drawing.Size(89, 20)
+        Me.txt8.TabIndex = 7
+        Me.txt8.Tag = "8"
+        Me.txt8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'lbl8
+        '
+        Me.lbl8.Location = New System.Drawing.Point(35, 297)
+        Me.lbl8.Name = "lbl8"
+        Me.lbl8.Size = New System.Drawing.Size(36, 20)
+        Me.lbl8.TabIndex = 11
+        Me.lbl8.Text = "8"
+        Me.lbl8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'txt7
+        '
+        Me.txt7.BackColor = System.Drawing.Color.White
+        Me.txt7.Location = New System.Drawing.Point(96, 270)
+        Me.txt7.Name = "txt7"
+        Me.txt7.ReadOnly = True
+        Me.txt7.Size = New System.Drawing.Size(89, 20)
+        Me.txt7.TabIndex = 6
+        Me.txt7.Tag = "7"
+        Me.txt7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'lbl7
+        '
+        Me.lbl7.Location = New System.Drawing.Point(34, 267)
+        Me.lbl7.Name = "lbl7"
+        Me.lbl7.Size = New System.Drawing.Size(36, 20)
+        Me.lbl7.TabIndex = 10
+        Me.lbl7.Text = "7"
+        Me.lbl7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'btnHelp
         '
@@ -131,7 +235,7 @@ Public Class frmLampPlacements
         Me.btnHelp.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnHelp.Image = CType(resources.GetObject("btnHelp.Image"), System.Drawing.Image)
         Me.btnHelp.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnHelp.Location = New System.Drawing.Point(240, 216)
+        Me.btnHelp.Location = New System.Drawing.Point(240, 264)
         Me.btnHelp.Name = "btnHelp"
         Me.btnHelp.Size = New System.Drawing.Size(86, 34)
         Me.btnHelp.TabIndex = 8
@@ -144,7 +248,7 @@ Public Class frmLampPlacements
         Me.btnOk.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnOk.Image = CType(resources.GetObject("btnOk.Image"), System.Drawing.Image)
         Me.btnOk.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnOk.Location = New System.Drawing.Point(240, 66)
+        Me.btnOk.Location = New System.Drawing.Point(240, 114)
         Me.btnOk.Name = "btnOk"
         Me.btnOk.Size = New System.Drawing.Size(86, 34)
         Me.btnOk.TabIndex = 6
@@ -157,7 +261,7 @@ Public Class frmLampPlacements
         Me.btnCancel.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnCancel.Image = CType(resources.GetObject("btnCancel.Image"), System.Drawing.Image)
         Me.btnCancel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnCancel.Location = New System.Drawing.Point(240, 141)
+        Me.btnCancel.Location = New System.Drawing.Point(240, 189)
         Me.btnCancel.Name = "btnCancel"
         Me.btnCancel.Size = New System.Drawing.Size(86, 34)
         Me.btnCancel.TabIndex = 7
@@ -170,7 +274,7 @@ Public Class frmLampPlacements
         Me.btnRemoveLamp.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnRemoveLamp.Image = CType(resources.GetObject("btnRemoveLamp.Image"), System.Drawing.Image)
         Me.btnRemoveLamp.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnRemoveLamp.Location = New System.Drawing.Point(171, 280)
+        Me.btnRemoveLamp.Location = New System.Drawing.Point(171, 404)
         Me.btnRemoveLamp.Name = "btnRemoveLamp"
         Me.btnRemoveLamp.Size = New System.Drawing.Size(128, 38)
         Me.btnRemoveLamp.TabIndex = 10
@@ -183,7 +287,7 @@ Public Class frmLampPlacements
         Me.btnInsertLamp.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnInsertLamp.Image = CType(resources.GetObject("btnInsertLamp.Image"), System.Drawing.Image)
         Me.btnInsertLamp.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnInsertLamp.Location = New System.Drawing.Point(27, 280)
+        Me.btnInsertLamp.Location = New System.Drawing.Point(27, 404)
         Me.btnInsertLamp.Name = "btnInsertLamp"
         Me.btnInsertLamp.Size = New System.Drawing.Size(128, 38)
         Me.btnInsertLamp.TabIndex = 9
@@ -199,7 +303,6 @@ Public Class frmLampPlacements
         Me.txt6.Size = New System.Drawing.Size(89, 20)
         Me.txt6.TabIndex = 5
         Me.txt6.Tag = "6"
-        Me.txt6.Text = ""
         Me.txt6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'txt5
@@ -211,7 +314,6 @@ Public Class frmLampPlacements
         Me.txt5.Size = New System.Drawing.Size(89, 20)
         Me.txt5.TabIndex = 4
         Me.txt5.Tag = "5"
-        Me.txt5.Text = ""
         Me.txt5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'txt4
@@ -223,7 +325,6 @@ Public Class frmLampPlacements
         Me.txt4.Size = New System.Drawing.Size(89, 20)
         Me.txt4.TabIndex = 3
         Me.txt4.Tag = "4"
-        Me.txt4.Text = ""
         Me.txt4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'txt3
@@ -235,7 +336,6 @@ Public Class frmLampPlacements
         Me.txt3.Size = New System.Drawing.Size(89, 20)
         Me.txt3.TabIndex = 2
         Me.txt3.Tag = "3"
-        Me.txt3.Text = ""
         Me.txt3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'txt2
@@ -247,7 +347,6 @@ Public Class frmLampPlacements
         Me.txt2.Size = New System.Drawing.Size(89, 20)
         Me.txt2.TabIndex = 1
         Me.txt2.Tag = "2"
-        Me.txt2.Text = ""
         Me.txt2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'txt1
@@ -259,7 +358,6 @@ Public Class frmLampPlacements
         Me.txt1.Size = New System.Drawing.Size(89, 20)
         Me.txt1.TabIndex = 0
         Me.txt1.Tag = "1"
-        Me.txt1.Text = ""
         Me.txt1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'lbl6
@@ -338,9 +436,9 @@ Public Class frmLampPlacements
         '
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.Label1.Location = New System.Drawing.Point(15, 32)
+        Me.Label1.Location = New System.Drawing.Point(15, 33)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(211, 236)
+        Me.Label1.Size = New System.Drawing.Size(211, 357)
         Me.Label1.TabIndex = 1
         '
         'HeaderTop
@@ -360,7 +458,7 @@ Public Class frmLampPlacements
         Me.AutoScaleBaseSize = New System.Drawing.Size(5, 13)
         Me.BackColor = System.Drawing.Color.AliceBlue
         Me.CancelButton = Me.btnCancel
-        Me.ClientSize = New System.Drawing.Size(338, 327)
+        Me.ClientSize = New System.Drawing.Size(338, 463)
         Me.Controls.Add(Me.CustomPanelMain)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
@@ -371,6 +469,7 @@ Public Class frmLampPlacements
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Lamp Placements"
         Me.CustomPanelMain.ResumeLayout(False)
+        Me.CustomPanelMain.PerformLayout()
         Me.ResumeLayout(False)
 
     End Sub
@@ -495,6 +594,10 @@ Public Class frmLampPlacements
             AddHandler txt4.Enter, AddressOf GetTurretPosition
             AddHandler txt5.Enter, AddressOf GetTurretPosition
             AddHandler txt6.Enter, AddressOf GetTurretPosition
+            AddHandler txt7.Enter, AddressOf GetTurretPosition
+            AddHandler txt8.Enter, AddressOf GetTurretPosition
+            AddHandler txt9.Enter, AddressOf GetTurretPosition
+            AddHandler txt10.Enter, AddressOf GetTurretPosition
 
             AddHandler btnInsertLamp.Click, AddressOf btnInsertLamp_Click
             AddHandler btnRemoveLamp.Click, AddressOf btnRemoveLamp_Click
@@ -626,9 +729,10 @@ Public Class frmLampPlacements
                             '---10.02.08
                             'If gobjCommProtocol.gFuncTurret_Home() Then
                             '---calculate steps to reach turret at top
-                            nosteps = gfuncTurretStepsForLampTop(TurretPosition)
+                            'nosteps = gfuncTurretStepsForLampTop(TurretPosition)
                             '---rotate turret clockwise with above mentioned steps
-                            If gobjCommProtocol.funcRotate_Steps_Tur_Clock(nosteps) Then
+                            'If gobjCommProtocol.funcRotate_Steps_Tur_Clock(nosteps) Then
+                            If gobjInst.Lamp_Position <> TurretPosition Then
                                 gobjMessageAdapter.CloseStatusMessageBox()
                                 Application.DoEvents()
                                 '---Insert Cu Lamp in turret No. 3 and click OK button                       
@@ -648,8 +752,8 @@ Public Class frmLampPlacements
                                     Application.DoEvents()
                                     '---position turret to home position
                                     '---10.02.08
-                                    gobjCommProtocol.funcRotate_Steps_Tur_AntiClock(nosteps + 10)
-                                    gobjCommProtocol.funcRotate_Steps_Tur_Clock(10)
+                                    'gobjCommProtocol.funcRotate_Steps_Tur_AntiClock(nosteps + 10)
+                                    'gobjCommProtocol.funcRotate_Steps_Tur_Clock(10)
                                     '---10.02.08
                                     'gobjCommProtocol.gFuncTurret_Home()
                                     mintLatestTurretPosition = TurretPosition 'objClsInstrumentParameters.TurretNumber
@@ -718,6 +822,14 @@ Public Class frmLampPlacements
                     txtElementName = txt5.Text
                 Case 6
                     txtElementName = txt6.Text
+                Case 7
+                    txtElementName = txt7.Text
+                Case 8
+                    txtElementName = txt8.Text
+                Case 9
+                    txtElementName = txt9.Text
+                Case 10
+                    txtElementName = txt10.Text
                 Case Else
                     txtElementName = ""
             End Select
@@ -1043,6 +1155,14 @@ Public Class frmLampPlacements
                         txt5.Text = strelementname
                     Case 6
                         txt6.Text = strelementname
+                    Case 7
+                        txt7.Text = strelementname
+                    Case 8
+                        txt8.Text = strelementname
+                    Case 9
+                        txt9.Text = strelementname
+                    Case 10
+                        txt10.Text = strelementname
                 End Select
             Next
 
@@ -1105,8 +1225,24 @@ Public Class frmLampPlacements
                     'txt5.Refresh()
                 Case 6
                     txt6.Text = strElementName
-                    'txt6.Select()
-                    'txt6.Refresh()
+                'txt6.Select()
+                'txt6.Refresh()
+                Case 7
+                    txt7.Text = strElementName
+                'txt7.Select()
+                'txt7.Refresh()
+                Case 8
+                    txt8.Text = strElementName
+                'txt8.Select()
+                'txt8.Refresh()
+                Case 9
+                    txt9.Text = strElementName
+                'txt9.Select()
+                'txt9.Refresh()
+                Case 10
+                    txt10.Text = strElementName
+                    'txt10.Select()
+                    'txt10.Refresh()
             End Select
 
             Return True

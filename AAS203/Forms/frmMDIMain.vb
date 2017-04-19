@@ -1725,6 +1725,11 @@ Public Class frmMDIMain
             If Not IsNothing(mobjfrmAnalysis) Then
                 If mobjfrmAnalysis.InAnalysis Then
                     gobjMessageAdapter.ShowMessage(constAnalysisUnderProgress)
+
+
+
+
+
                     Application.DoEvents()
                     Exit Sub
                 End If

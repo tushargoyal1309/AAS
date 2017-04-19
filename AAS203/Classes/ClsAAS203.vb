@@ -1058,7 +1058,7 @@ Public Class ClsAAS203''class behind the class
                 Return 2
                 ''2 for 201
             Else
-                Return 6
+                Return 10
                 ''for other
             End If
 
@@ -2591,7 +2591,7 @@ Public Class ClsAAS203''class behind the class
                     'read a ADC filter value.
                 Next
                 'x1 = (chnew-2047.0)/4096.0*10000.0;
-                x1 = (chnew - 2047.0) / 4096.0 * 10000.0
+                x1 = (chnew - 4095.0) / 8192.0 * 10000.0
                 ''get X1 as per chnew 
 
                 'If (GetSRLamp()) Then
@@ -3108,7 +3108,7 @@ Public Class ClsAAS203''class behind the class
 
                 '--- Calculate the Abs value
                 'x1 = (chnew-2047.0)/4096.0*10000.0;
-                dblx1 = (intchnew - 2047.0) / 4096.0 * 10000.0
+                dblx1 = (intchnew - 4095.0) / 8192.0 * 10000.0
 
                 'If (GetSRLamp()) Then
                 ' sprintf(line1,"SRCur.:%d mA  Energy: %4.1f   ",d2cur, (100.0/value)*x1);
@@ -3466,14 +3466,14 @@ Public Class ClsAAS203''class behind the class
                 ''set a PMT for reference beam.
                 'end if
 
-                For chIdx = 0 To 5
+                For chIdx = 0 To 9
                     'for(i=0; i<4; i++)
                     'chnew = ReadADCFilter();
                     Call gobjCommProtocol.funcReadADCFilter_ReferenceBeam(gobjInst.Average, chnew)
                     ''read a ADC filter
                 Next
                 'x1 = (chnew-2047.0)/4096.0*10000.0;
-                x1 = (chnew - 2047.0) / 4096.0 * 10000.0
+                x1 = (chnew - 4095.0) / 8192.0 * 10000.0
 
                 'If (GetSRLamp()) Then
                 'sprintf(line1,"SRCur.:%d mA  Energy: %4.1f   ",d2cur, (100.0/value)*x1);
@@ -3967,7 +3967,7 @@ Public Class ClsAAS203''class behind the class
                     ''for read a ADC filter
                 Next
                 'x1 = (chnew-2047.0)/4096.0*10000.0;
-                dblx1 = (intchnew - 2047.0) / 4096.0 * 10000.0
+                dblx1 = (intchnew - 4095.0) / 8192.0 * 10000.0
 
                 'If (GetSRLamp()) Then
                 ' sprintf(line1,"SRCur.:%d mA  Energy: %4.1f   ",d2cur, (100.0/value)*x1);

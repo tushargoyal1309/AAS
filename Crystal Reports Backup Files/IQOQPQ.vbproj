@@ -1,0 +1,840 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{86B8821F-30AA-4933-89D6-43B4B355A98C}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon />
+    <AssemblyKeyContainerName />
+    <AssemblyName>IQOQPQ</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>IQOQPQ</RootNamespace>
+    <StartupObject>IQOQPQ.frmPQTest3</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <SccAuxPath />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>IQOQPQ.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>IQOQPQ.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MessageHandler\MessageHandler.vbproj">
+      <Name>MessageHandler</Name>
+      <Project>{22FD73AD-59C2-4980-B03E-E81304407A68}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <Reference Include="acclListBar">
+      <Name>accllistbar</Name>
+      <HintPath>dll\accllistbar.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine">
+      <HintPath>..\packages\CrystalDecisions.CrystalReports.Engine.1.0.0\lib\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource">
+      <HintPath>..\packages\CrystalDecisions.ReportSource.1.0.0\lib\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared">
+      <HintPath>..\packages\CrystalDecisions.Shared.1.0.0\lib\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms">
+      <HintPath>..\packages\CrystalDecisions.Windows.Forms.1.0.0\lib\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DataObject">
+      <Name>DataObject</Name>
+      <HintPath>dll\DataObject.dll</HintPath>
+    </Reference>
+    <Reference Include="ErrorHandler">
+      <Name>ErrorHandler</Name>
+      <HintPath>dll\ErrorHandler.dll</HintPath>
+    </Reference>
+    <Reference Include="GradientPanel">
+      <Name>GradientPanel</Name>
+      <HintPath>dll\GradientPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="NETXP.Controls">
+      <Name>netxp.controls</Name>
+      <HintPath>..\..\..\..\color analysis\sachin\source\dlls\office2003\netxp.controls.dll</HintPath>
+    </Reference>
+    <Reference Include="NETXP.Library">
+      <Name>NETXP.Library</Name>
+      <HintPath>..\..\..\..\color analysis\sachin\source\dlls\office2003\NETXP.Library.dll</HintPath>
+    </Reference>
+    <Reference Include="NETXP.Win32">
+      <Name>NETXP.Win32</Name>
+      <HintPath>..\..\..\..\color analysis\sachin\source\dlls\office2003\NETXP.Win32.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services">
+      <Name>System.Web.Services</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="vbWindowsUI">
+      <Name>vbwindowsui</Name>
+      <HintPath>dll\vbwindowsui.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsDataAccessLayer.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsMessageAdapter.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\IQOQPQ.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataSet\dtsetExportAll.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsetExportAll.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCustomerDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmextra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmIQApproval.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmIQDeficiency.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmIQEquipmentList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmIQMannualList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmIQSpecification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmIQTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMessage1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOQEquipmentList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOQTest1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOQTest2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOQUserTraining.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQTest1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQTest10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQTest2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQTest3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQTest4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQTest5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQTest6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQTest7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQTest8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQTest9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPQWarranty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Module\mGeneralConstants.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Forms\Module\mGeneralDeclarations.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Forms\Module\mGeneralFunctions.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Reports\crptAllReport1.vb">
+      <DependentUpon>crptAllReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\CrystalReport2.vb">
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\CustomerDetails.vb">
+      <DependentUpon>CustomerDetails.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\IQApproval.vb">
+      <DependentUpon>IQApproval.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\IQCompleteAcceptBy.vb">
+      <DependentUpon>IQCompleteAcceptBy.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\IQDeficiency.vb">
+      <DependentUpon>IQDeficiency.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\IQEquipmentList.vb">
+      <DependentUpon>IQEquipmentList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\IQInstAccessory.vb">
+      <DependentUpon>IQInstAccessory.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\IQInstSpecification.vb">
+      <DependentUpon>IQInstSpecification.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\IQManualListing.vb">
+      <DependentUpon>IQManualListing.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\IQTest.vb">
+      <DependentUpon>IQTest.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQApproval.vb">
+      <DependentUpon>OQApproval.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQCompleteAcceptBy.vb">
+      <DependentUpon>OQCompleteAcceptBy.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQDeficiency.vb">
+      <DependentUpon>OQDeficiency.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQEquipmentList.vb">
+      <DependentUpon>OQEquipmentList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQTest1.vb">
+      <DependentUpon>OQTest1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQTest2.vb">
+      <DependentUpon>OQTest2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQTest3.vb">
+      <DependentUpon>OQTest3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQTest4.vb">
+      <DependentUpon>OQTest4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQTest5.vb">
+      <DependentUpon>OQTest5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQTest6.vb">
+      <DependentUpon>OQTest6.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQUser.vb">
+      <DependentUpon>OQUser.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\OQUserTraining.vb">
+      <DependentUpon>OQUserTraining.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQApproval.vb">
+      <DependentUpon>PQApproval.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQCompleteAcceptBy.vb">
+      <DependentUpon>PQCompleteAcceptBy.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQDeficiency.vb">
+      <DependentUpon>PQDeficiency.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQEquipmentList.vb">
+      <DependentUpon>PQEquipmentList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQTest1.vb">
+      <DependentUpon>PQTest1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQTest10.vb">
+      <DependentUpon>PQTest10.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQTest2.vb">
+      <DependentUpon>PQTest2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQTest22.vb">
+      <DependentUpon>PQTest22.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQTest3.vb">
+      <DependentUpon>PQTest3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQTest4.vb">
+      <DependentUpon>PQTest4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQTest5.vb">
+      <DependentUpon>PQTest5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQTest6.vb">
+      <DependentUpon>PQTest6.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQTest7.vb">
+      <DependentUpon>PQTest7.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQTest8.vb">
+      <DependentUpon>PQTest8.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\PQWarranty.vb">
+      <DependentUpon>PQWarranty.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Content Include="DataSet\dtsetCompletedBy.xsd" />
+    <Content Include="DataSet\dtsetCustomerDetails.xsd" />
+    <Content Include="DataSet\dtsetExportAll.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsetExportAll.Designer.vb</LastGenOutput>
+    </Content>
+    <Content Include="DataSet\dtsetIQAccessory.xsd" />
+    <Content Include="DataSet\dtsetIQApproval.xsd" />
+    <Content Include="DataSet\dtsetIQCompletedBy.xsd" />
+    <Content Include="DataSet\dtsetIQDeficiency.xsd" />
+    <Content Include="DataSet\dtsetIQEquipmentList.xsd" />
+    <Content Include="DataSet\dtsetIQMAnualList.xsd" />
+    <Content Include="DataSet\dtsetIQSpecification.xsd" />
+    <Content Include="DataSet\dtsetIQTest.xsd" />
+    <Content Include="DataSet\dtsetOQTest.xsd" />
+    <Content Include="DataSet\dtsetPQTest.xsd" />
+    <Content Include="DataSet\dtsetUserTraining.xsd" />
+    <EmbeddedResource Include="Forms\frmCustomerDetails.resx">
+      <DependentUpon>frmCustomerDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmextra.resx">
+      <DependentUpon>frmextra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIQApproval.resx">
+      <DependentUpon>frmIQApproval.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIQDeficiency.resx">
+      <DependentUpon>frmIQDeficiency.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIQEquipmentList.resx">
+      <DependentUpon>frmIQEquipmentList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIQMannualList.resx">
+      <DependentUpon>frmIQMannualList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIQSpecification.resx">
+      <DependentUpon>frmIQSpecification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIQTest.resx">
+      <DependentUpon>frmIQTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMDI.resx">
+      <DependentUpon>frmMDI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMessage1.resx">
+      <DependentUpon>frmMessage1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOQEquipmentList.resx">
+      <DependentUpon>frmOQEquipmentList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOQTest1.resx">
+      <DependentUpon>frmOQTest1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOQTest2.resx">
+      <DependentUpon>frmOQTest2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOQUserTraining.resx">
+      <DependentUpon>frmOQUserTraining.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQTest1.resx">
+      <DependentUpon>frmPQTest1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQTest10.resx">
+      <DependentUpon>frmPQTest10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQTest2.resx">
+      <DependentUpon>frmPQTest2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQTest3.resx">
+      <DependentUpon>frmPQTest3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQTest4.resx">
+      <DependentUpon>frmPQTest4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQTest5.resx">
+      <DependentUpon>frmPQTest5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQTest6.resx">
+      <DependentUpon>frmPQTest6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQTest7.resx">
+      <DependentUpon>frmPQTest7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQTest8.resx">
+      <DependentUpon>frmPQTest8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQTest9.resx">
+      <DependentUpon>frmPQTest9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPQWarranty.resx">
+      <DependentUpon>frmPQWarranty.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReportViewer.resx">
+      <DependentUpon>frmReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\crptAllReport.rpt">
+      <SubType>Code</SubType>
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptAllReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\crptAllReport1.resx">
+      <DependentUpon>crptAllReport1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\CustomerDetails.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CustomerDetails1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\IQApproval.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IQApproval.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\IQCompleteAcceptBy.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IQCompleteAcceptBy.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\IQDeficiency.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IQDeficiency.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\IQEquipmentList.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IQEquipmentList.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\IQInstAccessory.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IQInstAccessory.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\IQInstSpecification.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IQInstSpecification.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\IQManualListing.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IQManualListing.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\IQTest.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IQTest.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQApproval.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQApproval.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQCompleteAcceptBy.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQCompleteAcceptBy.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQDeficiency.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQDeficiency.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQEquipmentList.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQEquipmentList.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQTest1.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQTest1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQTest2.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQTest2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQTest3.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQTest3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQTest4.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQTest4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQTest5.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQTest5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQTest6.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQTest6.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQUser.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQUser.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OQUserTraining.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OQUserTraining.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQApproval.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQApproval.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQCompleteAcceptBy.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQCompleteAcceptBy.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQDeficiency.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQDeficiency.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQEquipmentList.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQEquipmentList.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQTest1.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQTest1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQTest10.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQTest10.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQTest2.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQTest2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQTest22.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQTest22.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQTest3.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQTest3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQTest4.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQTest4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQTest5.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQTest5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQTest6.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQTest6.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQTest7.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQTest7.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQTest8.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQTest8.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PQWarranty.rpt">
+      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PQWarranty.vb</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="DataSet\dtsetCompletedBy.xsx">
+      <DependentUpon>dtsetCompletedBy.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetCustomerDetails.xsx">
+      <DependentUpon>dtsetCustomerDetails.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetExportAll.xsx">
+      <DependentUpon>dtsetExportAll.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetIQAccessory.xsx">
+      <DependentUpon>dtsetIQAccessory.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetIQApproval.xsx">
+      <DependentUpon>dtsetIQApproval.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetIQCompletedBy.xsx">
+      <DependentUpon>dtsetIQCompletedBy.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetIQDeficiency.xsx">
+      <DependentUpon>dtsetIQDeficiency.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetIQEquipmentList.xsx">
+      <DependentUpon>dtsetIQEquipmentList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetIQMAnualList.xsx">
+      <DependentUpon>dtsetIQMAnualList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetIQSpecification.xsx">
+      <DependentUpon>dtsetIQSpecification.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetIQTest.xsx">
+      <DependentUpon>dtsetIQTest.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetOQTest.xsx">
+      <DependentUpon>dtsetOQTest.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetPQTest.xsx">
+      <DependentUpon>dtsetPQTest.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dtsetUserTraining.xsx">
+      <DependentUpon>dtsetUserTraining.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{CF845C55-C321-4742-B673-E6212D061ED9}" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

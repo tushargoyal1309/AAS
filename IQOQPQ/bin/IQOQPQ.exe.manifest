@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="IQOQPQ.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="IQOQPQ" version="1.1.6284.25440" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="IQOQPQ" version="1.1.6299.20639" language="neutral" processorArchitecture="msil" />
     <commandLine file="IQOQPQ.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -108,7 +108,7 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
-      <assemblyIdentity name="log4net" version="1.2.10.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="log4net" version="1.2.10.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="x86" />
     </dependentAssembly>
   </dependency>
   <dependency>
@@ -225,26 +225,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IQOQPQ.exe" size="2075136">
-      <assemblyIdentity name="IQOQPQ" version="1.1.6284.25440" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IQOQPQ.exe" size="2074624">
+      <assemblyIdentity name="IQOQPQ" version="1.1.6299.20639" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>4v2mL52PqDcFq7W0t+uqcsSvEVQ=</dsig:DigestValue>
+        <dsig:DigestValue>3WIBF6dBReytweM/Dsr4CPB9iEw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MessageHandler.dll" size="64000">
-      <assemblyIdentity name="MessageHandler" version="1.0.6233.20864" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="MessageHandler" version="1.0.6299.20637" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>HOzoC2iDOARNZPgQZpBFsR4Wemc=</dsig:DigestValue>
+        <dsig:DigestValue>fek4q3dgta5poVYTShtpYlqtiPY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -292,7 +292,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>AHmV4Btjh8nkNFKrwg4p7Kvnz3E=</dsig:DigestValue>
+        <dsig:DigestValue>ruRC42LnL3fYmJMmx7ED/vII3lU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

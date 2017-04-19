@@ -3964,7 +3964,7 @@ Public Class frmAnalysis
                 End If
                 '#If STD_ADDN Then
                 If Not (gobjNewMethod.StandardAddition) Then
-                    'CurSamp =Method->QuantData->SampTopData;
+                    'CurSamp =Me++thod->QuantData->SampTopData;
                     mobjCurrentSample = gobjNewMethod.QuantitativeDataCollection.Item(mintRunNumberIndex).SampleDataCollection.item(0)
                 End If
                 '#End If

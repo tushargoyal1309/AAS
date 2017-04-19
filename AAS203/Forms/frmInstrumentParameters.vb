@@ -2919,7 +2919,7 @@ Public Class frmInstrumentParameters ''this class contain a function for setting
         Dim i As Integer
         ''i for counter
         Try
-            For i = 0 To 5
+            For i = 0 To 9
                 If (gobjNewMethod.InstrumentCondition.ElementID = gobjDataAccess.GetCookBookElementID(gobjInst.Lamp.LampParametersCollection.item(i).AtomicNumber)) Then
                     ''check a ElementID frm database.
                     blFlag = True

@@ -17,7 +17,7 @@ Imports System.Runtime.InteropServices
 <Assembly: CLSCompliant(True)> 
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("D7DE0151-91B6-492D-9A58-AF02DC483435")> 
+<Assembly: Guid("D7DE0151-91B6-492D-9A58-AF02DC483435")>
 
 ' Version information for an assembly consists of the following four values:
 '
@@ -29,7 +29,7 @@ Imports System.Runtime.InteropServices
 ' You can specify all the values or you can default the Build and Revision Numbers 
 ' by using the '*' as shown below:
 
-<Assembly: AssemblyVersion("5.1")> 
+<Assembly: AssemblyVersion("6.1")>
 
 '---4.99 (uv spectrum on baseline if cursor moves to menu bar it takes time,iqoqpq lock related problems)
 '---5.0 phosphorus element enabled for 301 and 303 instr. after discussion with (Nerkar Sir and Karlekar Sir) on 18.04.11

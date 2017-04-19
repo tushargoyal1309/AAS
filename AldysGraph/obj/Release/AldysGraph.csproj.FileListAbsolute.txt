@@ -53,3 +53,25 @@ C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Rele
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Release\AldysGraph.PointInfo.frmPointInfo.resources
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Release\AldysGraph.csproj.GenerateResource.Cache
 C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AldysGraph\obj\Release\AldysGraph.dll
+D:\AA203Tushar\AA203\AldysGraph\bin\Release\AldysGraph.dll
+D:\AA203Tushar\AA203\AldysGraph\bin\Release\GradientPanel.dll
+D:\AA203Tushar\AA203\AldysGraph\bin\Release\NETXP.Controls.dll
+D:\AA203Tushar\AA203\AldysGraph\bin\Release\NETXP.Library.dll
+D:\AA203Tushar\AA203\AldysGraph\bin\Release\NETXP.Win32.dll
+D:\AA203Tushar\AA203\AldysGraph\bin\Release\PeakSymbol.dll
+D:\AA203Tushar\AA203\AldysGraph\obj\Release\AldysGraph.csprojResolveAssemblyReference.cache
+D:\AA203Tushar\AA203\AldysGraph\obj\Release\AldysGraph.AldysGraph.resources
+D:\AA203Tushar\AA203\AldysGraph\obj\Release\AldysGraph.PointInfo.frmPointInfo.resources
+D:\AA203Tushar\AA203\AldysGraph\obj\Release\AldysGraph.csproj.GenerateResource.Cache
+D:\AA203Tushar\AA203\AldysGraph\obj\Release\AldysGraph.dll
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\bin\Release\AldysGraph.dll
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\bin\Release\GradientPanel.dll
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\bin\Release\NETXP.Controls.dll
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\bin\Release\NETXP.Library.dll
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\bin\Release\NETXP.Win32.dll
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\bin\Release\PeakSymbol.dll
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\obj\Release\AldysGraph.AldysGraph.resources
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\obj\Release\AldysGraph.PointInfo.frmPointInfo.resources
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\obj\Release\AldysGraph.csproj.GenerateResource.Cache
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\obj\Release\AldysGraph.dll
+D:\PROJECTS\AA203Tushar\AA203\AldysGraph\obj\Release\AldysGraph.csprojResolveAssemblyReference.cache

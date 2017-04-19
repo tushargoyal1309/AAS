@@ -14,7 +14,7 @@ Namespace Instrument
             intAverage = 0
             dblEntrySlitPosition = 0.0
             intLamp_Old = 0
-            intLamp_Position = 0
+            intLamp_Position = 1
             intLamp_Warm = 0
             intMode = 0
             intD2Current = 0

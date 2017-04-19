@@ -94,26 +94,26 @@ Public Class frmReportOptions
     Friend WithEvents cbWeightVolumeDilution As System.Windows.Forms.CheckBox
     Friend WithEvents lblHeading As System.Windows.Forms.Label
     <System.Diagnostics.DebuggerStepThrough()> Private Sub InitializeComponent()
-        Dim resources As System.Resources.ResourceManager = New System.Resources.ResourceManager(GetType(frmReportOptions))
-        Me.Office2003Header1 = New CodeIntellects.Office2003Controls.Office2003Header
-        Me.CustomPanel1 = New GradientPanel.CustomPanel
-        Me.GroupBox2 = New System.Windows.Forms.GroupBox
-        Me.txtReportFooter = New System.Windows.Forms.TextBox
-        Me.txtReportHeader = New System.Windows.Forms.TextBox
-        Me.lblReportFooter1 = New System.Windows.Forms.Label
-        Me.lblReportHeader1 = New System.Windows.Forms.Label
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.cbReportHeader = New System.Windows.Forms.CheckBox
-        Me.cbInstrumentCondition = New System.Windows.Forms.CheckBox
-        Me.cbAnalysisParameters = New System.Windows.Forms.CheckBox
-        Me.cbMethodInfo = New System.Windows.Forms.CheckBox
-        Me.cbStandards = New System.Windows.Forms.CheckBox
-        Me.cbAbsorbance = New System.Windows.Forms.CheckBox
-        Me.cbWeightVolumeDilution = New System.Windows.Forms.CheckBox
-        Me.lblHeading = New System.Windows.Forms.Label
-        Me.btnCancel = New NETXP.Controls.XPButton
-        Me.btnOk = New NETXP.Controls.XPButton
-        Me.btnHelp = New NETXP.Controls.XPButton
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmReportOptions))
+        Me.Office2003Header1 = New CodeIntellects.Office2003Controls.Office2003Header()
+        Me.CustomPanel1 = New GradientPanel.CustomPanel()
+        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.txtReportFooter = New System.Windows.Forms.TextBox()
+        Me.txtReportHeader = New System.Windows.Forms.TextBox()
+        Me.lblReportFooter1 = New System.Windows.Forms.Label()
+        Me.lblReportHeader1 = New System.Windows.Forms.Label()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.cbReportHeader = New System.Windows.Forms.CheckBox()
+        Me.cbInstrumentCondition = New System.Windows.Forms.CheckBox()
+        Me.cbAnalysisParameters = New System.Windows.Forms.CheckBox()
+        Me.cbMethodInfo = New System.Windows.Forms.CheckBox()
+        Me.cbStandards = New System.Windows.Forms.CheckBox()
+        Me.cbAbsorbance = New System.Windows.Forms.CheckBox()
+        Me.cbWeightVolumeDilution = New System.Windows.Forms.CheckBox()
+        Me.lblHeading = New System.Windows.Forms.Label()
+        Me.btnCancel = New NETXP.Controls.XPButton()
+        Me.btnOk = New NETXP.Controls.XPButton()
+        Me.btnHelp = New NETXP.Controls.XPButton()
         Me.CustomPanel1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
@@ -160,25 +160,23 @@ Public Class frmReportOptions
         '
         Me.txtReportFooter.Enabled = False
         Me.txtReportFooter.Location = New System.Drawing.Point(8, 88)
-        Me.txtReportFooter.MaxLength = 45
+        Me.txtReportFooter.MaxLength = 4000
         Me.txtReportFooter.Multiline = True
         Me.txtReportFooter.Name = "txtReportFooter"
         Me.txtReportFooter.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.txtReportFooter.Size = New System.Drawing.Size(374, 48)
         Me.txtReportFooter.TabIndex = 9
-        Me.txtReportFooter.Text = ""
         '
         'txtReportHeader
         '
         Me.txtReportHeader.Enabled = False
         Me.txtReportHeader.Location = New System.Drawing.Point(8, 25)
-        Me.txtReportHeader.MaxLength = 40
+        Me.txtReportHeader.MaxLength = 4000
         Me.txtReportHeader.Multiline = True
         Me.txtReportHeader.Name = "txtReportHeader"
         Me.txtReportHeader.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.txtReportHeader.Size = New System.Drawing.Size(374, 43)
         Me.txtReportHeader.TabIndex = 8
-        Me.txtReportHeader.Text = ""
         '
         'lblReportFooter1
         '
@@ -344,6 +342,7 @@ Public Class frmReportOptions
         Me.Text = "Method"
         Me.CustomPanel1.ResumeLayout(False)
         Me.GroupBox2.ResumeLayout(False)
+        Me.GroupBox2.PerformLayout()
         Me.GroupBox1.ResumeLayout(False)
         Me.ResumeLayout(False)
 

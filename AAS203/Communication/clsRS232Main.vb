@@ -975,7 +975,7 @@ Public Class clsRS232Main
                     'mbytParameter4 = bytArray(5)
                     'Dim intCount As Integer
                     'Dim lngVal As Long
-
+                    'Manoj chamged from '0 TO 7' to '0to10'
                     For intCount = 0 To 7 Step 1
                         lngVal += bytArray(intCount)
                     Next
