@@ -4,7 +4,7 @@
   <description asmv2:iconFile="AAS.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="AAS" version="5.1.0.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="AAS" version="6.1.0.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="AAS.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -104,11 +104,6 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
-      <assemblyIdentity name="CrystalEnterpriseLib" version="9.1.5000.0" publicKeyToken="692FBEA5521E1304" language="neutral" />
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
       <assemblyIdentity name="FlashControlV71" version="1.0.3187.32366" publicKeyToken="692FBEA5521E1304" language="neutral" />
     </dependentAssembly>
   </dependency>
@@ -143,26 +138,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AAS.exe" size="5925888">
-      <assemblyIdentity name="AAS" version="5.1.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AAS.exe" size="5764608">
+      <assemblyIdentity name="AAS" version="6.1.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>DxIyGiODzdfgf+P35cd+Q5x7AKw=</dsig:DigestValue>
+        <dsig:DigestValue>1npymxwg1UtZYb96nwmZrVYmpm0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AAS203Library.dll" size="32768">
-      <assemblyIdentity name="AAS203Library" version="1.0.6283.23452" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="AAS203Library" version="1.0.6309.26613" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>N2Bz+fNXTdwhqshwVv5BN80tyyk=</dsig:DigestValue>
+        <dsig:DigestValue>fuTkGGM9qWJHre36/un8rarSDmY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -215,14 +210,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AldysGraph.dll" size="122880">
-      <assemblyIdentity name="AldysGraph" version="1.0.6283.23454" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AldysGraph.dll" size="118784">
+      <assemblyIdentity name="AldysGraph" version="1.0.6309.26616" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>eF933NDre/LIAIoPKdtjbHxa3GM=</dsig:DigestValue>
+        <dsig:DigestValue>nm5WxVrzvL0Aq4/jZu3RDHj0Kxk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -323,6 +318,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CrystalEnterpriseLib.dll" size="45056">
+      <assemblyIdentity name="CrystalEnterpriseLib" version="9.1.5000.0" publicKeyToken="692FBEA5521E1304" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>uDsT0Jun3+xFEiSITvLtxFm3dW0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DataObject.dll" size="36864">
       <assemblyIdentity name="DataObject" version="1.0.3031.17048" language="neutral" />
       <hash>
@@ -360,13 +367,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GridLayoutPanel.dll" size="13824">
-      <assemblyIdentity name="GridLayoutPanel" version="1.0.6283.23453" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="GridLayoutPanel" version="1.0.6309.26609" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>EI4Va0xxGr9rQxHZjFhWuD4ZZXs=</dsig:DigestValue>
+        <dsig:DigestValue>TyQFiemPz3jgi83E+6LxFtcpurc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -383,26 +390,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IQOQPQ.exe" size="2008064">
-      <assemblyIdentity name="IQOQPQ" version="1.1.6283.23461" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IQOQPQ.exe" size="1972736">
+      <assemblyIdentity name="IQOQPQ" version="1.1.6309.26621" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>oZmMabHXW/k4ttVGhHMxC34csgU=</dsig:DigestValue>
+        <dsig:DigestValue>OB51zrX5WS33exsgelLJFfWFau0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MessageHandler.dll" size="62464">
-      <assemblyIdentity name="MessageHandler" version="1.0.6283.23454" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MessageHandler.dll" size="60928">
+      <assemblyIdentity name="MessageHandler" version="1.0.6309.26609" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>FXVW+1D4yPwvfoFil1ONyyo6XAI=</dsig:DigestValue>
+        <dsig:DigestValue>dCbgZbKLV+9J1UBL5ab7TCMEvAk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -491,14 +498,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NumberValidator.dll" size="18432">
-      <assemblyIdentity name="NumberValidator" version="1.0.6283.23452" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NumberValidator.dll" size="16896">
+      <assemblyIdentity name="NumberValidator" version="1.0.6309.26614" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>WtONccPDJPd1CFoRMTqd4341cAc=</dsig:DigestValue>
+        <dsig:DigestValue>YCFQzREoqWvzd103M8lV2lblzhg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -515,14 +522,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RS232SerialComm.dll" size="73216">
-      <assemblyIdentity name="RS232SerialComm" version="1.0.6283.23452" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RS232SerialComm.dll" size="71680">
+      <assemblyIdentity name="RS232SerialComm" version="1.0.6309.26609" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>jxU3dOU35l8xgQ1jnmAKxFdAXrU=</dsig:DigestValue>
+        <dsig:DigestValue>92W0M6Bt8h7iL2A5R3QRRbONz5w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -546,19 +553,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>AHmV4Btjh8nkNFKrwg4p7Kvnz3E=</dsig:DigestValue>
+        <dsig:DigestValue>ruRC42LnL3fYmJMmx7ED/vII3lU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ValueEditor.dll" size="23040">
-      <assemblyIdentity name="ValueEditor" version="1.0.6283.23454" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ValueEditor.dll" size="21504">
+      <assemblyIdentity name="ValueEditor" version="1.0.6309.26609" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>QUh5ZZGkzAIZ57owG1Y3Lbq64Co=</dsig:DigestValue>
+        <dsig:DigestValue>R2uleTqjF919jJ1Me+wrKlzCAtA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -598,13 +605,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="AAS.exe.config" size="2239">
+  <file name="AAS.exe.config" size="2184">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>6mL0/+WDPnbT5CB1saLblhjkmjM=</dsig:DigestValue>
+      <dsig:DigestValue>6/G3ttpFh7ugF59AWoGAGowMstQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="AAS.ico" size="4286">

@@ -1,0 +1,117 @@
+***************************************************************
+Error Occured at : 18:49:27
+***************************************************************
+Process Name = 
+Error Derscription = InvalidArgument=Value of '3' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+Error Message = InvalidArgument=Value of '3' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCommPorts_Selection.vb]
+[Function Name:frmCommPorts_Selection_Load]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCommPorts_Selection.vb
+  <Procedure - (0)  :frmCommPorts_Selection_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\clsCommProtocolFunctions.vb
+  <Procedure - (1)  :funcInitInstrument>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAASInitialisation.vb
+  <Procedure - (2)  :funcInstrumentInitialization>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (3)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 18:49:33
+***************************************************************
+Process Name = 
+Error Derscription = InvalidArgument=Value of '3' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+Error Message = InvalidArgument=Value of '3' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCommPorts_Selection.vb]
+[Function Name:frmCommPorts_Selection_Load]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCommPorts_Selection.vb
+  <Procedure - (0)  :frmCommPorts_Selection_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\clsCommProtocolFunctions.vb
+  <Procedure - (1)  :funcInitInstrument>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAASInitialisation.vb
+  <Procedure - (2)  :funcInstrumentInitialization>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (3)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 18:49:38
+***************************************************************
+Process Name = 
+Error Derscription = InvalidArgument=Value of '3' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+Error Message = InvalidArgument=Value of '3' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCommPorts_Selection.vb]
+[Function Name:frmCommPorts_Selection_Load]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCommPorts_Selection.vb
+  <Procedure - (0)  :frmCommPorts_Selection_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\clsCommProtocolFunctions.vb
+  <Procedure - (1)  :funcInitInstrument>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAASInitialisation.vb
+  <Procedure - (2)  :funcInstrumentInitialization>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (3)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

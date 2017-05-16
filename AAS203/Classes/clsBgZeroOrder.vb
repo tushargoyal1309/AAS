@@ -317,7 +317,7 @@ Public Class clsBgZeroOrder
                 lblSt3Zero.Refresh()
             End If
 
-            For intPos = 0 To 5
+            For intPos = 0 To 9
                 gobjInst.Lamp.LampParametersCollection.item(intPos).LampOptimizePosition = 0
             Next
             gobjInst.Lamp.WavelengthZero = 100.0
@@ -341,7 +341,7 @@ Public Class clsBgZeroOrder
                     '---
 
                     If blnIsSlitHome Then
-                        For intPos = 1 To 6
+                        For intPos = 1 To 10
                             '--- Search for the presence of first lamp in turret assembly 
                             '--- and position turret to that location.
                             If gobjInst.Lamp.LampParametersCollection.item(intPos - 1).ElementName <> "" Then

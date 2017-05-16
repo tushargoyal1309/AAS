@@ -1,0 +1,157 @@
+***************************************************************
+Error Occured at : 11:05:11
+***************************************************************
+Process Name = 
+Error Derscription = Unable to set the panel text.
+Error Message = Unable to set the panel text.
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCookBook.vb]
+[Function Name:ShowProgressBar]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCookBook.vb
+  <Procedure - (0)  :ShowProgressBar>
+    <Procedure - (1)  :SubSetBlank>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmLampPlacements.vb
+  <Procedure - (2)  :btnInsertLamp_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmInstrumentParameters.vb
+  <Procedure - (3)  :btnReplaceLamp_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMethod.vb
+  <Procedure - (4)  :tlbbtnNewMethod_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (5)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 11:05:16
+***************************************************************
+Process Name = 
+Error Derscription = Unable to set the panel text.
+Error Message = Unable to set the panel text.
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCookBook.vb]
+[Function Name:ShowProgressBar]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCookBook.vb
+  <Procedure - (0)  :ShowProgressBar>
+    <Procedure - (1)  :SubSetBlank>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmLampPlacements.vb
+  <Procedure - (2)  :btnInsertLamp_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmInstrumentParameters.vb
+  <Procedure - (3)  :btnReplaceLamp_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMethod.vb
+  <Procedure - (4)  :tlbbtnNewMethod_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (5)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 11:19:35
+***************************************************************
+Process Name = 
+Error Derscription = Unable to set the panel text.
+Error Message = Unable to set the panel text.
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCookBook.vb]
+[Function Name:ShowProgressBar]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCookBook.vb
+  <Procedure - (0)  :ShowProgressBar>
+    <Procedure - (1)  :SubSetBlank>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmLampPlacements.vb
+  <Procedure - (2)  :btnInsertLamp_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmInstrumentParameters.vb
+  <Procedure - (3)  :btnReplaceLamp_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMethod.vb
+  <Procedure - (4)  :tlbbtnNewMethod_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (5)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 11:24:02
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb]
+[Function Name:funcRefreshMethodParameter]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (0)  :funcRefreshMethodParameter>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb
+  <Procedure - (1)  :mnuAnalyse_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (2)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

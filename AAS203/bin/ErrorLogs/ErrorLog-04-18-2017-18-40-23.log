@@ -1,0 +1,80 @@
+***************************************************************
+Error Occured at : 18:45:49
+***************************************************************
+Process Name = 
+Error Derscription = Unable to set the panel text.
+Error Message = Unable to set the panel text.
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCookBook.vb]
+[Function Name:ShowProgressBar]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCookBook.vb
+  <Procedure - (0)  :ShowProgressBar>
+    <Procedure - (1)  :SubSetBlank>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmLampPlacements.vb
+  <Procedure - (2)  :btnInsertLamp_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmInstrumentParameters.vb
+  <Procedure - (3)  :btnReplaceLamp_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMethod.vb
+  <Procedure - (4)  :tlbbtnInstrumentParameters_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (5)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 18:47:10
+***************************************************************
+Process Name = 
+Error Derscription = Unable to set the panel text.
+Error Message = Unable to set the panel text.
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCookBook.vb]
+[Function Name:ShowProgressBar]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCookBook.vb
+  <Procedure - (0)  :ShowProgressBar>
+    <Procedure - (1)  :SubSetBlank>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmLampPlacements.vb
+  <Procedure - (2)  :btnInsertLamp_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmInstrumentParameters.vb
+  <Procedure - (3)  :btnReplaceLamp_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMethod.vb
+  <Procedure - (4)  :tlbbtnInstrumentParameters_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (5)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

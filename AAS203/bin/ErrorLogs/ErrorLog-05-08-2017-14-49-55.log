@@ -1,0 +1,68 @@
+***************************************************************
+Error Occured at : 15:47:37
+***************************************************************
+Process Name = 
+Error Derscription = Error creating window handle.
+Error Message = Error creating window handle.
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\clsBgAspirateTimer.vb]
+[Function Name:ShowAspirationMessages]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\clsBgAspirateTimer.vb
+  <Procedure - (0)  :ShowAspirationMessages>
+    <Procedure - (1)  :funcThreadAspirateMsg>
+      <Procedure - (2)  :StartWorkerThread>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 15:47:37
+***************************************************************
+Process Name = 
+Error Derscription = Value Dispose() cannot be called while doing CreateHandle().
+Error Message = Error creating window handle.
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb]
+[Function Name:ShutDownApplication]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb
+  <Procedure - (0)  :ShutDownApplication>
+    <Procedure - (1)  :subExit_Click>
+      <Procedure - (2)  :frmMDIMain_Closing>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (3)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

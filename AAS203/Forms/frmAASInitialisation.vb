@@ -539,9 +539,10 @@ Public Class frmAASInitialisation
         Try
             ''note:
             ''this is used to display a 6 step one by one.
+            'Manoj
 
             lblStep1.Visible = True
-            lblStep1.Text = Space(7) & "Initializing 6-Position Turret Mechanism"
+            lblStep1.Text = Space(7) & "Initializing 10-Position Turret Mechanism"
             lblStep1.Refresh()
 
             lblStep2.Visible = True
@@ -853,12 +854,13 @@ Public Class frmAASInitialisation
             'Read Lamp Position if saved in file and load turret status
             'else search for lamp if present find wavelength home and optimise turret position for that lamp
             If funcLoadInstStatus() = False Then
-                For intCount = 0 To 5
+                For intCount = 0 To 9
                     If gobjInst.Lamp.LampParametersCollection.item(intCount).ElementName <> "" Then
                         Exit For
                     End If
                 Next
-                If intCount = 6 Then
+                'Manoj 6 to 10
+                If intCount = 10 Then
                     'OnLampPlace
 
                     '----Added by Mangesh on 11-Apr-2007 
@@ -889,7 +891,7 @@ Public Class frmAASInitialisation
                     End If
                 End If
             Else
-                For intCount = 0 To 5
+                For intCount = 0 To 9
                     If gobjInst.Lamp.LampParametersCollection.item(intCount).ElementName <> "" Then
                         Exit For
                     End If
@@ -1137,12 +1139,12 @@ Public Class frmAASInitialisation
             'Read Lamp Position if saved in file and load turret status
             'else search for lamp if present find wavelength home and optimise turret position for that lamp
             If funcLoadInstStatus() = False Then
-                For intCount = 0 To 5
+                For intCount = 0 To 9
                     If gobjInst.Lamp.LampParametersCollection.item(intCount).ElementName <> "" Then
                         Exit For
                     End If
                 Next
-
+                'MANOJ 6 to 10
                 If intCount = 6 Then
                     'OnLampPlace
                     'if lamp not present in global object then ask for lamp at initialization
@@ -1171,7 +1173,7 @@ Public Class frmAASInitialisation
                     End If
                 End If
             Else
-                For intCount = 0 To 5
+                For intCount = 0 To 9
                     If gobjInst.Lamp.LampParametersCollection.item(intCount).ElementName <> "" Then
                         Exit For
                     End If
@@ -1401,7 +1403,7 @@ Public Class frmAASInitialisation
                     End If
                 End If
             Else
-                For intCount = 0 To 5
+                For intCount = 0 To 9
                     If gobjInst.Lamp.LampParametersCollection.item(intCount).ElementName <> "" Then
                         Exit For
                     End If

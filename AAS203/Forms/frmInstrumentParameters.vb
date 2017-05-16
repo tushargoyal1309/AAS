@@ -687,7 +687,7 @@ Public Class frmInstrumentParameters ''this class contain a function for setting
                 Select Case gstructSettings.AppMode
                     ''case for app mode
                     ''validate the status form as application mode
-                Case EnumAppMode.FullVersion_201
+                    Case EnumAppMode.FullVersion_201
                         btnOptimiseAllTurret.Visible = False
                         btnOptimiseTurret.Visible = False
                     Case Else
@@ -768,7 +768,7 @@ Public Class frmInstrumentParameters ''this class contain a function for setting
 
                 Select Case gstructSettings.AppMode
                     ''case depanding on appmode
-                Case EnumAppMode.FullVersion_201
+                    Case EnumAppMode.FullVersion_201
                         btnOptimiseAllTurret.Visible = False
                         btnOptimiseTurret.Visible = False
                     Case Else
@@ -2254,7 +2254,7 @@ Public Class frmInstrumentParameters ''this class contain a function for setting
             '--------------------------------------
 
             '---21.01.08
-            If CInt(txtTurretNum.Text) >= 1 And CInt(txtTurretNum.Text) <= 6 Then
+            If CInt(txtTurretNum.Text) >= 1 And CInt(txtTurretNum.Text) <= 10 Then
                 If Not gobjInst Is Nothing Then
                     If IsNumeric(txtLampCurrent.Text) = True Then
                         gobjInst.Lamp.LampParametersCollection(CInt(txtTurretNum.Text) - 1).Current = CDbl(txtLampCurrent.Text)
@@ -2919,7 +2919,7 @@ Public Class frmInstrumentParameters ''this class contain a function for setting
         Dim i As Integer
         ''i for counter
         Try
-            For i = 0 To 5
+            For i = 0 To 9
                 If (gobjNewMethod.InstrumentCondition.ElementID = gobjDataAccess.GetCookBookElementID(gobjInst.Lamp.LampParametersCollection.item(i).AtomicNumber)) Then
                     ''check a ElementID frm database.
                     blFlag = True

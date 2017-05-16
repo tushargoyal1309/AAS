@@ -1,0 +1,40 @@
+***************************************************************
+Error Occured at : 4:57:25 PM
+***************************************************************
+Process Name = 
+Error Derscription = Unable to set the panel text.
+Error Message = Unable to set the panel text.
+Error Source = [Mod:C:\Users\sivakoti.reddy\Desktop\AA203\AAS203\Forms\frmCookBook.vb]
+[Function Name:ShowProgressBar]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\sivakoti.reddy\Desktop\AA203\AAS203\Forms\frmCookBook.vb
+  <Procedure - (0)  :ShowProgressBar>
+    <Procedure - (1)  :SubSetBlank>
+C:\Users\sivakoti.reddy\Desktop\AA203\AAS203\Forms\frmLampPlacements.vb
+  <Procedure - (2)  :btnInsertLamp_Click>
+C:\Users\sivakoti.reddy\Desktop\AA203\AAS203\Forms\frmInstrumentParameters.vb
+  <Procedure - (3)  :btnReplaceLamp_Click>
+C:\Users\sivakoti.reddy\Desktop\AA203\AAS203\Forms\frmMethod.vb
+  <Procedure - (4)  :tlbbtnInstrumentParameters_Click>
+C:\Users\sivakoti.reddy\Desktop\AA203\AAS203\Modules\modMain.vb
+  <Procedure - (5)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

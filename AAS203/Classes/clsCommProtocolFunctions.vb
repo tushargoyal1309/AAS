@@ -813,7 +813,7 @@ AgnComm:
             intStartPosition = gobjInst.Lamp_Position
 
             'Validate lamp current Inst.Lamp_Position & end position within limits of 0 to 6.
-            If (intStartPosition >= 0 And intStartPosition <= 6 And intEndPosition >= 1 And intEndPosition <= 6 And intStartPosition <> intEndPosition) Then
+            If (intStartPosition >= 0 And intStartPosition <= 10 And intEndPosition >= 1 And intEndPosition <= 10 And intStartPosition <> intEndPosition) Then
                 'init Set Turret Position of Inst struct to 0
                 gobjInst.TurretPosition = 0
 
@@ -821,7 +821,7 @@ AgnComm:
                 '---On element change reference pmt should be zero (for double beam instrument).
                 If gstructSettings.AppMode = EnumAppMode.FullVersion_203D Then
                     With gobjInst.Lamp.LampParametersCollection
-                        If gobjInst.Lamp_Position > 0 And intEndPosition <= 6 Then
+                        If gobjInst.Lamp_Position > 0 And intEndPosition <= 10 Then
                             If LCase(.item(gobjInst.Lamp_Position - 1).ElementName) <> LCase(.item(intEndPosition - 1).ElementName) Then
                                 gobjInst.PmtVoltageReference = 0.0
                             End If
@@ -878,8 +878,8 @@ AgnComm:
 
                                 ' if it is demo mode then simply set the lamp position with for loop counter
                                 'If gstructSettings.AppMode = EnumAppMode.DemoMode Then
-                                If (gstructSettings.AppMode = EnumAppMode.DemoMode) Or _
-                                    (gstructSettings.AppMode = EnumAppMode.DemoMode_201) Or _
+                                If (gstructSettings.AppMode = EnumAppMode.DemoMode) Or
+                                    (gstructSettings.AppMode = EnumAppMode.DemoMode_201) Or
                                     (gstructSettings.AppMode = EnumAppMode.DemoMode_203D) Then
                                     'gobjInst.Lamp_Position = intCounter
                                     gobjInst.Lamp_Position = intDemoPosition '---16.03.08
@@ -931,11 +931,11 @@ AgnComm:
                     'MessageBox.Show("OptPos  " + gobjInst.Lamp.LampParametersCollection.item(gobjInst.Lamp_Position - 1).LampOptimizePosition.ToString)  '21.04.08
 
                     'Set the optimised position of Selected turret lamp position 
-                    If blnFlag = True And gobjInst.Lamp_Position > 0 And gobjInst.Lamp_Position < 6 Then
+                    If blnFlag = True And gobjInst.Lamp_Position > 0 And gobjInst.Lamp_Position < 10 Then
                         gobjInst.Lamp_Old = gobjInst.Lamp_Position
                         ''gobjInst.Lamp.LampParametersCollection' in this object its stored for each turret lamp position into steps 
                         'Optimising code for lamp position'
-                        If gobjInst.Lamp.LampParametersCollection.item(gobjInst.Lamp_Position - 1).LampOptimizePosition > 0 And _
+                        If gobjInst.Lamp.LampParametersCollection.item(gobjInst.Lamp_Position - 1).LampOptimizePosition > 0 And
                         gobjInst.Lamp.LampParametersCollection.item(gobjInst.Lamp_Position - 1).LampOptimizePosition <= 100 Then
                             For intCounter = 1 To RANGEH + 10
                                 funcRotate_Anticlock_Tur()
@@ -1671,7 +1671,7 @@ AgnComm:
             '                End If
             'EndOfLoop:  Next
 
-            For i = 0 To 5
+            For i = 0 To 9
                 If gobjInst.Lamp.LampParametersCollection.item(i).LampOptimizePosition = 0 Then
                     Exit For
                 End If
@@ -1953,7 +1953,7 @@ AgnComm:
 
             objWait = New CWaitCursor
 
-            dblYMin = 0 'CInt(FormatNumber(gFuncGetEnergy(2047), 1))
+            dblYMin = 0 'CInt(FormatNumber(gFuncGetEnergy(4095), 1))
             dblYMax = CInt(FormatNumber(gFuncGetEnergy(2047.0 + 409.6 * 4), 1))
 
             If Not ObjGraph Is Nothing Then
@@ -2430,7 +2430,7 @@ AgnComm:
     '    End Try
     'End Function
 
-    Public Function funcSearch_Approc_WV_Peak(ByVal intSteps As Integer, ByVal dblPmtv As Double, Optional ByRef lblStatus1 As Object = Nothing, _
+    Public Function funcSearch_Approc_WV_Peak(ByVal intSteps As Integer, ByVal dblPmtv As Double, Optional ByRef lblStatus1 As Object = Nothing,
     Optional ByRef lblStatus2 As Object = Nothing, Optional ByRef lblStatus3 As Object = Nothing) As Integer
         '-----------------------------------  Procedure Header  -------------------------------
         'Procedure Name         :   funcSearch_Approc_WV_Peak
@@ -2632,7 +2632,7 @@ AgnComm:
 
                 '-if not demo
                 '12.	Calculate (ADC Filter reading - 2047) / 4096 * 10000
-                If ((chNew - 2047.0) / 4096.0 * 10000.0) >= 4900.0 Then
+                If ((chNew - 4095.0) / 8192.0 * 10000.0) >= 4900.0 Then
                     If Not lblStatus2 Is Nothing Then
                         CType(lblStatus2, Windows.Forms.Label).Text = "FULL SCALE RESET  Please Wait ..... "
                         CType(lblStatus2, Windows.Forms.Label).Refresh()
@@ -2703,15 +2703,15 @@ AgnComm:
                     '---Added by Mangesh on 12-Apr-2007 for AA201
                     '***************************************************
                     If gstructSettings.AppMode = EnumAppMode.FullVersion_201 Then
-                        CType(lblStatus2, Windows.Forms.Label).Text = _
-                            "Wavelength : " & Format(gobjInst.WavelengthCur + intCounter / CONST_STEPS_PER_NM_AA201, "0.00") & " nm " & _
-                            "Approx.Peak : " & Format(gobjInst.WavelengthCur + int_pos / CONST_STEPS_PER_NM_AA201, "0.00") & _
+                        CType(lblStatus2, Windows.Forms.Label).Text =
+                            "Wavelength : " & Format(gobjInst.WavelengthCur + intCounter / CONST_STEPS_PER_NM_AA201, "0.00") & " nm " &
+                            "Approx.Peak : " & Format(gobjInst.WavelengthCur + int_pos / CONST_STEPS_PER_NM_AA201, "0.00") &
                             " Energy : " & Format(gFuncGetmv(chNew), "#0.00")
                         '***************************************************
                     Else
-                        CType(lblStatus2, Windows.Forms.Label).Text = _
-                                "Wavelength : " & Format(gobjInst.WavelengthCur + intCounter / CONST_STEPS_PER_NM, "0.00") & " nm " & _
-                                "Approx.Peak : " & Format(gobjInst.WavelengthCur + int_pos / CONST_STEPS_PER_NM, "0.00") & _
+                        CType(lblStatus2, Windows.Forms.Label).Text =
+                                "Wavelength : " & Format(gobjInst.WavelengthCur + intCounter / CONST_STEPS_PER_NM, "0.00") & " nm " &
+                                "Approx.Peak : " & Format(gobjInst.WavelengthCur + int_pos / CONST_STEPS_PER_NM, "0.00") &
                                 " Energy : " & Format(gFuncGetmv(chNew), "#0.00")
                     End If
 
@@ -2767,15 +2767,15 @@ AgnComm:
                 '---Added by Mangesh on 12-Apr-2007 for AA201
                 '***************************************************
                 If gstructSettings.AppMode = EnumAppMode.FullVersion_201 Then
-                    CType(lblStatus2, Windows.Forms.Label).Text = _
-                            "Wavelength : " & Format(gobjInst.WavelengthCur + intCounter / CONST_STEPS_PER_NM_AA201, "0.00") & " nm " & _
-                            "Approx.Peak : " & Format((gobjInst.WavelengthCur + int_pos / CONST_STEPS_PER_NM_AA201), "0.00") & _
+                    CType(lblStatus2, Windows.Forms.Label).Text =
+                            "Wavelength : " & Format(gobjInst.WavelengthCur + intCounter / CONST_STEPS_PER_NM_AA201, "0.00") & " nm " &
+                            "Approx.Peak : " & Format((gobjInst.WavelengthCur + int_pos / CONST_STEPS_PER_NM_AA201), "0.00") &
                             " Energy : " & Format(gFuncGetmv(chNew), "#0.00")
                     '***************************************************
                 Else
-                    CType(lblStatus2, Windows.Forms.Label).Text = _
-                            "Wavelength : " & Format(gobjInst.WavelengthCur + intCounter / CONST_STEPS_PER_NM, "0.00") & " nm " & _
-                            "Approx.Peak : " & Format((gobjInst.WavelengthCur + int_pos / CONST_STEPS_PER_NM), "0.00") & _
+                    CType(lblStatus2, Windows.Forms.Label).Text =
+                            "Wavelength : " & Format(gobjInst.WavelengthCur + intCounter / CONST_STEPS_PER_NM, "0.00") & " nm " &
+                            "Approx.Peak : " & Format((gobjInst.WavelengthCur + int_pos / CONST_STEPS_PER_NM), "0.00") &
                             " Energy : " & Format(gFuncGetmv(chNew), "#0.00")
                 End If
 
@@ -2832,7 +2832,7 @@ AgnComm:
 
         '  chnew = ReadADCFilter();
         '  pmtv=Inst->Pmtv;
-        '        If (((chNew - 2047.0) / 4096.0 * 10000.0) >= 2000.0) Then
+        '        If (((chNew - 4095.0) / 8192.0 * 10000.0) >= 2000.0) Then
         '	do  {
         '		pmtv-=(double)5.0;   Set_PMT(pmtv);
         '		Show_Pmt(hpar, Inst->Pmtv);
@@ -2866,9 +2866,9 @@ AgnComm:
 
             dblPmtv = gobjInst.PmtVoltage
 
-            '2.	Calculate ((ADC filter Reading - 2047.0) / 4096.0 * 10000.0)
+            '2.	Calculate ((ADC filter Reading - 4095.0) / 8192.0 * 10000.0)
 
-            If ((chNew - 2047.0) / 4096.0 * 10000.0) >= 2000.0 Then
+            If ((chNew - 4095.0) / 8192.0 * 10000.0) >= 2000.0 Then
                 Do
                     '6.	pmt voltage = pmt voltage – 5.0
 
@@ -2885,7 +2885,7 @@ AgnComm:
                     '8.	Read ADC filter
 
                     funcReadADCFilter(gobjInst.Average, chNew)
-                    If ((chNew - 2047.0) / 4096.0 * 10000.0) < 2000.0 Then
+                    If ((chNew - 4095.0) / 8192.0 * 10000.0) < 2000.0 Then
                         Exit Do
                     End If
                     If dblPmtv > CDbl(700) Then
@@ -2906,7 +2906,7 @@ AgnComm:
 
                 Loop While (1)
 
-            ElseIf ((chNew - 2047.0) / 4096.0 * 10000.0) < 100.0 Then
+            ElseIf ((chNew - 4095.0) / 8192.0 * 10000.0) < 100.0 Then
 
                 Do
                     '14.	pmt voltage = pmt voltage + 1
@@ -2927,7 +2927,7 @@ AgnComm:
 
                     'mobjCommdll.subTime_Delay(2000) '''''''''''' extradelay
 
-                    If ((chNew - 2047.0) / 4096.0 * 10000.0) > 100.0 Then
+                    If ((chNew - 4095.0) / 8192.0 * 10000.0) > 100.0 Then
                         Exit Do
                     End If
                     If dblPmtv > CDbl(700) Then
@@ -3068,7 +3068,7 @@ AgnComm:
                     ' Read ADC value with filter 
                     Call funcReadADCFilter(gobjInst.Average, chNew)
 
-                    dblCurMode = ((chNew - 2047.0) / 4096.0) * 10000.0
+                    dblCurMode = ((chNew - 4095.0) / 8192.0) * 10000.0
                     ' Show the energy status
                     If mode = EnumCalibrationMode.HCLE Or mode = EnumCalibrationMode.D2E Or mode = EnumCalibrationMode.EMISSION Then
                         strEnergyStatus = "PMT " & Format(gobjInst.PmtVoltage, "###") & " V, Energy : " & Format(dblCurMode, "###") & " % (" & Format(dbltol, "###.0") & "%)"
@@ -3710,7 +3710,7 @@ AgnComm:
                     Loop While (intCounter < 10)
                     ' Read ADC value with filter and Cal. Energy
                     Call funcReadADCFilter_ReferenceBeam(gobjInst.Average, chNew)
-                    dblCurMode = ((chNew - 2047.0) / 4096.0) * 10000.0
+                    dblCurMode = ((chNew - 4095.0) / 8192.0) * 10000.0
 
                     ' Show the energy status
                     If mode = EnumCalibrationMode.HCLE Or mode = EnumCalibrationMode.D2E Or mode = EnumCalibrationMode.EMISSION Then
@@ -4325,6 +4325,7 @@ AgnComm:
                 'millivolt. If ADC filter reading converted to millivolt is more than 1900 then 
                 'Declare lamp presence OK. If ADC filter reading converted to millivolt is less 
                 'than 1900 then Declare lamp presence Error.
+                ' intAvgInMV = 6000 ' temp value Mrutunjaya
                 If gFuncGetmv(intAvgInMV) > 1900.0 Then
                     blnFlag = True
                     If Not lblStatus2 Is Nothing Then
@@ -5997,7 +5998,7 @@ EndOfLoop:          Loop While (1)
 
                 If intAvgOfADCReadings = 1 Then
                     If funcReadADCNonFilter(intADCFmv) Then
-                        If intADCFmv = 5000 Then
+                        If intADCFmv = 10000 Then
                             gFuncAnalogSelfTest = False
                             gobjMessageAdapter.ShowMessage(constADCNonFilter)
                             Application.DoEvents()
@@ -6012,7 +6013,8 @@ EndOfLoop:          Loop While (1)
                     'ADC filter voltage should be rage of > 3255 and less than 3296
                     mobjCommdll.subTime_Delay(50)
                     If funcReadADCFilter(intAvgOfADCReadings, intADCFmv) Then
-                        If intADCFmv > 3255 And intADCFmv < 3296 Then
+                        'Manoj --Double the values by multiplying with 2
+                        If intADCFmv > 6510 And intADCFmv < 6592 Then
                             dblADCValue = intADCFmv
                             gFuncAnalogSelfTest = True
                         Else
@@ -6378,7 +6380,7 @@ EndOfLoop:          Loop While (1)
                             intAvgInMv = funcpmtAd() + bytRandom.Next(10)
                         End If
                         '//-----
-                        If intAvgInMv = 5000 Then
+                        If intAvgInMv = 10000 Then
                             gobjMessageAdapter.ShowMessage(constADCError)
                         End If
                         funcReadADCFilter = True
@@ -8286,6 +8288,7 @@ EndOfLoop:          Loop While (1)
         End Try
 
     End Function '429
+
 
     Public Function funcGet_NV_Pos() As Boolean
         '-----------------------------------  Procedure Header  -------------------------------
@@ -10661,7 +10664,8 @@ EndOfLoop:          Loop While (1)
                 End If
                 'If mobjCommdll.gFuncTransmitCommand(EnumAAS203Protocol.D2CUR, bytHigh, bytLow, 0) Then
                 ' Send the Command for D2 current with high byte and low byte
-                If FuncTransmitCommand(EnumAAS203Protocol.D2CUR, bytHigh, bytLow, 0) Then
+                '  If FuncTransmitCommand(EnumAAS203Protocol.D2CUR, bytHigh, bytLow, 0) Then ' original code
+                If FuncTransmitCommand(EnumAAS203Protocol.D2CUR, bytLow, bytHigh, 0) Then  ' ' updated by Mrutunjaya/suraj as discussed with shiva/shatish
                     'If mobjCommdll.gFuncReceiveData(bytArray, CONST_LONG_DELAY) Then
                     If FuncReceiveData(bytArray, CONST_LONG_DELAY) Then
                         If bytArray(1) <> 1 Then
@@ -11025,7 +11029,7 @@ EndOfLoop:          Loop While (1)
             'End If
             ' gblnInComm = True          '10.12.07
 
-            gFunclongtobyte(intNVScanSteps, bytHigh, bytLow)
+            gFunclongtobyte(intNVScanSteps, bytHigh, bytLow) '-- original code
             'bytLow = intSteps And &HFF
             'bytHigh = CByte(intSteps >> 8)
             bytNVSCANSTEP = CByte(CONST_NVSCANSTEP)
@@ -11046,7 +11050,8 @@ EndOfLoop:          Loop While (1)
             End If
             mobjCommdll.IsNeedReceive = False
             ' Send the command for Optimise the Fuel NVSCAN (65)
-            If FuncTransmitCommand(EnumAAS203Protocol.NVSCAN, bytHigh, bytLow, bytNVSCANSTEP) Then
+            '  If FuncTransmitCommand(EnumAAS203Protocol.NVSCAN, bytHigh, bytLow, bytNVSCANSTEP) Then   '-- original code
+            If FuncTransmitCommand(EnumAAS203Protocol.NVSCAN, bytLow, bytHigh, bytNVSCANSTEP) Then  ' updated by Mrutunjaya/suraj as discussed with shiva/shatish
                 clsRS232Main.gblnInCommProcess = False
                 'If mobjCommdll.gFuncTransmitCommand(EnumAAS203Protocol.SPECT, bytLow, bytHigh, bytSpeed) Then
                 funcNVScanSteps = True
@@ -11095,6 +11100,9 @@ EndOfLoop:          Loop While (1)
         Dim bytLow As Byte
         Dim bytHigh As Byte
         Dim bytNVSCANSTEP As Byte
+        Dim bytLow1 As Byte
+        Dim bytHigh1 As Byte
+
 
         Try
             'If gblnInComm = True Then
@@ -11103,7 +11111,6 @@ EndOfLoop:          Loop While (1)
             ' gblnInComm = True          '10.12.07
 
             gFunclongtobyte(intBHScanSteps, bytHigh, bytLow)
-
             'bytLow = intSteps And &HFF
             'bytHigh = CByte(intSteps >> 8)
             bytNVSCANSTEP = CByte(CONST_BHSCANSTEP)
@@ -11112,7 +11119,8 @@ EndOfLoop:          Loop While (1)
             End If
             mobjCommdll.IsNeedReceive = False
             ' send the command for Optimise burner height BHSCAN(64)
-            If FuncTransmitCommand(EnumAAS203Protocol.BHSCAN, bytHigh, bytLow, bytNVSCANSTEP) Then
+            '   If FuncTransmitCommand(EnumAAS203Protocol.BHSCAN, bytHigh, bytLow, bytNVSCANSTEP) Then  - original code
+            If FuncTransmitCommand(EnumAAS203Protocol.BHSCAN, bytLow, bytHigh, bytNVSCANSTEP) Then  ' updated by Mrutunjaya/suraj as discussed with shiva/shatish
                 clsRS232Main.gblnInCommProcess = False
                 funcBHSCAN = True
                 'gobjMessageAdapter.ShowMessage(constRotateStepsTurClkError)
@@ -12512,7 +12520,7 @@ EndOfLoop:          Loop While (1)
             If funcCalibrationMode(EnumCalibrationMode.SELFTEST, enumInstrumentBeamType.ReferenceBeam) Then
                 If intAvgOfADCReadings = 1 Then
                     If funcReadADCFilter_ReferenceBeam(intAvgOfADCReadings, intADCFmv) Then
-                        If intADCFmv = 5000 Then
+                        If intADCFmv = 10000 Then
                             Return False
                             gobjMessageAdapter.ShowMessage(constADCNonFilter)
                             Application.DoEvents()
@@ -12524,7 +12532,7 @@ EndOfLoop:          Loop While (1)
                     End If
                 Else
                     If funcReadADCFilter_ReferenceBeam(intAvgOfADCReadings, intADCFmv) Then
-                        If intADCFmv > 3255 And intADCFmv < 3296 Then
+                        If intADCFmv > 6510 And intADCFmv < 6592 Then
                             dblADCValue = intADCFmv
                             Return True
                         Else
@@ -12860,7 +12868,7 @@ EndOfLoop:          Loop While (1)
                             intAvgInMv = funcpmtAd() + bytRandom.Next(10)
                         End If
                         '//-----
-                        If intAvgInMv = 5000 Then
+                        If intAvgInMv = 10000 Then
                             'MessageBox.Show("ADC Error", "System Error")
                             gobjMessageAdapter.ShowMessage(constADCFilter)
                         End If
@@ -12965,7 +12973,7 @@ EndOfLoop:          Loop While (1)
                             intAvgInMv = funcpmtAd() + bytRandom.Next(10)
                         End If
                         '//-----
-                        If intAvgInMv = 5000 Then
+                        If intAvgInMv = 10000 Then
                             'MessageBox.Show("ADC Error", "System Error")
                             gobjMessageAdapter.ShowMessage(constADCFilter)
 
@@ -13437,7 +13445,7 @@ EndOfLoop:          Loop While (1)
             If funcCalibrationMode(EnumCalibrationMode.SELFTEST) Then
                 If intAvgOfADCReadings = 1 Then
                     If funcReadADCNonFilter(intADCFmv) Then
-                        If intADCFmv = 5000 Then
+                        If intADCFmv = 10000 Then
                             Return False
                             gobjMessageAdapter.ShowMessage(constADCNonFilter)
                             Application.DoEvents()
@@ -13449,7 +13457,7 @@ EndOfLoop:          Loop While (1)
                     End If
                 Else
                     If funcReadADCFilter(intAvgOfADCReadings, intADCFmv) Then
-                        If intADCFmv > 3000 And intADCFmv < 3296 Then
+                        If intADCFmv > 6000 And intADCFmv < 6592 Then
                             dblADCValue = intADCFmv
                             Return True
                         Else

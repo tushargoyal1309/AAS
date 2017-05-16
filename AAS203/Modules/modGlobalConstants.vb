@@ -27,7 +27,8 @@ Module modGlobalConstants
     Public Const WVZERORANGE = 300 '6.0 * 50 (wz -2 to 4 = 6 nm and in 1 nm 50 steps for monochromator
 
     Public Const RANGEH = 50
-    Public Const WVRANGE = 100
+    'Public Const WVRANGE = 100
+    Public Const WVRANGE = 333 'changed 100 to 333 (Manoj) 
     Public Const WVRANGE_AA201 = 50
 
     Public Const CONST_STEPS_PER_NM As Double = 50

@@ -107,18 +107,10 @@
       <Name>accllistbar</Name>
       <HintPath>dll\accllistbar.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.CrystalReports.Engine">
-      <HintPath>..\packages\CrystalDecisions.CrystalReports.Engine.1.0.0\lib\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
-    </Reference>
-    <Reference Include="CrystalDecisions.ReportSource">
-      <HintPath>..\packages\CrystalDecisions.ReportSource.1.0.0\lib\CrystalDecisions.ReportSource.dll</HintPath>
-    </Reference>
-    <Reference Include="CrystalDecisions.Shared">
-      <HintPath>..\packages\CrystalDecisions.Shared.1.0.0\lib\CrystalDecisions.Shared.dll</HintPath>
-    </Reference>
-    <Reference Include="CrystalDecisions.Windows.Forms">
-      <HintPath>..\packages\CrystalDecisions.Windows.Forms.1.0.0\lib\CrystalDecisions.Windows.Forms.dll</HintPath>
-    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="DataObject">
       <Name>DataObject</Name>
       <HintPath>dll\DataObject.dll</HintPath>
@@ -304,6 +296,12 @@
       <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\CustomerDetails1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CustomerDetails.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reports\IQApproval.vb">
       <DependentUpon>IQApproval.rpt</DependentUpon>
@@ -612,158 +610,158 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\crptAllReport.rpt">
       <SubType>Code</SubType>
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>crptAllReport1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\crptAllReport1.resx">
       <DependentUpon>crptAllReport1.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\CrystalReport2.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>CrystalReport2.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\CustomerDetails.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>CustomerDetails1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\IQApproval.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>IQApproval.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\IQCompleteAcceptBy.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>IQCompleteAcceptBy.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\IQDeficiency.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>IQDeficiency.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\IQEquipmentList.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>IQEquipmentList.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\IQInstAccessory.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>IQInstAccessory.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\IQInstSpecification.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>IQInstSpecification.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\IQManualListing.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>IQManualListing.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\IQTest.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>IQTest.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQApproval.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQApproval.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQCompleteAcceptBy.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQCompleteAcceptBy.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQDeficiency.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQDeficiency.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQEquipmentList.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQEquipmentList.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQTest1.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQTest1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQTest2.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQTest2.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQTest3.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQTest3.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQTest4.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQTest4.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQTest5.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQTest5.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQTest6.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQTest6.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQUser.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQUser.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\OQUserTraining.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>OQUserTraining.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQApproval.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQApproval.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQCompleteAcceptBy.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQCompleteAcceptBy.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQDeficiency.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQDeficiency.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQEquipmentList.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQEquipmentList.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQTest1.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQTest1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQTest10.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQTest10.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQTest2.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQTest2.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQTest22.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQTest22.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQTest3.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQTest3.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQTest4.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQTest4.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQTest5.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQTest5.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQTest6.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQTest6.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQTest7.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQTest7.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQTest8.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQTest8.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reports\PQWarranty.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>PQWarranty.vb</LastGenOutput>
     </EmbeddedResource>
     <None Include="DataSet\dtsetCompletedBy.xsx">
@@ -812,6 +810,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
     <Service Include="{CF845C55-C321-4742-B673-E6212D061ED9}" />
   </ItemGroup>
   <ItemGroup />

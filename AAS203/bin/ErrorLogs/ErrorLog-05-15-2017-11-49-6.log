@@ -1,0 +1,35 @@
+***************************************************************
+Error Occured at : 12:01:04
+***************************************************************
+Process Name = 
+Error Derscription = Value Dispose() cannot be called while doing CreateHandle().
+Error Message = Value Dispose() cannot be called while doing CreateHandle().
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmInstrumentParameters.vb]
+[Function Name:btnOptimiseTurret_Click]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmInstrumentParameters.vb
+  <Procedure - (0)  :btnOptimiseTurret_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMethod.vb
+  <Procedure - (1)  :tlbbtnInstrumentParameters_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (2)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

@@ -472,7 +472,7 @@ Public Class clsBgZeroOrder_AA201
             End If
 
             '---set graph properties
-            objGraphZero.YAxisMin = gFuncGetEnergy(2047)
+            objGraphZero.YAxisMin = gFuncGetEnergy(4095)
             objGraphZero.YAxisMax = gFuncGetEnergy(2047.0 + 409.6 * 5)
             objGraphZero.Refresh()
             Application.DoEvents()

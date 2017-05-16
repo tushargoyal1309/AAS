@@ -4,7 +4,7 @@
     <LastOpenVersion>7.10.3077</LastOpenVersion>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ReferencePath>D:\ALDYS\Development\AAS203\Deepak\AAS203-Fast\AAS203\IQOQPQ\dll\;D:\ALDYS\Development\AAS203\Sachin\AAS203\IQOQPQ\dll\;D:\ALDYS\Development\color analysis\sachin\source\dlls\;E:\AA203D June-2008\AAS203-13.06.08-Ver. 4.1\AAS203\IQOQPQ\dll\;E:\AAS203\IQOQPQ\dll\;F:\AAS4.5\IQOQPQ\dll\;D:\Software\AAS4.6 08.01.09\IQOQPQ\dll\;D:\Software\AAS4.6 08.01.09\AAS4.6 08.01.09\IQOQPQ\dll\;D:\Software\AAS 4.7\AAS4.7 08.01.09\IQOQPQ\dll\;D:\Software\AAS 4.8\AAS4.7 08.01.09\IQOQPQ\dll\;D:\Software\AAS 4.81\AAS4.7 08.01.09\IQOQPQ\dll\;D:\Software\AA203\IQOQPQ\dll\;D:\Software\AA203 7.0\IQOQPQ\dll\;E:\dinesh wagh\AA203 7.0\IQOQPQ\dll\</ReferencePath>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\;D:\ALDYS\Development\AAS203\Deepak\AAS203-Fast\AAS203\IQOQPQ\dll\;D:\ALDYS\Development\AAS203\Sachin\AAS203\IQOQPQ\dll\;D:\ALDYS\Development\color analysis\sachin\source\dlls\;E:\AA203D June-2008\AAS203-13.06.08-Ver. 4.1\AAS203\IQOQPQ\dll\;E:\AAS203\IQOQPQ\dll\;F:\AAS4.5\IQOQPQ\dll\;D:\Software\AAS4.6 08.01.09\IQOQPQ\dll\;D:\Software\AAS4.6 08.01.09\AAS4.6 08.01.09\IQOQPQ\dll\;D:\Software\AAS 4.7\AAS4.7 08.01.09\IQOQPQ\dll\;D:\Software\AAS 4.8\AAS4.7 08.01.09\IQOQPQ\dll\;D:\Software\AAS 4.81\AAS4.7 08.01.09\IQOQPQ\dll\;D:\Software\AA203\IQOQPQ\dll\;D:\Software\AA203 7.0\IQOQPQ\dll\;E:\dinesh wagh\AA203 7.0\IQOQPQ\dll\</ReferencePath>
     <CopyProjectDestinationFolder />
     <CopyProjectUncPath />
     <CopyProjectOption>0</CopyProjectOption>

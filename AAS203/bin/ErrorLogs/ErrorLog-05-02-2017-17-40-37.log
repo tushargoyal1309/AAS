@@ -1,0 +1,83 @@
+***************************************************************
+Error Occured at : 18:05:58
+***************************************************************
+Process Name = 
+Error Derscription = Object reference not set to an instance of an object.
+Error Message = Object reference not set to an instance of an object.
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb]
+[Function Name:ShutDownApplication]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb
+  <Procedure - (0)  :ShutDownApplication>
+    <Procedure - (1)  :subExit_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Communication\clsRS232Main.vb
+  <Procedure - (2)  :gFuncResumeProcess>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\clsCommProtocolFunctions.vb
+  <Procedure - (3)  :funcAll_Lamp_Off>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb
+  <Procedure - (4)  :ShutDownApplication>
+    <Procedure - (5)  :subExit_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (6)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 18:06:08
+***************************************************************
+Process Name = 
+Error Derscription = Object reference not set to an instance of an object.
+Error Message = Object reference not set to an instance of an object.
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb]
+[Function Name:ShutDownApplication]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb
+  <Procedure - (0)  :ShutDownApplication>
+    <Procedure - (1)  :subExit_Click>
+      <Procedure - (2)  :frmMDIMain_Closing>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Communication\clsRS232Main.vb
+  <Procedure - (3)  :gFuncResumeProcess>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\clsCommProtocolFunctions.vb
+  <Procedure - (4)  :funcSet_PMT>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb
+  <Procedure - (5)  :ShutDownApplication>
+    <Procedure - (6)  :subExit_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (7)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

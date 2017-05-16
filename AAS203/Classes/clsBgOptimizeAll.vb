@@ -318,7 +318,7 @@ Public Class clsBgOptimizeAll
 
             objWait = New CWaitCursor
 
-            dblYMin = -1 'Cint(FormatNumber(gFuncGetEnergy(2047), 1))
+            dblYMin = -1 'Cint(FormatNumber(gFuncGetEnergy(4095), 1))
             dblYMax = CInt(FormatNumber(gFuncGetEnergy(2047.0 + 409.6 * 4), 1))
 
             If Not ObjGraph Is Nothing Then

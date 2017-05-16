@@ -1,0 +1,2565 @@
+***************************************************************
+Error Occured at : 20:22:28
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :HideProgressBar>
+          <Procedure - (4)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (5)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (6)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (7)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:28
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :HideProgressBar>
+            <Procedure - (5)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (6)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (7)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (8)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:28
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :HideProgressBar>
+              <Procedure - (6)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (7)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (8)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (9)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:29
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :HideProgressBar>
+                <Procedure - (7)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (8)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (9)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (10)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:29
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :HideProgressBar>
+                  <Procedure - (8)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (9)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (10)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (11)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:29
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :HideProgressBar>
+                    <Procedure - (9)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (10)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (11)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (12)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:29
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :HideProgressBar>
+                      <Procedure - (10)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (11)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (12)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (13)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:29
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :HideProgressBar>
+                        <Procedure - (11)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (12)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (13)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (14)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:29
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :HideProgressBar>
+                          <Procedure - (12)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (13)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (14)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (15)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:30
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :HideProgressBar>
+                            <Procedure - (13)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (14)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (15)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (16)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:30
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :HideProgressBar>
+                              <Procedure - (14)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (15)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (16)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (17)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:30
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :HideProgressBar>
+                                <Procedure - (15)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (16)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (17)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (18)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:31
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :cmdADJBH_Click>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :HideProgressBar>
+                                    <Procedure - (17)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (18)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (19)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (20)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:44
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :HideProgressBar>
+                                  <Procedure - (16)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (17)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (18)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (19)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:44
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :HideProgressBar>
+                                    <Procedure - (17)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (18)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (19)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (20)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:45
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :HideProgressBar>
+                                      <Procedure - (18)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (19)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (20)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (21)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:45
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :HideProgressBar>
+                                        <Procedure - (19)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (20)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (21)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (22)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:46
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :HideProgressBar>
+                                          <Procedure - (20)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (21)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (22)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (23)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:46
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :TaskStatus>
+                                          <Procedure - (20)  :HideProgressBar>
+                                            <Procedure - (21)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (22)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (23)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (24)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:46
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :TaskStatus>
+                                          <Procedure - (20)  :TaskStatus>
+                                            <Procedure - (21)  :HideProgressBar>
+                                              <Procedure - (22)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (23)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (24)  :ManualSetup_Clicked>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:47
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :TaskStatus>
+                                          <Procedure - (20)  :TaskStatus>
+                                            <Procedure - (21)  :TaskStatus>
+                                              <Procedure - (22)  :HideProgressBar>
+                                                <Procedure - (23)  :frmTimeScanMode_Load>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:47
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :TaskStatus>
+                                          <Procedure - (20)  :TaskStatus>
+                                            <Procedure - (21)  :TaskStatus>
+                                              <Procedure - (22)  :TaskStatus>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:48
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :HideProgressBar>
+          <Procedure - (4)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (5)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (6)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (7)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:48
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :HideProgressBar>
+            <Procedure - (5)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (6)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (7)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (8)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:48
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :HideProgressBar>
+          <Procedure - (4)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (5)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (6)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (7)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:48
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :HideProgressBar>
+            <Procedure - (5)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (6)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (7)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (8)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:48
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :HideProgressBar>
+              <Procedure - (6)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (7)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (8)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (9)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:48
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :HideProgressBar>
+                <Procedure - (7)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (8)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (9)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (10)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:48
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :HideProgressBar>
+                  <Procedure - (8)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (9)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (10)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (11)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:49
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :HideProgressBar>
+                    <Procedure - (9)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (10)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (11)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (12)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:49
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :HideProgressBar>
+                      <Procedure - (10)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (11)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (12)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (13)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:49
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :HideProgressBar>
+                        <Procedure - (11)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (12)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (13)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (14)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:49
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :HideProgressBar>
+                          <Procedure - (12)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (13)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (14)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (15)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:49
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :HideProgressBar>
+                            <Procedure - (13)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (14)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (15)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (16)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:50
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :HideProgressBar>
+                              <Procedure - (14)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (15)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (16)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (17)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:50
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :HideProgressBar>
+                                <Procedure - (15)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (16)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (17)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (18)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:50
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :HideProgressBar>
+                                  <Procedure - (16)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (17)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (18)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (19)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:51
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :HideProgressBar>
+                                    <Procedure - (17)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (18)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (19)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (20)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:51
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :HideProgressBar>
+                                      <Procedure - (18)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (19)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (20)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (21)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:51
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :HideProgressBar>
+                                        <Procedure - (19)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (20)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (21)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (22)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:52
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :HideProgressBar>
+                                          <Procedure - (20)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (21)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (22)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (23)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:52
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :TaskStatus>
+                                          <Procedure - (20)  :HideProgressBar>
+                                            <Procedure - (21)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (22)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (23)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (24)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:53
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :TaskStatus>
+                                          <Procedure - (20)  :TaskStatus>
+                                            <Procedure - (21)  :HideProgressBar>
+                                              <Procedure - (22)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (23)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (24)  :ManualSetup_Clicked>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:53
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :TaskStatus>
+                                          <Procedure - (20)  :HideProgressBar>
+                                            <Procedure - (21)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (22)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (23)  :ManualSetup_Clicked>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (24)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:53
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :TaskStatus>
+                                          <Procedure - (20)  :TaskStatus>
+                                            <Procedure - (21)  :HideProgressBar>
+                                              <Procedure - (22)  :frmTimeScanMode_Load>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\ClsAAS203.vb
+  <Procedure - (23)  :AbsorbanceScan>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (24)  :ManualSetup_Clicked>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:54
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :TaskStatus>
+                                          <Procedure - (20)  :TaskStatus>
+                                            <Procedure - (21)  :TaskStatus>
+                                              <Procedure - (22)  :HideProgressBar>
+                                                <Procedure - (23)  :frmTimeScanMode_Load>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:22:54
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb]
+[Function Name:funcDisplayGraph_RealTime]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmTimeScanMode.vb
+  <Procedure - (0)  :funcDisplayGraph_RealTime>
+    <Procedure - (1)  :funcIclientTaskDisplayData>
+      <Procedure - (2)  :TaskStatus>
+        <Procedure - (3)  :TaskStatus>
+          <Procedure - (4)  :TaskStatus>
+            <Procedure - (5)  :TaskStatus>
+              <Procedure - (6)  :TaskStatus>
+                <Procedure - (7)  :TaskStatus>
+                  <Procedure - (8)  :TaskStatus>
+                    <Procedure - (9)  :TaskStatus>
+                      <Procedure - (10)  :TaskStatus>
+                        <Procedure - (11)  :TaskStatus>
+                          <Procedure - (12)  :TaskStatus>
+                            <Procedure - (13)  :TaskStatus>
+                              <Procedure - (14)  :TaskStatus>
+                                <Procedure - (15)  :TaskStatus>
+                                  <Procedure - (16)  :TaskStatus>
+                                    <Procedure - (17)  :TaskStatus>
+                                      <Procedure - (18)  :TaskStatus>
+                                        <Procedure - (19)  :TaskStatus>
+                                          <Procedure - (20)  :TaskStatus>
+                                            <Procedure - (21)  :TaskStatus>
+                                              <Procedure - (22)  :TaskStatus>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:23:02
+***************************************************************
+Process Name = 
+Error Derscription = Error creating window handle.
+Error Message = Value Dispose() cannot be called while doing CreateHandle().
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\clsBgAspirateTimer.vb]
+[Function Name:ShowAspirationMessages]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\clsBgAspirateTimer.vb
+  <Procedure - (0)  :ShowAspirationMessages>
+    <Procedure - (1)  :funcThreadAspirateMsg>
+      <Procedure - (2)  :StartWorkerThread>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:23:02
+***************************************************************
+Process Name = 
+Error Derscription = Value Dispose() cannot be called while doing CreateHandle().
+Error Message = Value Dispose() cannot be called while doing CreateHandle().
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb]
+[Function Name:mobjfrmMethod_LoadedMethodChanged]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb
+  <Procedure - (0)  :mobjfrmMethod_LoadedMethodChanged>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMethod.vb
+  <Procedure - (1)  :mobjfrmLoadMethod_LoadMethod>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmLoadMethod.vb
+  <Procedure - (2)  :btnOk_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMethod.vb
+  <Procedure - (3)  :tlbbtnLoadMethod_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (4)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
+***************************************************************
+Error Occured at : 20:23:06
+***************************************************************
+Process Name = 
+Error Derscription = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Message = Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb]
+[Function Name:funcRefreshMethodParameter]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAnalysis.vb
+  <Procedure - (0)  :funcRefreshMethodParameter>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmMDIMain.vb
+  <Procedure - (1)  :mnuAnalyse_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (2)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------

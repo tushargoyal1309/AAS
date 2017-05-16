@@ -232,20 +232,9 @@
       <Name>CodeIntellects.Office2003Controls</Name>
       <HintPath>Dll\CodeIntellects.Office2003Controls.dll</HintPath>
     </Reference>
-    <Reference Include="CrystalDecisions.CrystalReports.Engine">
-      <HintPath>..\packages\CrystalDecisions.CrystalReports.Engine.1.0.0\lib\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
-    </Reference>
-    <Reference Include="CrystalDecisions.ReportSource">
-      <HintPath>..\packages\CrystalDecisions.ReportSource.1.0.0\lib\CrystalDecisions.ReportSource.dll</HintPath>
-    </Reference>
-    <Reference Include="CrystalDecisions.Shared">
-      <HintPath>..\packages\CrystalDecisions.Shared.1.0.0\lib\CrystalDecisions.Shared.dll</HintPath>
-    </Reference>
-    <Reference Include="CrystalEnterpriseLib">
-      <Name>CrystalEnterpriseLib</Name>
-      <HintPath>..\..\..\Downloads\crystalenterpriselib.dll\crystalenterpriselib.dll</HintPath>
-      <AssemblyFolderKey>hklm\crystal.net</AssemblyFolderKey>
-    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="DataObject">
       <Name>DataObject</Name>
       <HintPath>Dll\DataObject.dll</HintPath>
@@ -857,6 +846,7 @@
       <Generator>MSDataSetGenerator</Generator>
       <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
     </Content>
+    <None Include="Resources\Thermo2.png" />
     <EmbeddedResource Include="21CFR\frmActivityLog.resx">
       <DependentUpon>frmActivityLog.vb</DependentUpon>
     </EmbeddedResource>
@@ -901,6 +891,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AutoSampler\Forms\frmCoordinatePositions.resx">
       <DependentUpon>frmCoordinatePositions.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="AutoSampler\Forms\frmTimings.resx">
       <DependentUpon>frmTimings.vb</DependentUpon>
@@ -964,6 +955,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmCookBook.resx">
       <DependentUpon>frmCookBook.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmD2PeakSearch.resx">
       <DependentUpon>frmD2PeakSearch.vb</DependentUpon>
@@ -1043,6 +1035,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmSplash.resx">
       <DependentUpon>frmSplash.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmStandardConcentration.resx">
       <DependentUpon>frmStandardConcentration.vb</DependentUpon>
@@ -1102,7 +1095,7 @@
       <DependentUpon>clsPrintDocument.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Reporting\Data Report\DataRptExport.rpt">
-      <Generator>CrystalDecisions.VSShell.CodeGen.ReportCodeGenerator</Generator>
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>DataRptExport1.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reporting\Data Report\Form1.resx">
@@ -1198,6 +1191,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
     <Service Include="{CF845C55-C321-4742-B673-E6212D061ED9}" />
   </ItemGroup>
   <ItemGroup>

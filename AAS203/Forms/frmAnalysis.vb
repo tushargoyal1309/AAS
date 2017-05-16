@@ -3964,7 +3964,7 @@ Public Class frmAnalysis
                 End If
                 '#If STD_ADDN Then
                 If Not (gobjNewMethod.StandardAddition) Then
-                    'CurSamp =Method->QuantData->SampTopData;
+                    'CurSamp =Me++thod->QuantData->SampTopData;
                     mobjCurrentSample = gobjNewMethod.QuantitativeDataCollection.Item(mintRunNumberIndex).SampleDataCollection.item(0)
                 End If
                 '#End If
@@ -9669,12 +9669,12 @@ Public Class frmAnalysis
                     End If
 
                     If Not (gobjNewMethod.InstrumentCondition.IsOptimize) Then
-                        If ((gobjNewMethod.OperationMode = EnumOperationMode.MODE_AA Or _
-                              gobjNewMethod.OperationMode = EnumOperationMode.MODE_AABGC Or _
+                        If ((gobjNewMethod.OperationMode = EnumOperationMode.MODE_AA Or
+                              gobjNewMethod.OperationMode = EnumOperationMode.MODE_AABGC Or
                               gobjNewMethod.OperationMode = EnumOperationMode.MODE_SPECT) _
-                              And _
-                              (gobjNewMethod.InstrumentCondition.LampNumber >= 1 And _
-                               gobjNewMethod.InstrumentCondition.LampNumber <= 6)) Then
+                              And
+                              (gobjNewMethod.InstrumentCondition.LampNumber >= 1 And
+                               gobjNewMethod.InstrumentCondition.LampNumber <= 10)) Then
 
                             Call ResetAnaMode(gobjNewMethod.InstrumentCondition.LampNumber)
 

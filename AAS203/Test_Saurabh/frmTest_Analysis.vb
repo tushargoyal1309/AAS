@@ -14470,12 +14470,12 @@ Public Class frmTest_Analysis
                     End If
 
                     If Not (gobjNewMethod.InstrumentCondition.IsOptimize) Then
-                        If ((gobjNewMethod.OperationMode = EnumOperationMode.MODE_AA Or _
-                              gobjNewMethod.OperationMode = EnumOperationMode.MODE_AABGC Or _
+                        If ((gobjNewMethod.OperationMode = EnumOperationMode.MODE_AA Or
+                              gobjNewMethod.OperationMode = EnumOperationMode.MODE_AABGC Or
                               gobjNewMethod.OperationMode = EnumOperationMode.MODE_SPECT) _
-                              And _
-                              (gobjNewMethod.InstrumentCondition.LampNumber >= 1 And _
-                               gobjNewMethod.InstrumentCondition.LampNumber <= 6)) Then
+                              And
+                              (gobjNewMethod.InstrumentCondition.LampNumber >= 1 And
+                               gobjNewMethod.InstrumentCondition.LampNumber <= 10)) Then
 
                             Call ResetAnaMode(gobjNewMethod.InstrumentCondition.LampNumber)
 

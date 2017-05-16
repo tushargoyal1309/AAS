@@ -1,0 +1,37 @@
+***************************************************************
+Error Occured at : 12:33:04
+***************************************************************
+Process Name = 
+Error Derscription = Index was outside the bounds of the array.
+Error Message = Index was outside the bounds of the array.
+Error Source = [Mod:C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCommPorts_Selection.vb]
+[Function Name:cmdOk_Click]
+Error Number = 
+Line Number = 
+User Comment = 
+-----------------------------------------------------
+
+-----------------------------------------------------
+Procedure Stack
+-----------------------------------------------------
+
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmCommPorts_Selection.vb
+  <Procedure - (0)  :cmdOk_Click>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Classes\clsCommProtocolFunctions.vb
+  <Procedure - (1)  :funcInitInstrument>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Forms\frmAASInitialisation.vb
+  <Procedure - (2)  :funcInstrumentInitialization>
+C:\Users\Administrator\Desktop\AA203_Modified_Hyd\AAS203\Modules\modMain.vb
+  <Procedure - (3)  :main>
+-----------------------------------------------------
+
+-----------------------------------------------------
+Additional Information 
+-----------------------------------------------------
+Current Directory = 
+Project Name = AAS
+Company Name = AAS
+Version Major = 6.1.0.0
+Version Minor = 
+Revision = 
+-----------------------------------------------------
