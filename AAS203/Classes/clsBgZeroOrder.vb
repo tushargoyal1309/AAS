@@ -317,7 +317,7 @@ Public Class clsBgZeroOrder
                 lblSt3Zero.Refresh()
             End If
 
-            For intPos = 0 To 5
+            For intPos = 0 To 9
                 gobjInst.Lamp.LampParametersCollection.item(intPos).LampOptimizePosition = 0
             Next
             gobjInst.Lamp.WavelengthZero = 100.0
@@ -341,7 +341,7 @@ Public Class clsBgZeroOrder
                     '---
 
                     If blnIsSlitHome Then
-                        For intPos = 1 To 6
+                        For intPos = 1 To 10
                             '--- Search for the presence of first lamp in turret assembly 
                             '--- and position turret to that location.
                             If gobjInst.Lamp.LampParametersCollection.item(intPos - 1).ElementName <> "" Then
@@ -572,7 +572,8 @@ Public Class clsBgZeroOrder
 
             '--- Set graph properties
             CType(objGraphZero, AAS203.AASGraph).YAxisMin = 0
-            CType(objGraphZero, AAS203.AASGraph).YAxisMax = CInt(FormatNumber(gFuncGetEnergy(2047.0 + 409.6 * 5), 1))
+            'CType(objGraphZero, AAS203.AASGraph).YAxisMax = CInt(FormatNumber(gFuncGetEnergy(2047.0 + 409.6 * 5), 1))
+            CType(objGraphZero, AAS203.AASGraph).YAxisMax = CInt(FormatNumber(gFuncGetEnergy(4094.0 + 819.2 * 5), 1))
             CType(objGraphZero, AAS203.AASGraph).AldysPane.YAxis.PickScale(CInt(CType(objGraphZero, AAS203.AASGraph).YAxisMin), CInt(CType(objGraphZero, AAS203.AASGraph).YAxisMax))
             CType(objGraphZero, AAS203.AASGraph).AldysPane.YAxis.MinorStepAuto = True
             CType(objGraphZero, AAS203.AASGraph).AldysPane.YAxis.StepAuto = True

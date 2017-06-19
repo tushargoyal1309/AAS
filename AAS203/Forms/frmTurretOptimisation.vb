@@ -268,8 +268,11 @@ Public Class frmTurretOptimisation ''class behind the class.
         '---Added By Mangesh 
         'update aasGraphTurretOptimisation data structure for graph display
         aasGraphTurretOptimisation.XAxisMin = 0     'Repalce 1 and added 0 by Saurabh 26 May 2007
-        aasGraphTurretOptimisation.XAxisMax = 100
-        aasGraphTurretOptimisation.XAxisStep = 10
+        'aasGraphTurretOptimisation.XAxisMax = 100 original
+        'aasGraphTurretOptimisation.XAxisStep = 10 original
+
+        aasGraphTurretOptimisation.XAxisMax = 300 'made changes by suraj
+        aasGraphTurretOptimisation.XAxisStep = 30 'made changes by suraj
         aasGraphTurretOptimisation.XAxisMinorStep = 5
         aasGraphTurretOptimisation.XAxisLabel = "TURRET STEP"
         aasGraphTurretOptimisation.XAxisType = AldysGraph.AxisType.Linear

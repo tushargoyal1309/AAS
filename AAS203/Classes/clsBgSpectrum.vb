@@ -629,7 +629,7 @@ Public Class clsBgSpectrum
                             '--- Received scan data 
                             If gobjCommProtocol.funcReceive_ScanData(0, dblYNew) = True Then
                                 'If (dblYNew = 6000) Then
-                                If (dblYNew = 6000) Then
+                                If (dblYNew = 12000) Then
                                     Exit Do
                                 End If
 
@@ -984,7 +984,8 @@ ExitSpectrum:
                                     dblYNew = gRandom.Next(4096)
                                 End If
 
-                                If (dblYNew = 6000) Then
+                                'If (dblYNew = 6000) Then 'original code
+                                If (dblYNew = 12000) Then 'made changed by suraj/mrutunjaya
                                     Exit Do
                                 End If
 
@@ -1419,7 +1420,8 @@ ExitSpectrum:
                         Do While (True)
                             If mblnEndProcess = True Then
                                 If gobjCommProtocol.funcReceive_ScanData(0, dblYNew) = True Then
-                                    If (dblYNew = 6000) Then
+                                    'If (dblYNew = 6000) Then 'original code
+                                    If (dblYNew = 12000) Then 'modiefied by suraj/mrutunjaya
                                         Exit Do
                                     End If
                                     '//----- For Demo Mode
@@ -1528,7 +1530,8 @@ ExitSpectrum:
                     If blnStartSpec = True Then
                         Do While (True)
                             If gobjCommProtocol.funcReceive_ScanData(0, dblYNew) = True Then
-                                If (dblYNew = 6000) Then
+                                'If (dblYNew = 6000) Then
+                                If (dblYNew = 12000) Then
                                     Exit Do
                                 End If
                                 '//----- For Demo Mode
@@ -1815,7 +1818,8 @@ ExitSpectrum:
                                     If gblnInComm = False Then
                                         If gobjCommProtocol.funcReceive_ScanData(0, dblYNew) = True Then
 
-                                            If (dblYNew = 6000) Then
+                                            'If (dblYNew = 6000) Then
+                                            If (dblYNew = 12000) Then
                                                 Exit Do
 
                                             End If
@@ -2011,7 +2015,8 @@ ExitSpectrum:
                                     'Me.SpectrumWait = False 
                                     If gblnInComm = False Then
                                         If gobjCommProtocol.funcReceive_ScanData(0, dblYNew) = True Then
-                                            If (dblYNew = 6000) Then
+                                            'If (dblYNew = 6000) Then
+                                            If (dblYNew = 12000) Then
                                                 Exit Do
                                             End If
                                             '//----- For Demo Mode
@@ -2369,7 +2374,8 @@ ExitSpectrum:
                                     dblYNew = gRandom.Next(4096)
                                 End If
 
-                                If (dblYNew = 6000) Then
+                                'If (dblYNew = 6000) Then
+                                If (dblYNew = 12000) Then
                                     Exit Do
                                 End If
 

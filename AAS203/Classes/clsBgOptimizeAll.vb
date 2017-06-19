@@ -318,16 +318,19 @@ Public Class clsBgOptimizeAll
 
             objWait = New CWaitCursor
 
-            dblYMin = -1 'Cint(FormatNumber(gFuncGetEnergy(2047), 1))
-            dblYMax = CInt(FormatNumber(gFuncGetEnergy(2047.0 + 409.6 * 4), 1))
+            dblYMin = -1 'Cint(FormatNumber(gFuncGetEnergy(4095), 1))
+            ''dblYMax = CInt(FormatNumber(gFuncGetEnergy(2047.0 + 409.6 * 4), 1)) 'original code 
+            dblYMax = CInt(FormatNumber(gFuncGetEnergy(4094.0 + 819.2 * 4), 1)) 'code modified by mrutinjaya/suraj for graph in turret all optimized
 
             If Not ObjGraph Is Nothing Then
                 CType(ObjGraph, AASGraph).XAxisMin = 0
-                CType(ObjGraph, AASGraph).XAxisMax = WVRANGE
+                'CType(ObjGraph, AASGraph).XAxisMax = WVRANGE 'original code
+                CType(ObjGraph, AASGraph).XAxisMax = TURRETOPTRANGE
                 CType(ObjGraph, AASGraph).YAxisMin = dblYMin
                 CType(ObjGraph, AASGraph).YAxisMax = dblYMax
 
-                CType(ObjGraph, AASGraph).AldysPane.XAxis.PickScale(1, WVRANGE)
+                'CType(ObjGraph, AASGraph).AldysPane.XAxis.PickScale(1, WVRANGE) 'original code
+                CType(ObjGraph, AASGraph).AldysPane.XAxis.PickScale(1, TURRETOPTRANGE)
                 CType(ObjGraph, AASGraph).AldysPane.XAxis.MinorStepAuto = True
                 CType(ObjGraph, AASGraph).AldysPane.XAxis.StepAuto = True
                 CType(ObjGraph, AASGraph).Refresh()
@@ -362,7 +365,7 @@ Public Class clsBgOptimizeAll
             '---read adc filter value
             gobjCommProtocol.funcReadADCFilter(gobjInst.Average, chNew)
 
-            For intCounter = 1 To WVRANGE
+            For intCounter = 1 To TURRETOPTRANGE
                 '---rotate turret clockwise
                 gobjCommProtocol.funcRotate_Clock_Tur()
                 'gobjCommProtocol.mobjCommdll.subTime_Delay(100)
@@ -388,7 +391,7 @@ Public Class clsBgOptimizeAll
             End If
 
             '---rotate turret anticlockwise 110 times.
-            For intCounter = 1 To WVRANGE + 10
+            For intCounter = 1 To TURRETOPTRANGE + 10
                 gobjCommProtocol.funcRotate_Anticlock_Tur()
             Next
 

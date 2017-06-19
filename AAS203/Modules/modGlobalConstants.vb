@@ -26,11 +26,14 @@ Module modGlobalConstants
     Public Const TARRATIO = 400.0 * 7.0 / 4.0 'for half step 400 and for full step 200
     Public Const WVZERORANGE = 300 '6.0 * 50 (wz -2 to 4 = 6 nm and in 1 nm 50 steps for monochromator
 
-    Public Const RANGEH = 50
+    'Public Const RANGEH = 50 'Original code
+    Public Const RANGEH = 165 'Modified by suraj from 50 to 165
     Public Const WVRANGE = 100
+    Public Const TURRETOPTRANGE = 333 'Added a new const in place of WVRANGE 100 to 333 (Manoj) 
     Public Const WVRANGE_AA201 = 50
 
-    Public Const CONST_STEPS_PER_NM As Double = 50
+    'Public Const CONST_STEPS_PER_NM As Double = 50
+    Public Const CONST_STEPS_PER_NM As Double = 50 'modified by suraj from 50 to 83'
     Public Const CONST_STEPS_PER_NM_AA201 As Double = 25.0
 
     Public Graphite As Boolean = False
@@ -326,6 +329,8 @@ Module modGlobalConstants
         SLIT_HOME_DB = 97   'Sample beam entry & exit slits home position
         SLIT_POS_DB = 98    'Sample beam entry & exit slits positioning
         GET_Absoffset = 99  'To read offset in zero absorbance value
+        DB_CHOPPER_ON = 33  ' Added by Mrutyunjaya
+        DB_CHOPPER_OFF = 34  ' Added by Mrutyunjaya
         '//------
 
     End Enum

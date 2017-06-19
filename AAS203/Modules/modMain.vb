@@ -246,13 +246,15 @@ Module modMain
                     objfrmAASInitialisation.Show()
                     If objfrmAASInitialisation.funcInstrumentInitialization() Then
                         ''start the initialization
+
                         'objfrmAASInitialisation.Close()
                         'objfrmAASInitialisation.Dispose()
                     Else
+
                         objfrmAASInitialisation.Close()
                         objfrmAASInitialisation.Dispose()
                         End
-                        Exit Sub
+                        'Exit Sub
                     End If
                     'Else
 
@@ -741,7 +743,7 @@ Module modMain
             Call funcInitInstrumentParameters()
 
             '---Initialize six position turret variables in gobjinst object
-            For intPos = 0 To 5
+            For intPos = 0 To 9
 
                 objLampParameters = New ClsLampParameters
                 objLampParameters.LampOptimizePosition = -1

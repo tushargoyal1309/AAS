@@ -35,15 +35,23 @@ Public Class frmTurretElements
     Friend WithEvents lblLamp4 As System.Windows.Forms.Label
     Friend WithEvents lblLamp5 As System.Windows.Forms.Label
     Friend WithEvents lblLamp6 As System.Windows.Forms.Label
+    Friend WithEvents lblLamp7 As System.Windows.Forms.Label
+    Friend WithEvents lblLamp8 As System.Windows.Forms.Label
+    Friend WithEvents lblLamp9 As System.Windows.Forms.Label
+    Friend WithEvents lblLamp10 As System.Windows.Forms.Label
     Friend WithEvents Button1 As System.Windows.Forms.Button
     <System.Diagnostics.DebuggerStepThrough()> Private Sub InitializeComponent()
-        Me.lblLamp1 = New System.Windows.Forms.Label
-        Me.lblLamp2 = New System.Windows.Forms.Label
-        Me.lblLamp3 = New System.Windows.Forms.Label
-        Me.lblLamp4 = New System.Windows.Forms.Label
-        Me.lblLamp5 = New System.Windows.Forms.Label
-        Me.lblLamp6 = New System.Windows.Forms.Label
-        Me.Button1 = New System.Windows.Forms.Button
+        Me.lblLamp1 = New System.Windows.Forms.Label()
+        Me.lblLamp2 = New System.Windows.Forms.Label()
+        Me.lblLamp3 = New System.Windows.Forms.Label()
+        Me.lblLamp4 = New System.Windows.Forms.Label()
+        Me.lblLamp5 = New System.Windows.Forms.Label()
+        Me.lblLamp6 = New System.Windows.Forms.Label()
+        Me.lblLamp7 = New System.Windows.Forms.Label()
+        Me.lblLamp8 = New System.Windows.Forms.Label()
+        Me.lblLamp9 = New System.Windows.Forms.Label()
+        Me.lblLamp10 = New System.Windows.Forms.Label()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'lblLamp1
@@ -61,7 +69,7 @@ Public Class frmTurretElements
         '
         Me.lblLamp2.BackColor = System.Drawing.Color.Gainsboro
         Me.lblLamp2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblLamp2.Location = New System.Drawing.Point(148, 78)
+        Me.lblLamp2.Location = New System.Drawing.Point(142, 49)
         Me.lblLamp2.Name = "lblLamp2"
         Me.lblLamp2.Size = New System.Drawing.Size(64, 24)
         Me.lblLamp2.TabIndex = 1
@@ -73,7 +81,7 @@ Public Class frmTurretElements
         Me.lblLamp3.BackColor = System.Drawing.Color.Gainsboro
         Me.lblLamp3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblLamp3.ForeColor = System.Drawing.Color.LimeGreen
-        Me.lblLamp3.Location = New System.Drawing.Point(148, 130)
+        Me.lblLamp3.Location = New System.Drawing.Point(159, 94)
         Me.lblLamp3.Name = "lblLamp3"
         Me.lblLamp3.Size = New System.Drawing.Size(64, 24)
         Me.lblLamp3.TabIndex = 2
@@ -84,7 +92,7 @@ Public Class frmTurretElements
         '
         Me.lblLamp4.BackColor = System.Drawing.Color.Gainsboro
         Me.lblLamp4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblLamp4.Location = New System.Drawing.Point(82, 166)
+        Me.lblLamp4.Location = New System.Drawing.Point(142, 133)
         Me.lblLamp4.Name = "lblLamp4"
         Me.lblLamp4.Size = New System.Drawing.Size(64, 24)
         Me.lblLamp4.TabIndex = 3
@@ -95,7 +103,7 @@ Public Class frmTurretElements
         '
         Me.lblLamp5.BackColor = System.Drawing.Color.Gainsboro
         Me.lblLamp5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblLamp5.Location = New System.Drawing.Point(12, 131)
+        Me.lblLamp5.Location = New System.Drawing.Point(120, 168)
         Me.lblLamp5.Name = "lblLamp5"
         Me.lblLamp5.Size = New System.Drawing.Size(64, 24)
         Me.lblLamp5.TabIndex = 4
@@ -106,20 +114,67 @@ Public Class frmTurretElements
         '
         Me.lblLamp6.BackColor = System.Drawing.Color.Gainsboro
         Me.lblLamp6.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblLamp6.Location = New System.Drawing.Point(12, 77)
+        Me.lblLamp6.Location = New System.Drawing.Point(73, 192)
         Me.lblLamp6.Name = "lblLamp6"
         Me.lblLamp6.Size = New System.Drawing.Size(64, 24)
         Me.lblLamp6.TabIndex = 5
         Me.lblLamp6.Text = "6-As"
         Me.lblLamp6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
+        'lblLamp7
+        '
+        Me.lblLamp7.BackColor = System.Drawing.Color.Gainsboro
+        Me.lblLamp7.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblLamp7.ForeColor = System.Drawing.Color.LimeGreen
+        Me.lblLamp7.Location = New System.Drawing.Point(12, 168)
+        Me.lblLamp7.Name = "lblLamp7"
+        Me.lblLamp7.Size = New System.Drawing.Size(64, 24)
+        Me.lblLamp7.TabIndex = 6
+        Me.lblLamp7.Text = "7-Re"
+        Me.lblLamp7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'lblLamp8
+        '
+        Me.lblLamp8.BackColor = System.Drawing.Color.Gainsboro
+        Me.lblLamp8.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblLamp8.Location = New System.Drawing.Point(0, 131)
+        Me.lblLamp8.Name = "lblLamp8"
+        Me.lblLamp8.Size = New System.Drawing.Size(64, 24)
+        Me.lblLamp8.TabIndex = 7
+        Me.lblLamp8.Text = "8-Rh"
+        Me.lblLamp8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'lblLamp9
+        '
+        Me.lblLamp9.BackColor = System.Drawing.Color.Gainsboro
+        Me.lblLamp9.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblLamp9.Location = New System.Drawing.Point(0, 94)
+        Me.lblLamp9.Name = "lblLamp9"
+        Me.lblLamp9.Size = New System.Drawing.Size(64, 24)
+        Me.lblLamp9.TabIndex = 8
+        Me.lblLamp9.Text = "9-Mh"
+        Me.lblLamp9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'lblLamp10
+        '
+        Me.lblLamp10.BackColor = System.Drawing.Color.Gainsboro
+        Me.lblLamp10.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblLamp10.Location = New System.Drawing.Point(12, 49)
+        Me.lblLamp10.Name = "lblLamp10"
+        Me.lblLamp10.Size = New System.Drawing.Size(64, 24)
+        Me.lblLamp10.TabIndex = 9
+        Me.lblLamp10.Text = "10-Mn"
+        Me.lblLamp10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(100, 100)
+        Me.Button1.BackColor = System.Drawing.Color.Maroon
+        Me.Button1.Location = New System.Drawing.Point(96, 94)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(24, 24)
+        Me.Button1.Size = New System.Drawing.Size(30, 34)
         Me.Button1.TabIndex = 7
         Me.Button1.Text = "X"
+        Me.Button1.UseVisualStyleBackColor = False
         '
         'frmTurretElements
         '
@@ -127,6 +182,10 @@ Public Class frmTurretElements
         Me.BackColor = System.Drawing.Color.Gainsboro
         Me.ClientSize = New System.Drawing.Size(225, 225)
         Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.lblLamp10)
+        Me.Controls.Add(Me.lblLamp9)
+        Me.Controls.Add(Me.lblLamp8)
+        Me.Controls.Add(Me.lblLamp7)
         Me.Controls.Add(Me.lblLamp6)
         Me.Controls.Add(Me.lblLamp5)
         Me.Controls.Add(Me.lblLamp4)
@@ -201,6 +260,14 @@ Public Class frmTurretElements
                             lblLamp5.ForeColor = Color.PaleVioletRed 'Color.LimeGreen  
                         Case 6
                             lblLamp6.ForeColor = Color.PaleVioletRed 'Color.LimeGreen  
+                        Case 7
+                            lblLamp7.ForeColor = Color.PaleVioletRed 'Color.LimeGreen  
+                        Case 8
+                            lblLamp8.ForeColor = Color.PaleVioletRed 'Color.LimeGreen  
+                        Case 9
+                            lblLamp9.ForeColor = Color.PaleVioletRed 'Color.LimeGreen  
+                        Case 10
+                            lblLamp10.ForeColor = Color.PaleVioletRed 'Color.LimeGreen 
                     End Select
                 End If
                 Select Case intCount + 1
@@ -216,6 +283,14 @@ Public Class frmTurretElements
                         lblLamp5.Text = "5-" & gobjInst.Lamp.LampParametersCollection(intCount).ElementName
                     Case 6
                         lblLamp6.Text = "6-" & gobjInst.Lamp.LampParametersCollection(intCount).ElementName
+                    Case 7
+                        lblLamp7.Text = "7-" & gobjInst.Lamp.LampParametersCollection(intCount).ElementName
+                    Case 8
+                        lblLamp8.Text = "8-" & gobjInst.Lamp.LampParametersCollection(intCount).ElementName
+                    Case 9
+                        lblLamp9.Text = "9-" & gobjInst.Lamp.LampParametersCollection(intCount).ElementName
+                    Case 10
+                        lblLamp10.Text = "10-" & gobjInst.Lamp.LampParametersCollection(intCount).ElementName
                 End Select
             Next
 

@@ -380,6 +380,7 @@ Public Class clsBgBurnerOptimization ''class for burner optimization
         Dim inttxold, inttyold As Integer
         Dim blnBHOptim As Boolean = True
         Dim lMode As Integer
+        '  Dim tempxval As Integer  '---Mrutunjaya
 
         Try
             If (gstructSettings.AppMode = EnumAppMode.FullVersion_201) Then
@@ -506,7 +507,7 @@ Public Class clsBgBurnerOptimization ''class for burner optimization
                             End If
                             'adval = GetParam2() * 256 + GetParam1()
                             'Else
-                            If (adval >= 6000) Then
+                            If (adval >= 12000) Then 'As we discussed with Satish made changes from 6000 to 12000'
                                 Exit Do
                             End If
                             'If ThTerminate = True Then
@@ -555,15 +556,17 @@ Public Class clsBgBurnerOptimization ''class for burner optimization
 
                             '---display scanned value on graph
                             mobjThreadController.Display(gobjClsAAS203.funcConvertToBurnerHeight(xval).ToString & "|" & abs.ToString)
-
+                            '   tempxval = xval  ' -- Mrutunjaya
                             xval += CONST_BHSCANSTEP
                             i += 1
-                            If Not (gobjCommProtocol.funcPC_END) Then
+                            If Not (gobjCommProtocol.funcPC_END) Then ' -- original code
+                                '      If (tempxval = xvalmax) Then '-- Mrutunjaya
                                 ''serial communication function for PC ens.
+
                                 Exit Do
+                                End If
                             End If
-                        End If
-                        Application.DoEvents()
+                            Application.DoEvents()
                         ''allow apllication to perfrom ita panding work
                     Loop
                 End If

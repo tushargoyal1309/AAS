@@ -1,651 +1,318 @@
-D:\AA203 7.0\AA203 7.0\AAS203\bin\AAS.exe.config
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.vbproj.ResolveComReference.cache
-D:\AA203 7.0\AA203 7.0\AAS203\bin\AAS.exe.manifest
-D:\AA203 7.0\AA203 7.0\AAS203\bin\AAS.application
-D:\AA203 7.0\AA203 7.0\AAS203\bin\AAS.exe
-D:\AA203 7.0\AA203 7.0\AAS203\bin\AAS.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\AAS203Library.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\activereports.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\activereports.viewer.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\AldysGraph.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\AxInterop.SHDocVw.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\BgThread.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\CodeIntellects.Office2003Controls.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\CrystalDecisions.CrystalReports.Engine.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\CrystalDecisions.ReportSource.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\CrystalDecisions.Shared.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\DataObject.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\ErrorHandler.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\GradientPanel.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\GridLayoutPanel.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\Interop.SHDocVw.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\IQOQPQ.exe
-D:\AA203 7.0\AA203 7.0\AAS203\bin\MessageHandler.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\Microsoft.stdformat.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\msdatasrc.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\NETXP.Components.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\netxp.components.extenders.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\netxp.controls.bars.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\NETXP.Controls.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\netxp.controls.docking.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\NETXP.Library.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\NETXP.Win32.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\NumberValidator.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\PeakSymbol.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\RS232SerialComm.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\Spectrascan.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\ValueEditor.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\xpandercontrol.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\xppanel.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\acclListBar.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\vbWindowsUI.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\CrystalDecisions.Windows.Forms.dll
-D:\AA203 7.0\AA203 7.0\AAS203\bin\AAS203Library.pdb
-D:\AA203 7.0\AA203 7.0\AAS203\bin\AAS203Library.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\GridLayoutPanel.pdb
-D:\AA203 7.0\AA203 7.0\AAS203\bin\GridLayoutPanel.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\IQOQPQ.pdb
-D:\AA203 7.0\AA203 7.0\AAS203\bin\IQOQPQ.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\MessageHandler.pdb
-D:\AA203 7.0\AA203 7.0\AAS203\bin\MessageHandler.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\NumberValidator.pdb
-D:\AA203 7.0\AA203 7.0\AAS203\bin\NumberValidator.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\RS232SerialComm.pdb
-D:\AA203 7.0\AA203 7.0\AAS203\bin\RS232SerialComm.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\ValueEditor.pdb
-D:\AA203 7.0\AA203 7.0\AAS203\bin\ValueEditor.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\DataObject.pdb
-D:\AA203 7.0\AA203 7.0\AAS203\bin\netxp.components.extenders.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\netxp.controls.bars.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\netxp.controls.docking.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\NETXP.Library.xml
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.vbprojResolveAssemblyReference.cache
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmActivityLog.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAddUser.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAuthentication.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmChangePassword.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmDeleteLogs.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmLogin.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmUserPermissions.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.AutoSampler.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.AutoSamplerInterface.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSamplerStatus.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSampler.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSamplerComPort.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSampPosn.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmCoordinatePositions.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmTimings.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.RS232SerialComm.frmMessage1.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.AASGraph.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmGraphScale.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmSelectPeakEdit.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.RepeatResultsControl.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.clsDataGridTextBoxColumn.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmLampPlacements_201.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder_201.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmEnergySpectrumDBMode.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmTimeScanDBMode.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmUVScanningSpectrumDBMode.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAASInitialisation.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAboutUs.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalysis.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmBHParameter.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmBurnerOptimisation.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmChangeLampParameters.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmChangeScale.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmCommPorts_Selection.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmCookBook.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmD2PeakSearch.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmDataFiles.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmDeleteStdNSam.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmEmissionMode.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmEnergySpectrumMode.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmFlameStatusDisplay.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmHelpAbout.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmImportFile.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmInstrumentParameters.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmLampOptimisation.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmLampPlacements.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmLoadAnalysis.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmLoadMethod.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmMDIMain.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmMessage1.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmMessageFlame.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmMethod.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmMethodAnalysisParameters.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmNewMethod.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmParameter.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmPeakPicks.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmPMT.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmReportOptions.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmSampleParameters.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmSpectrumPeakValley.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmSplash.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmStandardConcentration.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmStandardGraph.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmStatus.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmTimeScanMode.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmTurretElements.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmTurretOptimisation.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmUVQuantitativeAnalysis.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmUVScanningSpectrumMode.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmViewRepeatResults.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmViewResults.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmYChangeScale.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder2.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.clsPrintDocument.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.Form1.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmTextReportViewer.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmWebReportViewer.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAbout.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmChangePort.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmCommand.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmCommandTest.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmMDIMainService.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmServiceRoutines.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalogDB.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmMonochromatorDB.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmPassword.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalog.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoIgnition.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmEditValues.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmEditValues_HCLCurrent.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmManualIgnition.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmMonochromator.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmPrinterType.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmThreshold.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmTurret.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmTest_Analysis.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.frmTest_DataFiles.resources
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS203.vbproj.GenerateResource.Cache
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS.exe.licenses
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS.exe.manifest
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS.application
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS.exe
-D:\AA203 7.0\AA203 7.0\AAS203\obj\Release\AAS.xml
-D:\AA203 7.0\AA203 7.0\AAS203\bin\stdole.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\AAS.exe.config
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.vbproj.ResolveComReference.cache
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS.exe
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\AAS.exe.manifest
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\AAS.application
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\AAS.exe
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\AAS.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\AAS203Library.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\AldysGraph.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\AxInterop.SHDocVw.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\BgThread.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\CodeIntellects.Office2003Controls.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\CrystalDecisions.CrystalReports.Engine.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\CrystalDecisions.ReportSource.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\CrystalDecisions.Shared.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\DataObject.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\ErrorHandler.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\GridLayoutPanel.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\IQOQPQ.exe
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\MessageHandler.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\netxp.components.extenders.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\netxp.controls.bars.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\netxp.controls.docking.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\NETXP.Library.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\NETXP.Win32.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\NumberValidator.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\PeakSymbol.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\RS232SerialComm.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\Spectrascan.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\ValueEditor.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\xpandercontrol.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\xppanel.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\acclListBar.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\vbWindowsUI.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\CrystalDecisions.Windows.Forms.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\CrystalPluginMgrLib.dll
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\AAS203Library.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\AAS203Library.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\GridLayoutPanel.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\GridLayoutPanel.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\IQOQPQ.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\IQOQPQ.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\MessageHandler.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\MessageHandler.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\NumberValidator.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\NumberValidator.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\RS232SerialComm.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\RS232SerialComm.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\ValueEditor.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\ValueEditor.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\DataObject.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\netxp.components.extenders.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\NETXP.Controls.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\netxp.controls.bars.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\netxp.controls.docking.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\NETXP.Library.xml
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.vbprojResolveAssemblyReference.cache
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmActivityLog.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAddUser.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAuthentication.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmChangePassword.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmDeleteLogs.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmLogin.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmUserPermissions.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.AutoSampler.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.AutoSamplerInterface.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSamplerStatus.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSampler.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSamplerComPort.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSampPosn.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmCoordinatePositions.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmTimings.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.RS232SerialComm.frmMessage1.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.AASGraph.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmGraphScale.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmSelectPeakEdit.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.RepeatResultsControl.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.clsDataGridTextBoxColumn.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmLampPlacements_201.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder_201.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmEnergySpectrumDBMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmTimeScanDBMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmUVScanningSpectrumDBMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAASInitialisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAboutUs.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmBHParameter.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmBurnerOptimisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmChangeLampParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmChangeScale.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmCommPorts_Selection.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmCookBook.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmD2PeakSearch.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmDataFiles.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmDeleteStdNSam.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmEmissionMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmEnergySpectrumMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmFlameStatusDisplay.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmHelpAbout.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmImportFile.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmInstrumentParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmLampOptimisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmLampPlacements.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmLoadAnalysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmLoadMethod.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmMDIMain.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmMessage1.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmMessageFlame.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmMethod.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmMethodAnalysisParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmNewMethod.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmParameter.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmPeakPicks.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmPMT.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmReportOptions.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmSampleParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmSpectrumPeakValley.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmSplash.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmStandardConcentration.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmStandardGraph.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmStatus.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmTimeScanMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmTurretElements.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmTurretOptimisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmUVQuantitativeAnalysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmUVScanningSpectrumMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmViewRepeatResults.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmViewResults.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmYChangeScale.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder2.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.clsPrintDocument.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.Form1.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmTextReportViewer.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmWebReportViewer.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAbout.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmChangePort.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmCommand.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmCommandTest.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmMDIMainService.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmServiceRoutines.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalogDB.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmMonochromatorDB.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmPassword.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalog.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoIgnition.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmEditValues.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmEditValues_HCLCurrent.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmManualIgnition.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmMonochromator.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmPrinterType.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmThreshold.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmTurret.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmTest_Analysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.frmTest_DataFiles.resources
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS203.vbproj.GenerateResource.Cache
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS.exe.licenses
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS.exe.manifest
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\obj\Release\AAS.application
-C:\Users\getit\Documents\Projects\AA203 7.0\AAS203\bin\stdole.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\AAS.exe.config
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.vbproj.ResolveComReference.cache
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS.exe
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\AAS.exe.manifest
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\AAS.application
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\AAS.exe
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\AAS.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\AAS203Library.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\AldysGraph.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\AxInterop.SHDocVw.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\BgThread.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\CodeIntellects.Office2003Controls.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\CrystalDecisions.CrystalReports.Engine.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\CrystalDecisions.ReportSource.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\CrystalDecisions.Shared.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\DataObject.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\ErrorHandler.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\GridLayoutPanel.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\IQOQPQ.exe
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\MessageHandler.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\netxp.components.extenders.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\netxp.controls.bars.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\netxp.controls.docking.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\NETXP.Library.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\NETXP.Win32.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\NumberValidator.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\PeakSymbol.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\RS232SerialComm.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\Spectrascan.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\ValueEditor.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\xpandercontrol.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\xppanel.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\acclListBar.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\vbWindowsUI.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\CrystalDecisions.Windows.Forms.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\CrystalPluginMgrLib.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\stdole.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\AAS203Library.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\AAS203Library.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\GridLayoutPanel.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\GridLayoutPanel.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\IQOQPQ.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\IQOQPQ.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\MessageHandler.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\MessageHandler.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\NumberValidator.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\NumberValidator.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\RS232SerialComm.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\RS232SerialComm.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\ValueEditor.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\ValueEditor.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\DataObject.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\netxp.components.extenders.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\NETXP.Controls.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\netxp.controls.bars.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\netxp.controls.docking.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\bin\NETXP.Library.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.vbprojResolveAssemblyReference.cache
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmActivityLog.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAddUser.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAuthentication.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmChangePassword.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmDeleteLogs.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmFirstTimeInstallation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmLogin.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmUserPermissions.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.AutoSampler.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.AutoSamplerInterface.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSamplerStatus.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSampler.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSamplerComPort.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSampPosn.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmCoordinatePositions.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmTimings.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.RS232SerialComm.frmMessage1.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.AASGraph.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmGraphScale.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmSelectPeakEdit.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.RepeatResultsControl.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.clsDataGridTextBoxColumn.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmLampPlacements_201.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder_201.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmEnergySpectrumDBMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmTimeScanDBMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmUVScanningSpectrumDBMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAASInitialisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAboutUs.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmBHParameter.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmBurnerOptimisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmChangeLampParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmChangeScale.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmCommPorts_Selection.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmCookBook.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmD2PeakSearch.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmDataFiles.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmDeleteStdNSam.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmEmissionMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmEnergySpectrumMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmFlameStatusDisplay.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmHelpAbout.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmImportFile.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmInstrumentParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmLampOptimisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmLampPlacements.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmLoadAnalysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmLoadMethod.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmMDIMain.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmMessage1.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmMessageFlame.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmMethod.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmMethodAnalysisParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmNewMethod.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmParameter.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmPeakPicks.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmPMT.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmReportOptions.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmSampleParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmSpectrumPeakValley.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmSplash.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmStandardConcentration.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmStandardGraph.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmStatus.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmTimeScanMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmTurretElements.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmTurretOptimisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmUVQuantitativeAnalysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmUVScanningSpectrumMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmViewRepeatResults.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmViewResults.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmYChangeScale.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder2.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.clsPrintDocument.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.Form1.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmTextReportViewer.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmWebReportViewer.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAbout.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmChangePort.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmCommand.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmCommandTest.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmMDIMainService.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmServiceRoutines.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalogDB.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmMonochromatorDB.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmPassword.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalog.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoIgnition.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmEditValues.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmEditValues_HCLCurrent.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmManualIgnition.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmMonochromator.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmPrinterType.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmThreshold.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmTurret.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmTest_Analysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.frmTest_DataFiles.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS203.vbproj.GenerateResource.Cache
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS.exe.licenses
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS.exe.manifest
-C:\Users\getit\Documents\Projects\AA203 7.0 Old\AA203 7.0\AAS203\obj\Release\AAS.application
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\AAS.exe.config
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\AAS.exe.manifest
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\AAS.application
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\AAS.exe
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\AAS.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\AAS203Library.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\AldysGraph.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\AxInterop.SHDocVw.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\BgThread.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\CodeIntellects.Office2003Controls.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\CrystalDecisions.CrystalReports.Engine.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\CrystalDecisions.ReportSource.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\CrystalDecisions.Shared.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\DataObject.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\ErrorHandler.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\GridLayoutPanel.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\IQOQPQ.exe
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\MessageHandler.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\netxp.components.extenders.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\netxp.controls.bars.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\netxp.controls.docking.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\NETXP.Library.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\NETXP.Win32.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\NumberValidator.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\PeakSymbol.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\RS232SerialComm.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\Spectrascan.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\ValueEditor.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\xpandercontrol.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\xppanel.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\acclListBar.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\vbWindowsUI.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\CrystalDecisions.Windows.Forms.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\stdole.dll
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\AAS203Library.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\AAS203Library.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\GridLayoutPanel.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\GridLayoutPanel.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\IQOQPQ.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\IQOQPQ.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\MessageHandler.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\MessageHandler.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\NumberValidator.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\NumberValidator.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\RS232SerialComm.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\RS232SerialComm.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\ValueEditor.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\ValueEditor.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\DataObject.pdb
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\netxp.components.extenders.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\netxp.controls.bars.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\netxp.controls.docking.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\bin\NETXP.Library.xml
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.vbprojResolveAssemblyReference.cache
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.vbproj.ResolveComReference.cache
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmActivityLog.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAddUser.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAuthentication.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmChangePassword.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmDeleteLogs.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmFirstTimeInstallation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmLogin.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmUserPermissions.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.AutoSampler.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.AutoSamplerInterface.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSamplerStatus.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSampler.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSamplerComPort.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoSampPosn.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmCoordinatePositions.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmTimings.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.RS232SerialComm.frmMessage1.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.AASGraph.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmGraphScale.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmSelectPeakEdit.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.RepeatResultsControl.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.clsDataGridTextBoxColumn.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmLampPlacements_201.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder_201.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmEnergySpectrumDBMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmTimeScanDBMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmUVScanningSpectrumDBMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAASInitialisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAboutUs.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmBHParameter.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmBurnerOptimisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmChangeLampParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmChangeScale.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmCommPorts_Selection.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmCookBook.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmD2PeakSearch.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmDataFiles.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmDeleteStdNSam.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmEmissionMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmEnergySpectrumMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmFlameStatusDisplay.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmHelpAbout.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmImportFile.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmInstrumentParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmLampOptimisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmLampPlacements.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmLoadAnalysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmLoadMethod.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmMDIMain.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmMessage1.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmMessageFlame.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmMethod.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmMethodAnalysisParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmNewMethod.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmParameter.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmPeakPicks.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmPMT.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmReportOptions.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmSampleParameters.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmSpectrumPeakValley.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmSplash.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmStandardConcentration.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmStandardGraph.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmStatus.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmTimeScanMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmTurretElements.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmTurretOptimisation.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmUVQuantitativeAnalysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmUVScanningSpectrumMode.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmViewRepeatResults.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmViewResults.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmYChangeScale.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmZeroOrder2.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.Resources.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.clsPrintDocument.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.Form1.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmTextReportViewer.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmWebReportViewer.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAbout.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmChangePort.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmCommand.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmCommandTest.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmMDIMainService.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmServiceRoutines.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalogDB.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmMonochromatorDB.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmPassword.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAnalog.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmAutoIgnition.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmEditValues.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmEditValues_HCLCurrent.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmManualIgnition.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmMonochromator.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmPrinterType.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmThreshold.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmTurret.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmTest_Analysis.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.frmTest_DataFiles.resources
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS203.vbproj.GenerateResource.Cache
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS.exe.licenses
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS.exe.manifest
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS.application
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS.exe
-C:\Users\getit\Documents\Projects\AA203 7.0 Tushar\AA203 7.0\AAS203\obj\Release\AAS.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\AAS.exe.config
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\AAS.exe.manifest
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\AAS.application
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\AAS.exe
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\AAS.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\AAS203Library.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\AldysGraph.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\AxInterop.SHDocVw.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\BgThread.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\CodeIntellects.Office2003Controls.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\CrystalDecisions.ReportSource.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\CrystalDecisions.Shared.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\DataObject.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\ErrorHandler.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\GridLayoutPanel.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\IQOQPQ.exe
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\MessageHandler.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\netxp.components.extenders.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\netxp.controls.bars.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\netxp.controls.docking.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\NETXP.Library.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\NETXP.Win32.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\NumberValidator.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\PeakSymbol.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\RS232SerialComm.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\Spectrascan.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\ValueEditor.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\xpandercontrol.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\xppanel.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\acclListBar.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\vbWindowsUI.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\CrystalDecisions.Windows.Forms.dll
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\AAS203Library.pdb
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\AAS203Library.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\GridLayoutPanel.pdb
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\GridLayoutPanel.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\IQOQPQ.pdb
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\IQOQPQ.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\MessageHandler.pdb
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\MessageHandler.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\NumberValidator.pdb
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\NumberValidator.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\RS232SerialComm.pdb
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\RS232SerialComm.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\ValueEditor.pdb
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\ValueEditor.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\DataObject.pdb
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\netxp.components.extenders.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\netxp.controls.bars.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\netxp.controls.docking.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\NETXP.Library.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.vbprojResolveAssemblyReference.cache
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.vbproj.ResolveComReference.cache
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmActivityLog.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAddUser.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAuthentication.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmChangePassword.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmDeleteLogs.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmFirstTimeInstallation.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmLogin.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmUserPermissions.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.AutoSampler.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.AutoSamplerInterface.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAutoSamplerStatus.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAutoSampler.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAutoSamplerComPort.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAutoSampPosn.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmCoordinatePositions.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmTimings.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.RS232SerialComm.frmMessage1.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.AASGraph.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmGraphScale.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmSelectPeakEdit.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.RepeatResultsControl.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.clsDataGridTextBoxColumn.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmLampPlacements_201.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmZeroOrder_201.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmEnergySpectrumDBMode.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmTimeScanDBMode.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmUVScanningSpectrumDBMode.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAASInitialisation.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAboutUs.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAnalysis.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmBHParameter.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmBurnerOptimisation.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmChangeLampParameters.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmChangeScale.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmCommPorts_Selection.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmCookBook.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmD2PeakSearch.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmDataFiles.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmDeleteStdNSam.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmEmissionMode.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmEnergySpectrumMode.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmFlameStatusDisplay.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmHelpAbout.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmImportFile.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmInstrumentParameters.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmLampOptimisation.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmLampPlacements.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmLoadAnalysis.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmLoadMethod.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmMDIMain.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmMessage1.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmMessageFlame.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmMethod.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmMethodAnalysisParameters.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmNewMethod.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmParameter.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmPeakPicks.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmPMT.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmReportOptions.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmSampleParameters.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmSpectrumPeakValley.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmSplash.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmStandardConcentration.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmStandardGraph.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmStatus.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmTimeScanMode.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmTurretElements.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmTurretOptimisation.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmUVQuantitativeAnalysis.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmUVScanningSpectrumMode.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmViewRepeatResults.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmViewResults.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmYChangeScale.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmZeroOrder.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmZeroOrder2.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.Resources.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.clsPrintDocument.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.Form1.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmTextReportViewer.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmWebReportViewer.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAbout.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmChangePort.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmCommand.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmCommandTest.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmMDIMainService.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmServiceRoutines.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAnalogDB.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmMonochromatorDB.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmPassword.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAnalog.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmAutoIgnition.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmEditValues.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmEditValues_HCLCurrent.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmManualIgnition.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmMonochromator.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmPrinterType.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmThreshold.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmTurret.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmTest_Analysis.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.frmTest_DataFiles.resources
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS203.vbproj.GenerateResource.Cache
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS.exe.licenses
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS.exe.manifest
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS.application
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS.exe
+D:\PROJECTS\AA203Tushar\AA203\AAS203\obj\Release\AAS.xml
+D:\PROJECTS\AA203Tushar\AA203\AAS203\bin\stdole.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\AAS.exe.config
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS.exe
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\AAS.exe.manifest
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\AAS.application
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\AAS.exe
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\AAS.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\AAS203Library.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\AldysGraph.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\AxInterop.SHDocVw.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\BgThread.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\CodeIntellects.Office2003Controls.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\DataObject.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\ErrorHandler.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\GridLayoutPanel.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\IQOQPQ.exe
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\MessageHandler.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\netxp.components.extenders.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\netxp.controls.bars.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\netxp.controls.docking.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\NETXP.Library.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\NETXP.Win32.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\NumberValidator.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\PeakSymbol.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\RS232SerialComm.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\Spectrascan.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\ValueEditor.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\xpandercontrol.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\xppanel.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\acclListBar.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\vbWindowsUI.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\AAS203Library.pdb
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\AAS203Library.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\GridLayoutPanel.pdb
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\GridLayoutPanel.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\IQOQPQ.pdb
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\IQOQPQ.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\MessageHandler.pdb
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\MessageHandler.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\NumberValidator.pdb
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\NumberValidator.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\RS232SerialComm.pdb
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\RS232SerialComm.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\ValueEditor.pdb
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\ValueEditor.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\DataObject.pdb
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\netxp.components.extenders.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\netxp.controls.bars.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\netxp.controls.docking.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\bin\NETXP.Library.xml
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmActivityLog.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAddUser.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAuthentication.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmChangePassword.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmDeleteLogs.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmFirstTimeInstallation.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmLogin.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmUserPermissions.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.AutoSampler.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.AutoSamplerInterface.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAutoSamplerStatus.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAutoSampler.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAutoSamplerComPort.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAutoSampPosn.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmCoordinatePositions.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmTimings.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.RS232SerialComm.frmMessage1.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.AASGraph.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmGraphScale.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmSelectPeakEdit.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.RepeatResultsControl.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.clsDataGridTextBoxColumn.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmLampPlacements_201.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmZeroOrder_201.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmEnergySpectrumDBMode.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmTimeScanDBMode.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmUVScanningSpectrumDBMode.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAASInitialisation.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAboutUs.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAnalysis.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmBHParameter.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmBurnerOptimisation.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmChangeLampParameters.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmChangeScale.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmCommPorts_Selection.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmCookBook.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmD2PeakSearch.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmDataFiles.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmDeleteStdNSam.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmEmissionMode.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmEnergySpectrumMode.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmFlameStatusDisplay.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmHelpAbout.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmImportFile.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmInstrumentParameters.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmLampOptimisation.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmLampPlacements.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmLoadAnalysis.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmLoadMethod.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmMDIMain.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmMessage1.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmMessageFlame.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmMethod.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmMethodAnalysisParameters.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmNewMethod.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmParameter.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmPeakPicks.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmPMT.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmReportOptions.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmSampleParameters.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmSpectrumPeakValley.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmSplash.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmStandardConcentration.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmStandardGraph.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmStatus.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmTimeScanMode.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmTurretElements.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmTurretOptimisation.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmUVQuantitativeAnalysis.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmUVScanningSpectrumMode.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmViewRepeatResults.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmViewResults.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmYChangeScale.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmZeroOrder.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmZeroOrder2.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.Resources.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.clsPrintDocument.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.Form1.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmTextReportViewer.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmWebReportViewer.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAbout.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmChangePort.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmCommand.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmCommandTest.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmMDIMainService.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmServiceRoutines.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAnalogDB.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmMonochromatorDB.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmPassword.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAnalog.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmAutoIgnition.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmEditValues.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmEditValues_HCLCurrent.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmManualIgnition.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmMonochromator.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmPrinterType.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmThreshold.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmTurret.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmTest_Analysis.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.frmTest_DataFiles.resources
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS203.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS.exe.licenses
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS.exe.manifest
+C:\Users\Administrator\Desktop\Mrutyunjay\Updated AAS\AA203_Modified_Hyd\AAS203\obj\Release\AAS.application

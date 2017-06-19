@@ -42,7 +42,7 @@ Module modGlobalFunctions
         Try
             '---convert adc filter reading into millivolt by using 
             '---following formula
-            gFuncGetmv = (CDbl(intInVal) - CDbl(2047.0)) / 4096.0 * 10000.0
+            gFuncGetmv = (CDbl(intInVal) - CDbl(4095.0)) / 8192.0 * 10000.0
         Catch ex As Exception
             '---------------------------------------------------------
             'Error Handling and logging
@@ -74,7 +74,7 @@ Module modGlobalFunctions
         Try
             ' Return Emission value from given integer value
             ' as adc filter reading
-            Return (CDbl(intInVal) - 2047.0) / 4096.0 * 200.0
+            Return (CDbl(intInVal) - 4095.0) / 8192.0 * 200.0
 
         Catch ex As Exception
             '---------------------------------------------------------
@@ -142,7 +142,7 @@ Module modGlobalFunctions
             ' Return Abs value from given integer value
             'abs = ((double)adval-(double)2047.0)/(double)4096.0*(double)5.0;
 
-            Return (CDbl(intInVal) - 2047.0) / 4096.0 * 5.0
+            Return (CDbl(intInVal) - 4095.0) / 8192.0 * 5.0
 
         Catch ex As Exception
             '---------------------------------------------------------
@@ -211,19 +211,19 @@ Module modGlobalFunctions
             ' Convert ADC Value into given calibration mode
             Select Case mode
                 '1.	If calibration mode is AA,AABGC,MABS,AABGCSR then return
-                '(ADC filter reading - 2047.0) / 4096.0 * 5.0
-            Case EnumCalibrationMode.AA, EnumCalibrationMode.AABGC, EnumCalibrationMode.MABS, EnumCalibrationMode.AABGCSR
+                '(ADC filter reading - 4095.0) / 8192.0 * 5.0
+                Case EnumCalibrationMode.AA, EnumCalibrationMode.AABGC, EnumCalibrationMode.MABS, EnumCalibrationMode.AABGCSR
                     ' Conver into ABS Mode
                     dblVal = gFuncGetAbs(intInVal)
 
                     '2.	If calibration mode is HCLE,D2E,Emission then return
-                    '(ADC filter reading - 2047.0) / 4096.0 * 200.0
+                    '(ADC filter reading - 4095.0) / 8192.0 * 200.0
                 Case EnumCalibrationMode.HCLE, EnumCalibrationMode.EMISSION, EnumCalibrationMode.D2E
                     ' Conver into Emission or Energy Mode
                     dblVal = gFuncGetEmission(intInVal)
 
                     '3.	If calibration mode is selftest then return
-                    '(ADC filter reading - 2047.0) / 4096.0 * 10000.0
+                    '(ADC filter reading - 4095.0) / 8192.0 * 10000.0
                 Case EnumCalibrationMode.SELFTEST
                     ' Conver into Mv for Self Test Mode
                     dblVal = gFuncGetmv(intInVal)
@@ -830,7 +830,7 @@ Module modGlobalFunctions
                     End If
                 Next
             Else
-                For intCount = 0 To 5
+                For intCount = 0 To 9
                     'If gobjInst.Lamp.LampParametersCollection.item(intCount).ElementName <> "" Then
                     If gobjInst.Lamp.LampParametersCollection.item(intCount).LampOptimizePosition <> 0 Then
                         Exit For
@@ -1141,7 +1141,7 @@ Module modGlobalFunctions
             ' set lamp parameters of Inst. object at given position
             ' given position is "intPos"
             If Not objLamp Is Nothing Then
-                If intPos >= 0 And intPos < 6 Then
+                If intPos >= 0 And intPos < 10 Then
                     If gobjInst.Lamp.LampParametersCollection.item(intPos).ElementName <> objLamp.ElementName Then
                         gobjInst.Lamp.LampParametersCollection.item(intPos).LampOptimizePosition = -1
                     End If
@@ -1248,7 +1248,7 @@ Module modGlobalFunctions
         Try
             ' Get lamp parameters for selected position from Inst. object
             If Not objLamp Is Nothing Then
-                If intPos >= 0 And intPos < 6 Then
+                If intPos >= 0 And intPos < 10 Then
                     objLamp.Mel = gobjInst.Lamp.LampParametersCollection.item(intPos).Mel
                     objLamp.ElementName = gobjInst.Lamp.LampParametersCollection.item(intPos).ElementName
                     objLamp.AtomicNumber = gobjInst.Lamp.LampParametersCollection.item(intPos).AtomicNumber

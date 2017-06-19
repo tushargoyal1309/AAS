@@ -380,8 +380,8 @@ Public Class frmAnalysis
         '
         'btnReoptimize
         '
-        Me.btnReoptimize.Enabled = False
-        Me.btnReoptimize.EnableFade = False
+        'Me.btnReoptimize.Enabled = False 'code commented by Mrutunjaya/Surajfor enabling reoptimize button in analysis screen
+        'Me.btnReoptimize.EnableFade = False
         Me.btnReoptimize.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnReoptimize.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnReoptimize.Image = CType(resources.GetObject("btnReoptimize.Image"), System.Drawing.Image)
@@ -1200,11 +1200,11 @@ Public Class frmAnalysis
         Application.DoEvents()
         Try
             'Dim BData As Byte
-            If (EnumErrorStatus.AA_CONNECTED) Then
-                btnReoptimize.Enabled = False
-            Else
-                btnReoptimize.Enabled = True
-            End If
+            'If (EnumErrorStatus.AA_CONNECTED) Then 'code commented by Mrutunjaya/Surajfor enabling reoptimize button in analysis screen
+            '    btnReoptimize.Enabled = False
+            'Else
+            '    btnReoptimize.Enabled = True
+            'End If
             ' Disable auto ignition/ extinguish button  for 201 
             If gstructSettings.AppMode = EnumAppMode.FullVersion_201 Then
                 btnIgnite.Enabled = False
@@ -3921,6 +3921,7 @@ Public Class frmAnalysis
                 End If
                 ' if New Analysis is then ....
                 'Saurabh Add to check if 'No' is selected
+                Call gobjCommProtocol.FunChopperON()
                 btnStartStopAnalysis.Text = "End Anal&ysis"
                 mstrAspirationMessage = "Click End Analysis button to Stop Analysis."
                 mobjBgMsgAspirate.AspirationMessage = mstrAspirationMessage
@@ -3932,6 +3933,7 @@ Public Class frmAnalysis
                 End If
                 'mblnAvoidProcessing = False     '10.12.07
                 'Saurabh 10.07.07
+
             Else
                 ' Stop the Analysis before complite the analysis
                 ' Set Aspiration Message and buttons caption
@@ -3944,6 +3946,7 @@ Public Class frmAnalysis
                     gobjMain.mobjfrmMethod.btnNewMethod.Enabled = True
                     gobjMain.mobjfrmMethod.btnLoadMethod.Enabled = True
                 End If
+                Call gobjCommProtocol.FunChopperOFF()
                 'Saurabh 10.07.07
             End If
 
@@ -3964,7 +3967,7 @@ Public Class frmAnalysis
                 End If
                 '#If STD_ADDN Then
                 If Not (gobjNewMethod.StandardAddition) Then
-                    'CurSamp =Method->QuantData->SampTopData;
+                    'CurSamp =Me++thod->QuantData->SampTopData;
                     mobjCurrentSample = gobjNewMethod.QuantitativeDataCollection.Item(mintRunNumberIndex).SampleDataCollection.item(0)
                 End If
                 '#End If
@@ -9669,12 +9672,12 @@ Public Class frmAnalysis
                     End If
 
                     If Not (gobjNewMethod.InstrumentCondition.IsOptimize) Then
-                        If ((gobjNewMethod.OperationMode = EnumOperationMode.MODE_AA Or _
-                              gobjNewMethod.OperationMode = EnumOperationMode.MODE_AABGC Or _
+                        If ((gobjNewMethod.OperationMode = EnumOperationMode.MODE_AA Or
+                              gobjNewMethod.OperationMode = EnumOperationMode.MODE_AABGC Or
                               gobjNewMethod.OperationMode = EnumOperationMode.MODE_SPECT) _
-                              And _
-                              (gobjNewMethod.InstrumentCondition.LampNumber >= 1 And _
-                               gobjNewMethod.InstrumentCondition.LampNumber <= 6)) Then
+                              And
+                              (gobjNewMethod.InstrumentCondition.LampNumber >= 1 And
+                               gobjNewMethod.InstrumentCondition.LampNumber <= 10)) Then
 
                             Call ResetAnaMode(gobjNewMethod.InstrumentCondition.LampNumber)
 

@@ -494,7 +494,7 @@ Public Class clsBgLampOptimization
 
             '---STEP 3 : Set D2 Lamp Current Value as 100
 
-            Call gobjCommProtocol.funcSetD2Cur(100)
+            Call gobjCommProtocol.funcSetD2Cur(300)
 
             '---STEP 4 : Set Calibration Mode
 
@@ -526,7 +526,7 @@ Public Class clsBgLampOptimization
 
             mObjGraph.AldysPane.Legend.IsVisible = False
 
-            mObjGraph.YAxisMin = gFuncGetEnergy(2047)
+            mObjGraph.YAxisMin = gFuncGetEnergy(4095)
             If (blnIsHCLEMode) Then
                 'gFuncGetEnergy(2047.0 + 409.6 * 4)
                 mObjGraph.YAxisMax = 80
